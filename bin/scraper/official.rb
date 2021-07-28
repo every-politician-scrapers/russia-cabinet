@@ -12,7 +12,7 @@ class MemberList
     end
 
     field :position do
-      noko.css('.person_position').text.tidy
+      noko.css('.person_position').text.split(' – ').map(&:tidy)
     end
   end
 
