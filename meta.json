@@ -4,7 +4,7 @@
       "start": "2020-01-21"
     },
     "source": {
-        "url":   "https://government.ru/en/gov/persons/",
+        "url":   "http://government.ru/en/gov/persons/",
         "title": "Senior Russian Government Officials",
         "lang":  {
             "code": "en",
