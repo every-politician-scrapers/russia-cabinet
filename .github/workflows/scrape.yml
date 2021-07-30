@@ -13,12 +13,12 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
-    - name: Install moreutils for ifne
-      run: sudo apt-get install moreutils
-    - name: Install dependencies
+    - name: Install OS dependencies
+      run: sudo apt-get install jq moreutils
+    - name: Install ruby dependencies
       run: bundle install
     - name: Mirror official site
-      run: curl -o html/official.html https://government.ru/en/gov/persons/
+      run: curl -o html/official.html $(jq -r .source.url meta.json)
     - name: Scrape official site
       run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
     - name: Get current wikidata list

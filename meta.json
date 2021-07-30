@@ -1,6 +1,15 @@
 {
-    "cabinet": "Q82455849",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/russia-cabinet",
-    "source_match": "government.ru/en/gov/persons"
+    "cabinet": {
+      "id": "Q82455849",
+      "start": "2020-01-21"
+    },
+    "source": {
+        "url":   "https://government.ru/en/gov/persons/",
+        "title": "Senior Russian Government Officials",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/russia-cabinet"
 }
