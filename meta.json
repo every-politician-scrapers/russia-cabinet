@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Russia",
+      "id": "Q159"
+    },
     "cabinet": {
       "id": "Q82455849",
-      "start": "2020-01-21"
+      "start": "2020-01-21",
+      "parent": "Q1140115"
     },
     "source": {
         "url":   "http://government.ru/en/gov/persons/",
