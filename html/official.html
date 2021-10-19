@@ -35,6 +35,15 @@
                 index_url: '/en/'
             };
         </script>
+        <script type="text/javascript">
+            if(['iPad', 'iPhone', 'iPod'].includes(navigator.platform) || (navigator.userAgent.includes("Mac") && "ontouchend" in document)) {
+		        document.querySelector('html').classList.add('ios')   
+            }
+        </script>
+        <style>
+            html.ios .reader_article_box_video_container {float: none;}
+            html.ios .reader_article_box_video_container .reader_video-player {width: 100%;}
+        </style>
         <!--[IF lt IE 9]><script type="text/javascript">window.ie_lt9 = true;</script><![ENDIF]-->
         <!--[IF IE 6]><script type="text/javascript" src="/static/js/legacy/ie6dead.js"></script>"><![ENDIF]-->
         <!--[IF lt IE 9]><script type="text/javascript" src="/static/js/legacy/ierange.js"></script><![ENDIF]-->
