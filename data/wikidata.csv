@@ -1,4 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q29865553,Aleksandr Chupriyan,Aleksandr Chupriyan,male,1958-05-23T00:00:00Z,11,,Q17287321,Minister of Emergency Situations,Q29865553-5901c283-43df-219f-e851-58c192c1313b
 Q16664506,Alexander Kozlov,Alexander Kozlov,male,1981-01-02T00:00:00Z,11,http://government.ru/en/gov/persons/,Q107710311,Minister of Natural Resources,Q16664506-AA9FFDC1-B5E9-40F7-A9F1-B7BEB5777AA5
 Q4321847,Alexander Novak,Alexander Novak,male,1971-08-23T00:00:00Z,11,http://government.ru/en/gov/persons/,Q14805701,Deputy Prime Minister,Q4321847-E2261397-8082-4F39-BC66-20BEEED3F9A2
 Q101627335,Alexei Chekunkov,Alexey Chekunkov,male,1980-10-03T00:00:00Z,11,http://government.ru/en/gov/persons/,Q107688664,Minister for the Development of the Russian Far East and Arctic,Q101627335-AA03281C-FDF9-4158-AC32-E3414E0C67F3
@@ -29,7 +30,6 @@ Q15066166,Valery Falkov,Valery Falkov,male,1978-10-18T00:00:00Z,11,http://govern
 Q39390389,Viktoria Abramchenko,Viktoria Abramchenko,female,1975-05-22T00:00:00Z,11,http://government.ru/en/gov/persons/,Q14805701,Deputy Prime Minister,Q39390389-A9791155-E058-4976-A082-8C5805C1C67A
 Q4403799,Vitaly Saveliev,Vitaly Savelyev,male,1954-01-18T00:00:00Z,11,http://government.ru/en/gov/persons/,Q107710272,Minister of Transport,Q4403799-7149A68C-432B-406A-AE44-C0EBB2BDEDBD
 Q1344473,Vladimir Kolokoltsev,Vladimir Kolokoltsev,male,1961-05-11T00:00:00Z,11,https://government.ru/en/gov/persons/,Q4399968,Minister of the Interior,Q1344473-DBDAA5E0-F94D-47DE-A578-9C5531E5825E
-Q26180846,Yevgeny Zinichev,Yevgeny Zinichev,male,1966-08-18T00:00:00Z,11,http://government.ru/en/gov/persons/,Q17287321,"Minister of Civil Defence, Emergencies and Disaster Relief",Q26180846-01C7D4D4-A05E-4324-A65E-BE2792F4AC60
 Q16186988,Yury Borisov,Yuriy Borisov,male,1956-12-31T00:00:00Z,11,http://government.ru/en/gov/persons/,Q14805701,Deputy Prime Minister,Q16186988-9ED1A2A6-A47B-4E60-A701-78656C87CD3B
 Q1320356,Yury Trutnev,Yuri Trutnev,male,1956-03-01T00:00:00Z,11,http://government.ru/en/gov/persons/,Q14805701,Deputy Prime Minister,Q1320356-13434326-4f0e-76c8-53a9-632aa91155ed
 Q1320356,Yury Trutnev,Yuri Trutnev,male,1956-03-01T00:00:00Z,11,http://government.ru/en/gov/persons/,Q107883733,Presidential Plenipotentiary Envoy to the Far Eastern Federal District,Q1320356-A37D0ED5-3E9C-48BB-87FF-2F41E8C985AD
