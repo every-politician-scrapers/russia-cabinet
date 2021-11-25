@@ -1,0 +1,472 @@
+{
+  "title": "Yury Borisov",
+  "pageID": 40079625,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Moscow State University alumni",
+    "Deputy heads of government of the Russian Federation",
+    "21st-century Russian politicians",
+    "Heroes of the Russian Federation",
+    "People from Vyshny Volochyok",
+    "Recipients of the Order \"For Merit to the Fatherland\", 4th class",
+    "Recipients of the Order of Honour (Russia)",
+    "Recipients of the Order \"For Service to the Homeland in the Armed Forces of the USSR\", 3rd class"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yury Ivanovich Borisov (Юрий Иванович Борисов; born 31 December 1956) is a Russian politician who has served as the Deputy Prime Minister of Russia since 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Russia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yury Ivanovich Borisov"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2012 to 2018, he served as the Deputy Minister of Defence.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Russia)"
+                }
+              ]
+            },
+            {
+              "text": "He is a recipient of Order for Service to the Homeland in the Armed Forces of the USSR, 3d degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order for Service to the Homeland in the Armed Forces of the USSR"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Russian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the specialist in the field of radio engineering",
+            "Yury Borisov (scientist)"
+          ],
+          "template": "for"
+        },
+        {
+          "list": [
+            "Ivanovich",
+            "Borisov"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1956",
+          "month": "12",
+          "day": "31",
+          "template": "birth date and age"
+        },
+        {
+          "template": "ussr"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yury Borisov"
+          },
+          "native_name": {
+            "text": "Юрий Борисов"
+          },
+          "native_name_lang": {
+            "text": "ru"
+          },
+          "image": {
+            "text": "Yury_Borisov_official_portrait.png"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Russia for Defence and Space Industry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Russia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 May 2018"
+          },
+          "primeminister": {
+            "text": "Dmitry Medvedev Mikhail Mishustin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dmitry Medvedev"
+              },
+              {
+                "type": "internal",
+                "page": "Mikhail Mishustin"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dmitry Rogozin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dmitry Rogozin"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Minister of Defence"
+          },
+          "minister2": {
+            "text": "Sergey Shoygu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergey Shoygu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 November 2012"
+          },
+          "term_end2": {
+            "text": "18 May 2018"
+          },
+          "birth_date": {
+            "text": "December 31, 1956"
+          },
+          "birth_place": {
+            "text": "Vyshny Volochyok, Kalinin Oblast, Soviet Union (now Russia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vyshny Volochyok"
+              },
+              {
+                "text": "Kalinin Oblast",
+                "type": "internal",
+                "page": "Tver Oblast"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇷🇺"
+          },
+          "branch": {
+            "text": "Banner of the Armed Forces of the Russian Federation (obverse).svg Armed Forces of the Russian Federation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armed Forces of the Russian Federation"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1978 – present"
+          },
+          "rank": {
+            "text": "Class 1 Active State Advisor of the Russian Federation",
+            "links": [
+              {
+                "text": "Class 1 Active State Advisor of the Russian Federation",
+                "type": "internal",
+                "page": "Army General (Russia)"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Order for Service to the Homeland in the Armed Forces of the USSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order for Service to the Homeland in the Armed Forces of the USSR"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Borisov, Yuriy Ivanovich",
+          "url": "http://lib.fedpress.ru/en/node/3771",
+          "publisher": "Federal Press Encyclopedia",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yury Borisov was born on 31 December 1956 in Vyshny Volochyok.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vyshny Volochyok"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Tver Suvorov Military School in 1974 and from Radioelectronics Higher Command School in 1978.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Radioelectronics Higher Command School"
+                }
+              ]
+            },
+            {
+              "text": "In 1980s he studied mathematics at the Faculty of Computational Mathematics and Cybernetics of Moscow State University from which he graduated in 1985.",
+              "links": [
+                {
+                  "text": "Faculty of Computational Mathematics and Cybernetics",
+                  "type": "internal",
+                  "page": "MSU Faculty of Computational Mathematics and Cybernetics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moscow State University"
+                }
+              ]
+            },
+            {
+              "text": "Borisov is married and has two children."
+            },
+            {
+              "text": "For 20 years from 1978 to 1998 he was enlisted into the Armed Forces of both the Soviet Union and Russia.",
+              "links": [
+                {
+                  "text": "Armed Forces",
+                  "type": "internal",
+                  "page": "Soviet Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Soviet Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russia"
+                }
+              ]
+            },
+            {
+              "text": "He was Federal Agency on Industry deputy head in October 2007 and became Deputy Minister of Industry and Trade in July 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal Agency on Industry"
+                },
+                {
+                  "text": "Deputy Minister of Industry and Trade",
+                  "type": "internal",
+                  "page": "Ministry of Industry and Trade (Russia)"
+                }
+              ]
+            },
+            {
+              "text": "He was a Military-Industrial Commissioner for Russia in March 2011 and as of 12 November 2012 under Presidential Decree, Borisov was promoted to Deputy Minister of Defence of the Russian Federation.",
+              "links": [
+                {
+                  "text": "Military-Industrial Commissioner for Russia",
+                  "type": "internal",
+                  "page": "Military-Industrial Commission of Russia"
+                },
+                {
+                  "text": "Presidential Decree",
+                  "type": "internal",
+                  "page": "Decree of the President of Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Defence"
+                },
+                {
+                  "text": "Russian Federation",
+                  "type": "internal",
+                  "page": "Russia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 May 2018, Borisov was nominated as Deputy Prime Minister for Defence and Space Industry in Dmitry Medvedev's Second Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dmitry Medvedev's Second Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 January 2020, he resigned as part of the cabinet, after President Vladimir Putin delivered the 2020 Presidential Address to the Federal Assembly, in which he proposed several amendments to the constitution.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vladimir Putin"
+                },
+                {
+                  "text": "2020 Presidential Address to the Federal Assembly",
+                  "type": "internal",
+                  "page": "2020 Presidential Address to the Federal Assembly"
+                },
+                {
+                  "text": "several amendments to the constitution",
+                  "type": "internal",
+                  "page": "2020 amendments to the Constitution of Russia"
+                }
+              ]
+            },
+            {
+              "text": "He was kept on in Mikhail Mishustin's Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mikhail Mishustin's Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021 he was awarded the Order of the Republic of Serbia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of the Republic of Serbia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Yuriy Borisov",
+          "url": "http://rostec.ru/en/about/board/person/283",
+          "publisher": "Rostec",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://eng.mil.ru/en/management/info.htm?id=10330305@SD_Employee",
+          "title": "Yuriy Borisov",
+          "publisher": "Ministry of Defence of the Russian Federation",
+          "access-date": "27 July 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://en.rian.ru/russia/20121114/177441831.html",
+          "title": "Yury Borisov Appointed Deputy Defense Minister",
+          "publisher": "RIA Novosti",
+          "date": "14 November 2012",
+          "access-date": "27 July 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://ria.ru/politics/20180507/1520072692.html",
+          "title": "Медведев предложил кандидатов в новый состав правительства",
+          "work": "РИА Новости",
+          "access-date": "14 May 2018",
+          "language": "ru",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.independent.co.uk/news/world/europe/dmitry-medvedev-resign-russia-prime-minister-putin-quit-latest-a9284741.html",
+          "title": "Russian PM resigns in shock move as Putin announces dramatic constitutional shake-up",
+          "last": "Carroll",
+          "first": "Oliver",
+          "date": "15 January 2020",
+          "website": "The Independent",
+          "language": "en",
+          "access-date": "17 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Председник Вучић уручио одликовања поводом Дана државности Републике Србије",
+          "url": "https://www.predsednik.rs/pres-centar/vesti/predsednik-vucic-urucio-odlikovanja-povodom-dana-drzavnosti-republike-srbije-29620",
+          "access-date": "24 February 2021",
+          "website": "Председник Републике Србије",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "russian cabinet"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
