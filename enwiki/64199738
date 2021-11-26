@@ -145,8 +145,11 @@
             "links": [
               {
                 "text": "Valid State Counselor of Justice",
-                "type": "internal",
-                "page": ":ru:Действительный государственный советник юстиции"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "ru"
+                }
               },
               {
                 "type": "internal",

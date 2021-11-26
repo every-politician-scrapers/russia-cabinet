@@ -635,8 +635,11 @@
               "links": [
                 {
                   "text": "Expansion in Moscow in 2011",
-                  "type": "internal",
-                  "page": ":ru:Расширение территории Москвы (2011—2012)"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "ru"
+                  }
                 },
                 {
                   "text": "administrative-territorial division",
@@ -930,8 +933,11 @@
               "links": [
                 {
                   "text": "demolished series",
-                  "type": "internal",
-                  "page": ":ru:Программа сноса ветхих пятиэтажек в Москве"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "ru"
+                  }
                 }
               ]
             },
@@ -1058,8 +1064,11 @@
                 },
                 {
                   "text": "Balaklava Valley",
-                  "type": "internal",
-                  "page": ":uk:Балаклавська долина"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "uk"
+                  }
                 },
                 {
                   "text": "Livadiya",
@@ -1214,8 +1223,11 @@
             "links": [
               {
                 "text": "Medal of Merit in the All-Russia Census",
-                "type": "internal",
-                "page": ":ru:Медаль «За заслуги в проведении Всероссийской переписи населения»"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "ru"
+                }
               }
             ]
           },
@@ -1251,8 +1263,11 @@
             "links": [
               {
                 "text": "Order for Service to the Republic of Tatarstan",
-                "type": "internal",
-                "page": ":ru:Орден «За заслуги перед Республикой Татарстан»"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "ru"
+                }
               }
             ]
           },
