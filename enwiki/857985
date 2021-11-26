@@ -99,6 +99,13 @@
         },
         {
           "list": [
+            "Dmitry Medvedev",
+            "Mikhail Mishustin"
+          ],
+          "template": "ublist"
+        },
+        {
+          "list": [
             "Boris Yeltsin Vladimir Putin Dmitry Medvedev Vladimir Putin"
           ],
           "template": "collapsible list"
@@ -185,22 +192,7 @@
             ]
           },
           "primeminister": {
-            "text": "Dmitry Medvedev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dmitry Medvedev"
-              }
-            ]
-          },
-          "[object Object]": {
-            "text": "Mikhail Mishustin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mikhail Mishustin"
-              }
-            ]
+            "text": "Dmitry Medvedev\n\nMikhail Mishustin"
           },
           "president": {
             "text": "Vladimir Putin",

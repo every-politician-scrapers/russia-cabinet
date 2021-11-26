@@ -87,6 +87,12 @@
           "day": "18",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "text": "Sablinskoye",
+          "lan1": "ru",
+          "text1": "Саблинское",
+          "template": "ill"
         }
       ],
       "infoboxes": [
@@ -284,6 +290,14 @@
               "text": "On 10 November, he was appointed the Minister of Energy."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Sablinskoye",
+          "lan1": "ru",
+          "text1": "Саблинское",
+          "template": "ill"
         }
       ],
       "references": [

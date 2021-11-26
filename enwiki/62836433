@@ -361,8 +361,11 @@
             "links": [
               {
                 "text": "Acting State Advisor to the Russian Federation, 1st class",
-                "type": "internal",
-                "page": ":ru:Действительный государственный советник Российской Федерации 1-го класса"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "ru"
+                }
               }
             ]
           },
@@ -2725,8 +2728,11 @@
             "links": [
               {
                 "text": "Acting State Advisor to the Russian Federation, 1st class",
-                "type": "internal",
-                "page": ":ru:Действительный государственный советник Российской Федерации 1-го класса"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "ru"
+                }
               }
             ]
           }

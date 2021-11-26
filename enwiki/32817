@@ -474,6 +474,12 @@
         },
         {
           "list": [
+            "Alexander Lukashenko"
+          ],
+          "template": "ublist"
+        },
+        {
+          "list": [
             "General Secretary"
           ],
           "template": "nowr"
@@ -846,13 +852,7 @@
             ]
           },
           "1namedata7": {
-            "text": "Alexander Lukashenko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexander Lukashenko"
-              }
-            ]
+            "text": "Alexander Lukashenko"
           },
           "2namedata7": {
             "text": "Pavel Borodin",
@@ -12736,6 +12736,22 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Barack_Obama_and_Prime_Minister_Vladimir_Putin.jpg",
           "caption": "Putin receives Barack Obama at his residence in Novo-Ogaryovo, 2009",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "text": "Gorki-9",
+          "lan1": "ru",
+          "text1": "Горки-9",
+          "vertical-align": "sup",
+          "template": "ill"
+        },
+        {
+          "text": "Dolgiye Borody",
+          "lan1": "ru",
+          "text1": "Долгие Бороды (резиденция)",
+          "vertical-align": "sup",
+          "template": "ill"
         }
       ],
       "references": [

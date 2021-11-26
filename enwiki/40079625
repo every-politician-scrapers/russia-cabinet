@@ -397,6 +397,15 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Tver Suvorov Military School",
+          "lan1": "ru",
+          "text1": "Тверское суворовское военное училище",
+          "lt": "Kalinin Suvorov Military School",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "Yuriy Borisov",

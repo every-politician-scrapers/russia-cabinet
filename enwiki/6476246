@@ -1989,8 +1989,11 @@
                 },
                 {
                   "text": "ru",
-                  "type": "internal",
-                  "page": ":ru:Матвиенко, Сергей Владимирович (бизнесмен)"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "ru"
+                  }
                 }
               ]
             },
