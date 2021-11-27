@@ -5824,6 +5824,8 @@
         },
         {
           "title": "Kremlin Slams U.S. Bid Not to Recognize 'Autocrat' Vladimir Putin as President after 2024",
+          "website": "Newsweek",
+          "date": "19 November 2021",
           "url": "https://www.newsweek.com/russia-vladimir-putin-kremlin-peskov-steve-cohen-joe-wilson-congress-dictator-1651261",
           "url-status": "live",
           "template": "citation",
@@ -6135,6 +6137,7 @@
           "last": "Åslund",
           "first": "Anders",
           "website": "Atlantic Council",
+          "date": "6 May 2019",
           "access-date": "16 June 2019",
           "template": "citation",
           "type": "web"
@@ -9153,9 +9156,10 @@
         {
           "title": "Silvio Berlusconi and Vladimir Putin: the odd couple",
           "url": "https://www.ft.com/content/2d2a9afe-6829-11e5-97d0-1456a776a4f5",
-          "website": "www.ft.com",
+          "newspaper": "Financial Times",
+          "date": "2 October 2015",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.independent.co.uk/news/people/old-friends-putin-and-berlusconi-enjoy-reunion-in-milan-9802327.html",
@@ -9168,9 +9172,10 @@
           "url": "http://www.ft.com/cms/s/2/e3ace220-a252-11e4-9630-00144feab7de.html",
           "title": "Battle for Ukraine: How the west lost Putin",
           "website": "Financial Times",
+          "date": "2 February 2015",
           "access-date": "25 November 2015",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "template": "citation",
@@ -9588,7 +9593,7 @@
           "website": "The Times",
           "access-date": "17 March 2018",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "Brown Defends Russian Expulsions, Decries Killings",
@@ -10545,6 +10550,7 @@
           "url": "http://www.gallup.com/poll/207491/economic-problems-corruption-fail-dent-putin-image.aspx",
           "title": "Economic Problems, Corruption Fail to Dent Putin's Image.",
           "website": "gallup.com",
+          "date": "28 March 2017",
           "access-date": "18 May 2017",
           "template": "citation",
           "type": "web"
@@ -10571,6 +10577,7 @@
           "url": "http://www.gallup.com/poll/207491/economic-problems-corruption-fail-dent-putin-image.aspx",
           "title": "Economic Problems, Corruption Fail to Dent Putin's Image.",
           "website": "gallup.com",
+          "date": "28 March 2017",
           "access-date": "7 June 2017",
           "template": "citation",
           "type": "web"
@@ -10656,6 +10663,7 @@
           "url": "https://news.gallup.com/poll/248249/record-russians-say-leave-russia.aspx",
           "title": "Record 20% of Russians Say They Would Like to Leave Russia",
           "website": "Gallup.com",
+          "date": "4 April 2019",
           "access-date": "23 April 2019",
           "template": "citation",
           "type": "web"
@@ -10712,7 +10720,7 @@
           "type": "web"
         },
         {
-          "title": "Trust fall The Kremlin plans to reboot Russia’s mass vaccination campaign, but there are worries this will bring down Putin’s ratings",
+          "title": "Trust fall The Kremlin plans to reboot Russia's mass vaccination campaign, but there are worries this will bring down Putin's ratings",
           "url": "https://meduza.io/en/feature/2021/11/16/trust-fall",
           "access-date": "2021-11-16",
           "website": "Meduza",
@@ -10738,6 +10746,7 @@
           "url": "http://www.newsweek.com/2017/04/28/alexei-navalny-russia-vladimir-putin-donald-trump-corruption-protests-moscow-585004.html",
           "title": "Alexei Navalny: Is Russia's Anti-Corruption Crusader Vladimir Putin's Kryptonite?",
           "website": "Newsweek",
+          "date": "17 April 2017",
           "access-date": "7 June 2017",
           "template": "citation",
           "type": "web"
@@ -12769,6 +12778,7 @@
         {
           "url": "http://www.kommersant.ru/doc/1576415/print?stamp=634719994045719457",
           "title": "Тайна за семью заборами",
+          "date": "31 January 2011",
           "publisher": "Kommersant.ru",
           "access-date": "22 June 2013",
           "template": "citation",
@@ -13190,6 +13200,7 @@
           "year": "2003",
           "publisher": "The Brookings Institution",
           "location": "Washington, DC",
+          "isbn": "9780815715351",
           "template": "citation",
           "type": "book"
         },
@@ -13974,6 +13985,7 @@
           "url": "https://www.dailymotion.com/video/xhvhv",
           "title": "Chirac décore Poutine",
           "website": "Vidéo Dailymotion",
+          "date": "13 October 2006",
           "template": "citation",
           "type": "web"
         },
@@ -14047,6 +14059,7 @@
           "title": "Nursultan Nazarbayev awards Order of Yelbasy to Vladimir Putin",
           "last": "INFORM.KZ",
           "website": "inform.kz",
+          "date": "28 May 2019",
           "template": "citation",
           "type": "web"
         }
