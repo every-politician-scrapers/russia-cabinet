@@ -5742,12 +5742,30 @@
         {
           "sentences": [
             {
-              "text": "2021 November 19,Two members of US Congress introduced a resolution to end the United States' recognition of Vladimir Putin as president of Russia if he remains in power after 2024.Kremlin denounced it as an attempt to meddle in its domestic affairs.",
+              "text": "On 22 December 2020, Putin signed a bill giving lifetime prosecutorial immunity to Russian ex-presidents."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2021, Ukraine conducted military exercises with NATO forces.",
               "links": [
                 {
-                  "text": "US Congress",
                   "type": "internal",
-                  "page": "United States Congress"
+                  "page": "NATO"
+                }
+              ]
+            },
+            {
+              "text": "The Kremlin warned that NATO expanding military infrastructure in Ukraine would cross \"red lines\" for Putin."
+            },
+            {
+              "text": "Putin's spokesman Dmitry Peskov denied allegations that Russia is preparing for a possible invasion of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dmitry Peskov"
                 }
               ]
             }
@@ -5756,7 +5774,17 @@
         {
           "sentences": [
             {
-              "text": "On 22 December 2020, Putin signed a bill giving lifetime prosecutorial immunity to Russian ex-presidents."
+              "text": "On 19 November 2021, two members of US Congress introduced a resolution to end the United States' recognition of Vladimir Putin as president of Russia if he remains in power after 2024.",
+              "links": [
+                {
+                  "text": "US Congress",
+                  "type": "internal",
+                  "page": "United States Congress"
+                }
+              ]
+            },
+            {
+              "text": "Kremlin denounced it as an attempt to meddle in its domestic affairs."
             }
           ]
         }
@@ -5823,15 +5851,6 @@
           "type": "web"
         },
         {
-          "title": "Kremlin Slams U.S. Bid Not to Recognize 'Autocrat' Vladimir Putin as President after 2024",
-          "website": "Newsweek",
-          "date": "19 November 2021",
-          "url": "https://www.newsweek.com/russia-vladimir-putin-kremlin-peskov-steve-cohen-joe-wilson-congress-dictator-1651261",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "date": "22 December 2020",
           "title": "Putin signs bill granting lifetime immunity to former Russian presidents",
           "url": "http://www.theguardian.com/world/2020/dec/22/putin-signs-bill-granting-lifetime-immunity-to-former-russian-presidents",
@@ -5847,6 +5866,47 @@
           "url": "https://www.aljazeera.com/news/2020/12/22/russias-putin-signs-bill-giving-presidents-lifetime-immunity",
           "access-date": "24 December 2020",
           "website": "Al Jazeera",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "NATO expansion in Ukraine a 'red line' for Putin, Kremlin says",
+          "url": "https://thehill.com/policy/international/russia/574133-nato-expansion-in-ukraine-a-red-line-for-putin-kremlin-says",
+          "work": "The Hill",
+          "date": "27 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Analysis: Putin's Ukraine gambit seen as part of play for new Biden summit",
+          "url": "https://www.reuters.com/world/putins-ukraine-gambit-seen-part-play-new-biden-summit-2021-11-24/",
+          "work": "Reuters",
+          "date": "24 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Russia-Ukraine border: Why Moscow is stoking tensions",
+          "url": "https://www.bbc.com/news/world-europe-59415885",
+          "work": "BBC News",
+          "date": "27 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "U.S. ‘Escalating’ Russia-Ukraine Tensions by Arming Kiev – Kremlin",
+          "url": "https://www.themoscowtimes.com/2021/11/23/us-escalating-russia-ukraine-tensions-by-arming-kiev-kremlin-a75643",
+          "work": "The Moscow Times",
+          "date": "23 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kremlin Slams U.S. Bid Not to Recognize 'Autocrat' Vladimir Putin as President after 2024",
+          "website": "Newsweek",
+          "date": "19 November 2021",
+          "url": "https://www.newsweek.com/russia-vladimir-putin-kremlin-peskov-steve-cohen-joe-wilson-congress-dictator-1651261",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -8323,7 +8383,24 @@
               ]
             },
             {
-              "text": "With the split of the Ukrainian Orthodox Church from the Russian Orthodox Church in 2018, a number of experts came to the conclusion that Putin's policy of forceful engagement in post-Soviet republics significantly backfired on him, leading to a situation where he \"annexed Crimea, but lost Ukraine\", and provoked a much more cautious approach to Russia among other post-Soviet countries."
+              "text": "With the split of the Ukrainian Orthodox Church from the Russian Orthodox Church in 2018, a number of experts came to the conclusion that Putin's policy of forceful engagement in post-Soviet republics significantly backfired on him, leading to a situation where he \"annexed Crimea, but lost Ukraine\", and provoked a much more cautious approach to Russia among other post-Soviet countries.",
+              "links": [
+                {
+                  "text": "split",
+                  "type": "internal",
+                  "page": "2018 Moscow–Constantinople schism"
+                },
+                {
+                  "text": "Ukrainian Orthodox Church",
+                  "type": "internal",
+                  "page": "Orthodox Church of Ukraine"
+                },
+                {
+                  "text": "Russian Orthodox Church",
+                  "type": "internal",
+                  "page": "Ukrainian Orthodox Church (Moscow Patriarchate)"
+                }
+              ]
             }
           ]
         },
@@ -10442,6 +10519,9 @@
             },
             {
               "text": "among Moscow respondents and 40% outside of Moscow."
+            },
+            {
+              "text": "The Levada Center survey released in October 2021 found 53% of respondents saying they trusted Putin."
             }
           ]
         },
@@ -10718,6 +10798,14 @@
           "website": "www.znak.com",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "What Vladimir Putin Is Up To in Ukraine",
+          "url": "https://time.com/6122671/vladimir-putin-ukraine/",
+          "work": "Time",
+          "date": "22 November 2021",
+          "template": "citation",
+          "type": "news"
         },
         {
           "title": "Trust fall The Kremlin plans to reboot Russia's mass vaccination campaign, but there are worries this will bring down Putin's ratings",
