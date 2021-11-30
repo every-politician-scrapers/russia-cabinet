@@ -343,54 +343,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "1"
-          ],
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Olga Liubimova"
-          ],
-          "template": "commons category"
-        },
-        {
-          "list": [
-            "https://www.mkrf.ru/about/executives/lyubimova_olga_borisovna/",
-            "Любимова Ольга Борисовна"
-          ],
-          "template": "official website"
-        },
-        {
-          "template": "russian cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "russia-politician-stub"
-        },
-        {
-          "template": "covid-19-stub"
-        }
-      ]
     }
   ]
 }

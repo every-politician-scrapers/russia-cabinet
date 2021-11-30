@@ -122,24 +122,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "1"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "russian cabinet"
-        },
-        {
-          "template": "russia-politician-stub"
-        }
-      ]
     }
   ]
 }
