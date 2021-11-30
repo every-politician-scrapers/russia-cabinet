@@ -461,6 +461,12 @@
         },
         {
           "list": [
+            "Alexander Lukashenko"
+          ],
+          "template": "ublist"
+        },
+        {
+          "list": [
             "General Secretary"
           ],
           "template": "nowr"
@@ -833,13 +839,7 @@
             ]
           },
           "1namedata7": {
-            "text": "Alexander Lukashenko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexander Lukashenko"
-              }
-            ]
+            "text": "Alexander Lukashenko"
           },
           "2namedata7": {
             "text": "Pavel Borodin",
