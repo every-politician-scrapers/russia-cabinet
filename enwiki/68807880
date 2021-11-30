@@ -87,6 +87,12 @@
           "day": "18",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "text": "Sablinskoye",
+          "lan1": "ru",
+          "text1": "Саблинское",
+          "template": "ill"
         }
       ],
       "infoboxes": [
