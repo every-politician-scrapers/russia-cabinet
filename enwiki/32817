@@ -56,7 +56,7 @@
         {
           "sentences": [
             {
-              "text": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is serving as the current president of Russia since 2012, previously being in the office from 1999 until 2008.",
+              "text": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is serving as the current president of Russia.",
               "links": [
                 {
                   "text": "president of Russia",
@@ -71,7 +71,10 @@
               }
             },
             {
-              "text": "He was also the prime minister from 1999 to 2000, and again from 2008 to 2012; and is the second-longest serving European president in history.",
+              "text": "He has been serving in this position since 2012, and he previously held this office from 1999 until 2008."
+            },
+            {
+              "text": "He was also the prime minister from 1999 to 2000, and again from 2008 to 2012.",
               "links": [
                 {
                   "text": "prime minister",
@@ -79,11 +82,10 @@
                   "page": "Prime Minister of Russia"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
+            {
+              "text": "He is the second-longest serving European president in history."
+            },
             {
               "text": "Putin was born in Leningrad (now Saint Petersburg) and studied law at Leningrad State University, graduating in 1975.",
               "links": [
