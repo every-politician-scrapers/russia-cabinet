@@ -85,7 +85,17 @@
               ]
             },
             {
-              "text": "Putin is the second-longest serving European president in history."
+              "text": "As of 2021, Putin is the second-longest serving European president, after Alexander Lukashenko of Belarus.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alexander Lukashenko"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belarus"
+                }
+              ]
             },
             {
               "text": "Putin was born in Leningrad (now Saint Petersburg) and studied law at Leningrad State University, graduating in 1975.",
