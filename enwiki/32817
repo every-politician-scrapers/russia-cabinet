@@ -85,17 +85,7 @@
               ]
             },
             {
-              "text": "As of 2021, Putin is the second-longest serving European president, after Alexander Lukashenko of Belarus.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Alexander Lukashenko"
-                },
-                {
-                  "type": "internal",
-                  "page": "Belarus"
-                }
-              ]
+              "text": "Putin is the second-longest serving European president in modern history."
             },
             {
               "text": "Putin was born in Leningrad (now Saint Petersburg) and studied law at Leningrad State University, graduating in 1975.",
@@ -242,6 +232,19 @@
                   "text": "financial crises",
                   "type": "internal",
                   "page": "1998 Russian financial crisis"
+                }
+              ]
+            },
+            {
+              "text": "Internationally, Putin led Russia to victory in the Second Chechen War and the Russo-Georgian War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Chechen War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russo-Georgian War"
                 }
               ]
             },
