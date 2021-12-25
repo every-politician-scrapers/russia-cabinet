@@ -94,7 +94,7 @@
             ]
           },
           "term_start": {
-            "text": "January 21, 2020"
+            "text": "21 January 2020"
           },
           "predecessor": {
             "text": "Alexey Gordeyev",
@@ -114,15 +114,57 @@
               }
             ]
           },
+          "office2": {
+            "text": "Head of Rosreestr",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosreestr"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 October 2016"
+          },
+          "term_end2": {
+            "text": "21 January 2020"
+          },
+          "predecessor2": {
+            "text": "Igor Vasilyev",
+            "links": [
+              {
+                "text": "Igor Vasilyev",
+                "type": "internal",
+                "page": "Igor Vasilyev (politician)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Dmitry Medvedev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dmitry Medvedev"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Oleg Skufinsky"
+          },
           "birth_date": {
             "text": "May 22, 1975"
           },
           "birth_place": {
-            "text": "Chernogorsk, Krasnoyarsk Krai, Soviet Union",
+            "text": "Chernogorsk, Khakas AO, Krasnoyarsk Krai, Soviet Union",
             "links": [
               {
                 "type": "internal",
                 "page": "Chernogorsk"
+              },
+              {
+                "text": "Khakas AO",
+                "type": "internal",
+                "page": "Khakas Autonomous Oblast"
               },
               {
                 "type": "internal",
@@ -135,13 +177,14 @@
             ]
           },
           "alma_mater": {
-            "text": "Krasnoyarsk State Agrarian University\nRussian Presidential Academy of National Economy and Public Administration",
+            "text": "Krasnoyarsk State Agrarian University\nRANEPA",
             "links": [
               {
                 "type": "internal",
                 "page": "Krasnoyarsk State Agrarian University"
               },
               {
+                "text": "RANEPA",
                 "type": "internal",
                 "page": "Russian Presidential Academy of National Economy and Public Administration"
               }
