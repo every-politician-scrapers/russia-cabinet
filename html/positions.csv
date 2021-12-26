@@ -1,0 +1,33 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q842386,Prime Minister of Russia,Q159,Q1140115,Q1965788,Q13502826,1992,,,,Prime Minister of Russia
+Q1965788,First Deputy Chairman of the Government of the Russian Federation,Q159,Q159,,,1991-12-26,,,,First Deputy Prime Minister of Russia
+Q14805701,Deputy Chairman of the Government of the Russian Federation,Q159,Q159,,,,,,,Deputy Prime Minister of Russia
+Q107724535,Minister of Agriculture,Q159,Q159,,,,,,,
+Q107688680,"Minister of Construction, Housing and Utilities",Q159,Q159,,,,,,,
+Q107710300,Minister of Culture,Q159,Q159,,,,,,,
+Q17287317,Minister of Defense,Q159,Q159,,,,,,,Minister of Defence (Russia)
+Q107688664,Minister for the Development of the Russian Far East and Arctic,Q159,Q159,,,,,,,
+Q107883554,"Minister of Digital Development, Communications and Mass Media",Q159,Q159,,,,,,,
+Q107688593,Minister of Economic Development,Q159,Q159,,,,,,,
+Q107724580,Minister of Education,Q159,Q159,,,,,,,
+Q17287321,Minister of Emergency Situations,Q159,Q159,,,1991-04-17,,,,Minister of Emergency Situations (Russia)
+Q107724562,Minister of Energy,Q159,Q159,,,,,,,
+Q107724511,Minister of Finance,Q159,Q159,,,,,,,
+Q20978296,Russian Minister of Health,Q159,Q159,,,,,,,
+Q107710318,Minister of Industry and Trade,Q159,Q159,,,,,,,
+Q4399968,Minister of Internal Affairs of Russia,Q159,Q159,,Q1518581,1802-09-08,,,,Minister of Internal Affairs (Russia)
+Q107688672,Minister of Justice,Q159,Q159,,,,,,,
+Q107710314,Minister of Labour and Social Protection,Q159,Q159,,,,,,,
+Q107710311,Minister of Natural Resources,Q159,Q159,,,,,,,
+Q107710306,Minister of Sport,Q159,Q159,,,,,,,
+Q107710272,Minister of Transport,Q159,Q159,,,,,,,
+Q107883733,Presidential Plenipotentiary Envoy to the Far Eastern Federal District,Q159,Q159,,,,,,,
+Q107883642,Chief of the Government Staff,Q159,Q159,,,,,,,
+Q19891837,Director of SVR,Q159,,,,1991-09-18,,,,Director of the Foreign Intelligence Service
+Q4399975,Director of the Federal Security Service,,,,,1995-04-12,,,,Director of the Federal Security Service
+Q109551787,Secretary of the Security Council of Russia,,,,,,,,,
+Q1970542,Prosecutor General of Russia,,,,,1991-02-28,,,,Prosecutor-General of Russia
+Q109551858,Governor of the Central Bank of Russia,Q159,,,,,,,,
+Q4109060,Supreme Commander-in-Chief of the Armed Forces of the Russian Federation,Q159,Q159,,,1992-05-07,,,,Supreme Commander-in-Chief of the Russian Armed Forces
+Q4376672,Chairman of the Federation Council of Russia,Q159,Q159,,Q30608860,1994,,,,Chairman of the Federation Council (Russia)
+Q4376663,Chairman of the State Duma,Q159,Q159,,,1993,,,,Chairman of the State Duma
