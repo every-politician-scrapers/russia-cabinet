@@ -159,10 +159,14 @@
               ]
             },
             {
-              "text": "As he was then constitutionally limited to two consecutive terms as president, Putin chose to become the prime minister again from 2008 to 2012, and was reelected as president in 2012, and again in 2018.",
+              "text": "As he was then constitutionally limited to two consecutive terms as president, Putin served as prime minister again from 2008 to 2012 under Dmitry Medvedev, and returned to the presidency in 2012 in an election marred by widespread allegations of fraud; he was reelected again in 2018.",
               "links": [
                 {
-                  "text": "reelected as president in 2012",
+                  "type": "internal",
+                  "page": "Dmitry Medvedev"
+                },
+                {
+                  "text": "election",
                   "type": "internal",
                   "page": "2012 Russian presidential election"
                 },
@@ -211,7 +215,7 @@
               ]
             },
             {
-              "text": "The growth was a result of a fivefold increase in the price of oil and gas, which constitute the majority of Russian exports, recovery from the post-Communist depression and financial crises, a rise in foreign investment, and prudent economic and fiscal policies.",
+              "text": "The growth was a result of a fivefold increase in the price of oil and gas, which constitute the majority of Russian exports, recovery from the post-communist depression and financial crises, a rise in foreign investment, and prudent economic and fiscal policies.",
               "links": [
                 {
                   "text": "fivefold increase",
@@ -224,7 +228,7 @@
                   "page": "price of oil"
                 },
                 {
-                  "text": "post-Communist depression",
+                  "text": "post-communist depression",
                   "type": "internal",
                   "page": "Dissolution of the Soviet Union"
                 },
@@ -249,12 +253,8 @@
               ]
             },
             {
-              "text": "Serving under Dmitry Medvedev from 2008 to 2012, he oversaw large-scale military reform and police reform.",
+              "text": "Serving under Medvedev from 2008 to 2012, he oversaw large-scale military reform and police reform.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Dmitry Medvedev"
-                },
                 {
                   "text": "military reform",
                   "type": "internal",
@@ -278,7 +278,7 @@
               ]
             },
             {
-              "text": "Falling oil prices coupled with international sanctions imposed at the beginning of 2014 after Russia's military intervention in Ukraine and annexation of Crimea led to GDP shrinking by 3.7% in 2015, though the Russian economy rebounded in 2016 with 0.3% GDP growth, and the recession officially ended.",
+              "text": "Falling oil prices coupled with international sanctions imposed at the beginning of 2014 after Russia's military intervention in Ukraine and annexation of Crimea led to GDP shrinking by 3.7% in 2015, though the Russian economy rebounded in 2016 with 0.3% GDP growth.",
               "links": [
                 {
                   "text": "Falling oil prices",
@@ -329,34 +329,29 @@
                   "page": "Sochi"
                 }
               ]
-            },
-            {
-              "text": "Putin received 76% of the vote in the 2018 election and was re-elected for a six-year term ending in 2024.",
-              "links": [
-                {
-                  "text": "2018 election",
-                  "type": "internal",
-                  "page": "2018 Russian presidential election"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Under Putin's leadership, Russia has experienced democratic backsliding.",
+              "text": "Under Putin's leadership, Russia has shifted to authoritarianism.",
               "links": [
                 {
-                  "text": "democratic backsliding",
+                  "text": "authoritarianism",
                   "type": "internal",
-                  "page": "democratic backsliding"
+                  "page": "authoritarianism"
                 }
               ]
             },
             {
-              "text": "Experts do not generally consider Russia to be a democracy, citing jailing of political opponents, purges, and the repression and prohibition of a free press, as well as the lack of free and fair elections.",
+              "text": "Experts do not generally consider Russia to be a democracy, citing the jailing and repression of political opponents, purges, and the repression and prohibition of a free press, as well as the lack of free and fair elections.",
               "links": [
+                {
+                  "text": "free press",
+                  "type": "internal",
+                  "page": "Media freedom in Russia"
+                },
                 {
                   "text": "free and fair elections",
                   "type": "internal",
@@ -401,9 +396,6 @@
                   "Freedom in the World"
                 ]
               }
-            },
-            {
-              "text": "Human rights organizations and activists accuse Putin of persecuting political critics and activists as well as ordering them tortured or assassinated."
             }
           ]
         }

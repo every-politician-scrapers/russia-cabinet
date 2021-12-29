@@ -48,6 +48,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Shakirzyanovich",
+            "Khusnullin"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1966",
           "month": "8",
           "day": "9",
@@ -136,14 +144,14 @@
             "text": "August 9, 1966"
           },
           "birth_place": {
-            "text": "Kazan, TASSR, Russian SFSR, Soviet Union",
+            "text": "Kazan, Tatar ASSR, Russian SFSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
                 "page": "Kazan"
               },
               {
-                "text": "TASSR",
+                "text": "Tatar ASSR",
                 "type": "internal",
                 "page": "Tatar Autonomous Soviet Socialist Republic"
               },
@@ -159,15 +167,12 @@
             ]
           },
           "citizenship": {
-            "text": "Soviet Union, Russia",
+            "text": "Soviet (until 1991) Russian",
             "links": [
               {
+                "text": "Russian",
                 "type": "internal",
-                "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Russia"
+                "page": "Russians"
               }
             ]
           },
