@@ -1,35 +1,35 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q101444618,Irek Faizullin,Irek Faizullin,male,1962-12-08,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688680,"Minister of Construction, Housing and Utilities",Q101444618-742FBBC7-4588-472E-AD70-44D043D28940
-Q101627335,Alexei Chekunkov,Alexey Chekunkov,male,1980-10-03,11,http://government.ru/en/gov/persons/,2021-07-30,Q107688664,Minister for the Development of the Russian Far East and Arctic,Q101627335-AA03281C-FDF9-4158-AC32-E3414E0C67F3
-Q1153835,Marat Khusnullin,Marat Khusnullin,male,1966-08-09,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q1153835-20F7FD26-E6F6-4C96-82FC-6E7A27055990
-Q1320356,Yury Trutnev,Yuri Trutnev,male,1956-03-01,11,http://government.ru/en/gov/persons/,2021-07-28,Q14805701,Deputy Prime Minister,Q1320356-13434326-4f0e-76c8-53a9-632aa91155ed
-Q1320356,Yury Trutnev,Yuri Trutnev,male,1956-03-01,11,http://government.ru/en/gov/persons/,2021-08-04,Q107883733,Presidential Plenipotentiary Envoy to the Far Eastern Federal District,Q1320356-A37D0ED5-3E9C-48BB-87FF-2F41E8C985AD
-Q1344473,Vladimir Kolokoltsev,Vladimir Kolokoltsev,male,1961-05-11,11,https://government.ru/en/gov/persons/,2021-07-30,Q4399968,Minister of the Interior,Q1344473-DBDAA5E0-F94D-47DE-A578-9C5531E5825E
-Q15066166,Valery Falkov,Valery Falkov,male,1978-10-18,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688573,Minister of Science and Higher Education,Q15066166-5814B59F-B8B9-4BC8-8D3B-A8394941190E
-Q16186988,Yury Borisov,Yuriy Borisov,male,1956-12-31,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q16186988-9ED1A2A6-A47B-4E60-A701-78656C87CD3B
-Q16664506,Alexander Kozlov,Alexander Kozlov,male,1981-01-02,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710311,Minister of Natural Resources,Q16664506-AA9FFDC1-B5E9-40F7-A9F1-B7BEB5777AA5
-Q18043712,Dmitry Patrushev,Dmitry Patrushev,male,1977-10-13,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724535,Minister of Agriculture,Q18043712-ACCD1132-0AAC-4A9F-82C5-FC7DD9D9E8B9
-Q2329960,Denis Manturov,Denis Manturov,male,1969-02-23,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710318,Minister of Industry and Trade,Q2329960-0A6B4E37-C5A9-4409-B491-A1C043F2646C
-Q260432,Tatyana Golikova,Tatyana Golikova,female,1966-02-09,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q260432-80AE1CB5-5E63-4F03-9562-B2590F9E1110
-Q26255418,Oleg Matytsin,Oleg Matytsin,male,1964-05-19,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710306,Minister of Sport,Q26255418-F34A12ED-010F-48E7-9EC8-3C592D2D857F
-Q28664969,Nikolai Shulginov,Nikolay Shulginov,male,1951-05-18,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724562,Minister of Energy,Q28664969-9BDBFDCF-0FED-4546-9793-DAD7B1F9BB35
-Q28681100,Maksim Reshetnikov,Maxim Reshetnikov,male,1979-07-11,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688593,Minister of Economic Development,Q28681100-789EF426-B13B-4370-A442-37F903C7C3F8
-Q29865553,Aleksandr Chupriyan,Aleksandr Chupriyan,male,1958-05-23,11,,,Q17287321,Minister of Emergency Situations,Q29865553-5901c283-43df-219f-e851-58c192c1313b
-Q32024,Sergei Shoigu,Sergey Shoygu,male,1955-05-21,11,https://government.ru/en/gov/persons/,2021-07-30,Q17287317,Defence Minister,Q32024-7e2f0499-4502-7870-c8c9-f4bd5e9843d5
-Q39390389,Viktoria Abramchenko,Viktoria Abramchenko,female,1975-05-22,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q39390389-A9791155-E058-4976-A082-8C5805C1C67A
-Q4082839,Andrei Belousov,Andrey Belousov,male,1959-03-17,11,http://government.ru/en/gov/persons/,2021-08-04,Q1965788,First Deputy Prime Minister,Q4082839-9B6865CD-EE2A-4947-9AF8-01C68F7C148B
-Q4298520,Mikhail Mishustin,Mikhail Mishustin,male,1966-03-03,11,https://government.ru/en/gov/persons/,2021-07-28,Q842386,Prime Minister of the Russian Federation,Q4298520-41ca63fb-4cb5-cec6-7b5f-9e0fae9d8681
-Q4321847,Alexander Novak,Alexander Novak,male,1971-08-23,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q4321847-E2261397-8082-4F39-BC66-20BEEED3F9A2
-Q4403799,Vitaly Saveliev,Vitaly Savelyev,male,1954-01-18,11,http://government.ru/en/gov/persons/,2021-07-30,Q107710272,Minister of Transport,Q4403799-7149A68C-432B-406A-AE44-C0EBB2BDEDBD
-Q4514292,Dmitry Chernyshenko,Dmitry Chernyshenko,male,1968-09-20,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q4514292-0329C0E6-43A7-47F0-B57D-328150A3AD7B
-Q4517811,Konstantin Chuychenko,Konstantin Chuychenko,male,1965-07-12,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688672,Minister of Justice,Q4517811-07F362CC-E040-46DF-AEBE-205E8D785BB2
-Q55653685,Sergei Kravtsov,Sergey Kravtsov,male,1974-03-17,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724580,Minister of Education,Q55653685-722E6CFD-90C3-4A24-B607-EB0013AB390E
-Q58217,Sergei Lavrov,Sergey Lavrov,male,1950-03-21,11,https://government.ru/en/gov/persons/,2021-07-30,Q1418873,Minister of Foreign Affairs,Q58217-CB722A66-F98E-4919-A478-BCAAC6CC8C1D
-Q589645,Anton Siluanov,Anton Siluanov,male,1963-04-12,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724511,Minister of Finance,Q589645-89A11542-104D-474A-8578-54D87B08011C
-Q83375533,Olga Lyubimova,Olga Lyubimova,female,1980-12-31,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710300,Minister of Culture,Q83375533-B2FCD7C9-0999-4A51-A447-DC57D5C5130B
-Q83379002,Mikhail Murashko,Mikhail Murashko,male,1967-01-09,11,http://government.ru/en/gov/persons/,2021-07-31,Q20978296,Minister of Healthcare,Q83379002-85F423EF-BA77-4BA5-82F2-C0F120F350B4
-Q83379508,Maksut Shadayev,Maxut Shadayev,male,1979-11-11,11,http://government.ru/en/gov/persons/,2021-08-04,Q107883554,"Minister of Digital Development, Communications and Mass Media",Q83379508-C2B7647C-729F-4A6D-89DC-BE26EA9EA9CF
-Q83380758,Dmitry Grigorenko,Dmitry Grigorenko,male,1978-07-14,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q83380758-E65CF2B5-E99B-45A4-8D82-6BC3BD56C55E
-Q83380758,Dmitry Grigorenko,Dmitry Grigorenko,male,1978-07-14,11,http://government.ru/en/gov/persons/,2021-08-05,Q107883642,Chief of the Government Staff,Q83380758-FB2ECFAF-9EB5-4DBA-AD47-9F9AEB24D640
-Q83382151,Alexei Overchuk,Alexey Overchuk,male,1964-12-09,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,Q83382151-48D006FD-BC98-43DD-99A6-70590F0A453B
-Q83382249,Anton Kotyakov,Anton Kotyakov,male,1980-08-15,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710314,Minister of Labour and Social Protection,Q83382249-1757D4B5-09DE-4C6D-867E-CDC030309BC8
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q101444618,Irek Faizullin,Irek Faizullin,male,1962-12-08,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688680,"Minister of Construction, Housing and Utilities",2020-11-10,Q101444618-742FBBC7-4588-472E-AD70-44D043D28940
+Q101627335,Alexei Chekunkov,Alexey Chekunkov,male,1980-10-03,11,http://government.ru/en/gov/persons/,2021-07-30,Q107688664,Minister for the Development of the Russian Far East and Arctic,2020-01-21,Q101627335-AA03281C-FDF9-4158-AC32-E3414E0C67F3
+Q1153835,Marat Khusnullin,Marat Khusnullin,male,1966-08-09,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-01-21,Q1153835-20F7FD26-E6F6-4C96-82FC-6E7A27055990
+Q1320356,Yury Trutnev,Yuri Trutnev,male,1956-03-01,11,http://government.ru/en/gov/persons/,2021-07-28,Q14805701,Deputy Prime Minister,2013-08-31,Q1320356-13434326-4f0e-76c8-53a9-632aa91155ed
+Q1320356,Yury Trutnev,Yuri Trutnev,male,1956-03-01,11,http://government.ru/en/gov/persons/,2021-08-04,Q107883733,Presidential Plenipotentiary Envoy to the Far Eastern Federal District,2020-01-21,Q1320356-A37D0ED5-3E9C-48BB-87FF-2F41E8C985AD
+Q1344473,Vladimir Kolokoltsev,Vladimir Kolokoltsev,male,1961-05-11,11,https://government.ru/en/gov/persons/,2021-07-30,Q4399968,Minister of the Interior,2012-05-21,Q1344473-DBDAA5E0-F94D-47DE-A578-9C5531E5825E
+Q15066166,Valery Falkov,Valery Falkov,male,1978-10-18,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688573,Minister of Science and Higher Education,2020-01-21,Q15066166-5814B59F-B8B9-4BC8-8D3B-A8394941190E
+Q16186988,Yury Borisov,Yuriy Borisov,male,1956-12-31,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-01-21,Q16186988-9ED1A2A6-A47B-4E60-A701-78656C87CD3B
+Q16664506,Alexander Kozlov,Alexander Kozlov,male,1981-01-02,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710311,Minister of Natural Resources,2020-11-10,Q16664506-AA9FFDC1-B5E9-40F7-A9F1-B7BEB5777AA5
+Q18043712,Dmitry Patrushev,Dmitry Patrushev,male,1977-10-13,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724535,Minister of Agriculture,2018-05-18,Q18043712-ACCD1132-0AAC-4A9F-82C5-FC7DD9D9E8B9
+Q2329960,Denis Manturov,Denis Manturov,male,1969-02-23,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710318,Minister of Industry and Trade,2021-05-21,Q2329960-0A6B4E37-C5A9-4409-B491-A1C043F2646C
+Q260432,Tatyana Golikova,Tatyana Golikova,female,1966-02-09,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2018-05-18,Q260432-80AE1CB5-5E63-4F03-9562-B2590F9E1110
+Q26255418,Oleg Matytsin,Oleg Matytsin,male,1964-05-19,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710306,Minister of Sport,2020-01-21,Q26255418-F34A12ED-010F-48E7-9EC8-3C592D2D857F
+Q28664969,Nikolai Shulginov,Nikolay Shulginov,male,1951-05-18,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724562,Minister of Energy,2020-11-10,Q28664969-9BDBFDCF-0FED-4546-9793-DAD7B1F9BB35
+Q28681100,Maksim Reshetnikov,Maxim Reshetnikov,male,1979-07-11,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688593,Minister of Economic Development,2020-01-21,Q28681100-789EF426-B13B-4370-A442-37F903C7C3F8
+Q29865553,Aleksandr Chupriyan,Aleksandr Chupriyan,male,1958-05-23,11,,,Q17287321,Minister of Emergency Situations,2021-09-08,Q29865553-5901c283-43df-219f-e851-58c192c1313b
+Q32024,Sergei Shoigu,Sergey Shoygu,male,1955-05-21,11,https://government.ru/en/gov/persons/,2021-07-30,Q17287317,Defence Minister,2012-11-06,Q32024-7e2f0499-4502-7870-c8c9-f4bd5e9843d5
+Q39390389,Viktoria Abramchenko,Viktoria Abramchenko,female,1975-05-22,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-01-21,Q39390389-A9791155-E058-4976-A082-8C5805C1C67A
+Q4082839,Andrei Belousov,Andrey Belousov,male,1959-03-17,11,http://government.ru/en/gov/persons/,2021-08-04,Q1965788,First Deputy Prime Minister,2020-01-21,Q4082839-9B6865CD-EE2A-4947-9AF8-01C68F7C148B
+Q4298520,Mikhail Mishustin,Mikhail Mishustin,male,1966-03-03,11,https://government.ru/en/gov/persons/,2021-07-28,Q842386,Prime Minister of the Russian Federation,2020-01-16,Q4298520-41ca63fb-4cb5-cec6-7b5f-9e0fae9d8681
+Q4321847,Alexander Novak,Alexander Novak,male,1971-08-23,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-11-10,Q4321847-E2261397-8082-4F39-BC66-20BEEED3F9A2
+Q4403799,Vitaly Saveliev,Vitaly Savelyev,male,1954-01-18,11,http://government.ru/en/gov/persons/,2021-07-30,Q107710272,Minister of Transport,2020-11-10,Q4403799-7149A68C-432B-406A-AE44-C0EBB2BDEDBD
+Q4514292,Dmitry Chernyshenko,Dmitry Chernyshenko,male,1968-09-20,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-01-21,Q4514292-0329C0E6-43A7-47F0-B57D-328150A3AD7B
+Q4517811,Konstantin Chuychenko,Konstantin Chuychenko,male,1965-07-12,11,http://government.ru/en/gov/persons/,2021-07-28,Q107688672,Minister of Justice,2020-01-21,Q4517811-07F362CC-E040-46DF-AEBE-205E8D785BB2
+Q55653685,Sergei Kravtsov,Sergey Kravtsov,male,1974-03-17,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724580,Minister of Education,2020-01-21,Q55653685-722E6CFD-90C3-4A24-B607-EB0013AB390E
+Q58217,Sergei Lavrov,Sergey Lavrov,male,1950-03-21,11,https://government.ru/en/gov/persons/,2021-07-30,Q1418873,Minister of Foreign Affairs,2004-03-09,Q58217-CB722A66-F98E-4919-A478-BCAAC6CC8C1D
+Q589645,Anton Siluanov,Anton Siluanov,male,1963-04-12,11,http://government.ru/en/gov/persons/,2021-07-31,Q107724511,Minister of Finance,2011-09-27,Q589645-89A11542-104D-474A-8578-54D87B08011C
+Q83375533,Olga Lyubimova,Olga Lyubimova,female,1980-12-31,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710300,Minister of Culture,2020-01-21,Q83375533-B2FCD7C9-0999-4A51-A447-DC57D5C5130B
+Q83379002,Mikhail Murashko,Mikhail Murashko,male,1967-01-09,11,http://government.ru/en/gov/persons/,2021-07-31,Q20978296,Minister of Healthcare,2020-01-21,Q83379002-85F423EF-BA77-4BA5-82F2-C0F120F350B4
+Q83379508,Maksut Shadayev,Maxut Shadayev,male,1979-11-11,11,http://government.ru/en/gov/persons/,2021-08-04,Q107883554,"Minister of Digital Development, Communications and Mass Media",2020-01-21,Q83379508-C2B7647C-729F-4A6D-89DC-BE26EA9EA9CF
+Q83380758,Dmitry Grigorenko,Dmitry Grigorenko,male,1978-07-14,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-01-21,Q83380758-E65CF2B5-E99B-45A4-8D82-6BC3BD56C55E
+Q83380758,Dmitry Grigorenko,Dmitry Grigorenko,male,1978-07-14,11,http://government.ru/en/gov/persons/,2021-08-05,Q107883642,Chief of the Government Staff,2020-01-21,Q83380758-FB2ECFAF-9EB5-4DBA-AD47-9F9AEB24D640
+Q83382151,Alexei Overchuk,Alexey Overchuk,male,1964-12-09,11,http://government.ru/en/gov/persons/,2021-08-04,Q14805701,Deputy Prime Minister,2020-01-21,Q83382151-48D006FD-BC98-43DD-99A6-70590F0A453B
+Q83382249,Anton Kotyakov,Anton Kotyakov,male,1980-08-15,11,http://government.ru/en/gov/persons/,2021-07-31,Q107710314,Minister of Labour and Social Protection,2020-01-21,Q83382249-1757D4B5-09DE-4C6D-867E-CDC030309BC8
