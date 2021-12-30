@@ -517,14 +517,13 @@
             ]
           },
           "office5": {
-            "text": "Deputy Prime Minister of Russia for Russian Welfare",
+            "text": "Deputy Prime Minister of Russia for Welfare",
             "links": [
               {
                 "type": "internal",
                 "page": "Deputy Prime Minister of Russia"
               },
               {
-                "text": "Russian Welfare",
                 "type": "internal",
                 "page": "Welfare"
               }
@@ -635,10 +634,10 @@
             ]
           },
           "office2": {
-            "text": "Federation Council Senator from Saint Petersburg",
+            "text": "Russian Federation Senator from Saint Petersburg",
             "links": [
               {
-                "text": "Federation Council Senator",
+                "text": "Russian Federation Senator",
                 "type": "internal",
                 "page": "Federation Council (Russia)"
               },
@@ -655,10 +654,10 @@
             "text": "Vladimir Barkanov"
           },
           "office1": {
-            "text": "4th Chairwoman of the Federation Council",
+            "text": "4th Chair of the Federation Council",
             "links": [
               {
-                "text": "Chairwoman of the Federation Council",
+                "text": "Chair of the Federation Council",
                 "type": "internal",
                 "page": "Chairman of the Federation Council (Russia)"
               }
@@ -708,13 +707,13 @@
               }
             ]
           },
-          "nationality": {
+          "citizenship": {
             "text": "Russian",
             "links": [
               {
                 "text": "Russian",
                 "type": "internal",
-                "page": "Russian nationality"
+                "page": "Russia"
               }
             ]
           },
