@@ -159,7 +159,7 @@
               ]
             },
             {
-              "text": "As he was then constitutionally limited to two consecutive terms as president, Putin served as prime minister again from 2008 to 2012 under Dmitry Medvedev, and returned to the presidency in 2012 in an election marred by widespread allegations of fraud; he was reelected again in 2018.",
+              "text": "As he was then constitutionally limited to two consecutive terms as president, Putin served as prime minister again from 2008 to 2012 under Dmitry Medvedev, and returned to the presidency in 2012 in an election marred by allegations of fraud and protests; he was reelected again in 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -169,6 +169,11 @@
                   "text": "election",
                   "type": "internal",
                   "page": "2012 Russian presidential election"
+                },
+                {
+                  "text": "protests",
+                  "type": "internal",
+                  "page": "2011–2013 Russian protests"
                 },
                 {
                   "text": "again in 2018",
@@ -240,20 +245,16 @@
               ]
             },
             {
-              "text": "Internationally, Putin led Russia to victory in the Second Chechen War and the Russo-Georgian War.",
+              "text": "Putin also led Russia to victory in the Second Chechen War.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Second Chechen War"
-                },
-                {
-                  "type": "internal",
-                  "page": "Russo-Georgian War"
                 }
               ]
             },
             {
-              "text": "Serving under Medvedev from 2008 to 2012, he oversaw large-scale military reform and police reform.",
+              "text": "Serving as prime minister under Medvedev, he oversaw large-scale military reform and police reform, as well as Russia's victory in the Russo-Georgian War.",
               "links": [
                 {
                   "text": "military reform",
@@ -264,24 +265,18 @@
                   "text": "police reform",
                   "type": "internal",
                   "page": "Russian police reform"
-                }
-              ]
-            },
-            {
-              "text": "In 2012, Putin sought a third term as president and won with almost 64% of the vote.",
-              "links": [
+                },
                 {
-                  "text": "2012",
                   "type": "internal",
-                  "page": "2012 Russian presidential election"
+                  "page": "Russo-Georgian War"
                 }
               ]
             },
             {
-              "text": "Falling oil prices coupled with international sanctions imposed at the beginning of 2014 after Russia's military intervention in Ukraine and annexation of Crimea led to GDP shrinking by 3.7% in 2015, though the Russian economy rebounded in 2016 with 0.3% GDP growth.",
+              "text": "During his third term as president, falling oil prices coupled with international sanctions imposed at the beginning of 2014 after Russia's military intervention in Ukraine and annexation of Crimea led to GDP shrinking by 3.7% in 2015, though the Russian economy rebounded in 2016 with 0.3% GDP growth.",
               "links": [
                 {
-                  "text": "Falling oil prices",
+                  "text": "falling oil prices",
                   "type": "internal",
                   "page": "World oil market chronology from 2003"
                 },
@@ -303,7 +298,7 @@
               ]
             },
             {
-              "text": "Development under Putin has included the construction of pipelines, the restoration of the satellite navigation system GLONASS, and the building of infrastructure for international events such as the 2014 Winter Olympics in Sochi.",
+              "text": "Other developments under Putin has included the construction of pipelines, the restoration of the satellite navigation system GLONASS, and the building of infrastructure for international events such as the 2014 Winter Olympics in Sochi and the 2018 FIFA World Cup.",
               "links": [
                 {
                   "text": "pipelines",
@@ -327,6 +322,11 @@
                 {
                   "type": "internal",
                   "page": "Sochi"
+                },
+                {
+                  "text": "2018 FIFA World Cup",
+                  "type": "internal",
+                  "page": "2018 FIFA World Cup"
                 }
               ]
             }
@@ -1130,12 +1130,6 @@
           "website": "USA TODAY",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "template": "citation",
