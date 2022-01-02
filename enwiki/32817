@@ -85,7 +85,7 @@
               ]
             },
             {
-              "text": "Putin is the second-longest serving European president in modern history."
+              "text": "Putin is the second-longest current serving European president."
             },
             {
               "text": "Putin was born in Leningrad (now Saint Petersburg) and studied law at Leningrad State University, graduating in 1975.",
@@ -1097,93 +1097,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.telegraph.co.uk/news/worldnews/vladimir-putin/9223621/Vladimir-Putin-quits-as-head-of-Russias-ruling-party.html",
-          "title": "Vladimir Putin quits as head of Russia's ruling party",
-          "date": "24 April 2012",
-          "via": "The Daily Telegraph",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.reuters.com/article/us-russia-putin-timeline-idUSKCN1UZ185",
-          "title": "Timeline: Vladimir Putin - 20 tumultuous years as Russian President or PM",
-          "work": "Reuters",
-          "date": "9 August 2019",
-          "access-date": "29 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.cbsnews.com/news/vladimir-putin-president-russia-signs-law-allowing-2-more-presidential-terms/",
-          "title": "Putin signs law allowing him to serve 2 more terms as Russia's president",
-          "website": "www.cbsnews.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.usatoday.com/story/news/world/2021/04/05/vladimir-putin-may-remain-russian-president-until-2036-under-new-law/7092738002/",
-          "title": "Putin — already Russia's longest leader since Stalin — signs law that may let him stay in power until 2036",
-          "website": "USA TODAY",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "It's Official: Sanctioned Russia Now Recession Free",
-          "url": "https://www.forbes.com/sites/kenrapoza/2017/04/03/its-official-sanctioned-russia-now-recession-free/",
-          "work": "Forbes",
-          "date": "3 April 2017",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Frye",
-          "first": "Timothy",
-          "url": "https://press.princeton.edu/books/hardcover/9780691212463/weak-strongman",
-          "title": "Weak Strongman: The Limits of Power in Putin's Russia",
-          "publisher": "Princeton University Press",
-          "year": "2021",
-          "isbn": "9780691212463",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "editor": "Anders Åslund",
-          "editor2": "Sergei Guriev",
-          "editor3": "Andrew C. Kuchins",
-          "title": "Russia After the Global Economic Crisis",
-          "chapter": "Challenges Facing the Russian Economy after the Crisis",
-          "last1": "Guriev",
-          "first1": "Sergei",
-          "last2": "Tsyvinski",
-          "first2": "Aleh",
-          "publisher": "Peterson Institute for International Economics; Centre for Strategic and International Studies; New Economic School",
-          "year": "2010",
-          "isbn": "978-0-88132-497-6",
-          "pages": "12–13",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     }

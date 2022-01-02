@@ -376,56 +376,6 @@
             "text": "ru"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://ria.ru/20200115/1563466512.html",
-          "title": "Путин предложил главе ФНС Михаилу Мишустину пост премьера",
-          "access-date": "15 January 2020",
-          "archive-url": "https://web.archive.org/web/20200115175557/https://ria.ru/20200115/1563466512.html",
-          "archive-date": "15 January 2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://apnews.com/dac9ce99b613d792bc2556b8c69f23c2",
-          "title": "Russia's new PM a career bureaucrat with no political aims",
-          "last": "Litvinova",
-          "first": "Daria",
-          "date": "16 January 2020",
-          "work": "Associated Press",
-          "access-date": "16 January 2020",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200116144452/https://apnews.com/dac9ce99b613d792bc2556b8c69f23c2",
-          "archive-date": "16 January 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Russian Prime Minister tests positive for Covid-19",
-          "url": "https://www.cnn.com/2020/04/30/europe/mikhail-mishustin-russia-pm-coronavirus-positive-intl/index.html",
-          "access-date": "4 May 2020",
-          "work": "CNN",
-          "date": "30 April 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Российский премьер Мишустин заразился коронавирусом",
-          "url": "https://www.currenttime.tv/a/mishustin-coronavirus-premier/30585954.html",
-          "access-date": "4 May 2020",
-          "work": "Настоящее Время",
-          "date": "30 April 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -209,34 +209,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.old.mos.ru/en/authority/vice/9/",
-          "title": "Archived copy",
-          "access-date": "2016-05-26",
-          "archive-url": "https://web.archive.org/web/20160809130553/http://www.old.mos.ru/en/authority/vice/9/",
-          "archive-date": "2016-08-09",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.mos.ru/authority/structure/11491090/person/19157093",
-          "title": "Archived copy",
-          "access-date": "2016-05-30",
-          "archive-url": "https://web.archive.org/web/20171118202743/https://www.mos.ru/authority/structure/11491090/person/19157093/",
-          "archive-date": "2017-11-18",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

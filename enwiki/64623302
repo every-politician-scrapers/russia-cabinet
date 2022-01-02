@@ -157,43 +157,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Dmitry Grigorenko – The Russian Government",
-          "url": "http://government.ru/en/gov/persons/621/events/",
-          "access-date": "23 July 2020",
-          "website": "government.ru",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Putin appoints new Russian cabinet members – Xinhua {{!}} English.news.cn",
-          "url": "http://www.xinhuanet.com/english/2020-01/22/c_138724814.htm",
-          "access-date": "23 July 2020",
-          "website": "www.xinhuanet.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2 January 2020",
-          "title": "Биография Дмитрия Григоренко",
-          "url": "https://ria.ru/20200121/1563694771.html",
-          "access-date": "23 July 2020",
-          "website": "РИА Новости",
-          "language": "ru",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Dmitry Grigorenko, Russian Federation: Profile and Biography",
-          "url": "https://www.bloomberg.com/profile/person/21511062",
-          "access-date": "2020-09-07",
-          "website": "Bloomberg.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

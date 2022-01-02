@@ -340,49 +340,6 @@
             "text": "ru"
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Luhn",
-          "first": "Alec",
-          "date": "2020-01-29",
-          "title": "Who will replace Putin?",
-          "url": "https://www.politico.eu/article/who-will-replace-valdimir-putin-russia-kremlin/",
-          "url-status": "live",
-          "access-date": "2021-04-17",
-          "website": "POLITICO",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.bloomberg.com/news/articles/2020-04-30/russian-prime-minister-mishustin-tests-positive-for-coronavirus",
-          "title": "Russian Premier Mishustin Tests Positive for Coronavirus",
-          "last": "Khrennikov",
-          "first": "Ilya",
-          "last2": "Arkhipov",
-          "first2": "Ilya",
-          "date": "April 30, 2020",
-          "website": "Bloomberg News",
-          "access-date": "June 4, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.reuters.com/article/us-health-coronavirus-russia-prime-minis-idUSKBN22V13V",
-          "title": "Kremlin says Prime Minister Mishustin back to work",
-          "date": "May 19, 2020",
-          "website": "Reuters",
-          "access-date": "June 4, 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
