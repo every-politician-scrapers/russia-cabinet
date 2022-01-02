@@ -285,36 +285,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Andrei Belousov appointed Economic Development Minister",
-          "url": "http://www.interfax.com/newsinf.asp?id=333482",
-          "access-date": "28 March 2013",
-          "work": "Interfax",
-          "date": "21 May 2012",
-          "location": "Moscow",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20140219033024/http://www.interfax.com/newsinf.asp?id=333482",
-          "archive-date": "19 February 2014",
-          "df": "dmy",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The World's 100 Most Powerful Women",
-          "url": "https://www.forbes.com/power-women/list/2/#tab:overall",
-          "work": "Forbes",
-          "access-date": "31 March 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -270,46 +270,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Sochi organizer takes over as KHL president",
-          "url": "http://espn.go.com/olympics/hockey/story/_/id/11949502/olympic-organizer-dmitry-chernyshenko-takes-russian-hockey-league",
-          "website": "ESPN.com",
-          "date": "November 28, 2014",
-          "accessdate": "2015-11-17",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Sochi Olympics Chief Named Head of Russia's Gazprom Media {{!}} News",
-          "url": "http://www.themoscowtimes.com/article/513891.html",
-          "website": "The Moscow Times",
-          "accessdate": "2015-11-17",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.olympic.org/news/ioc-suspends-russian-noc-and-creates-a-path-for-clean-individual-athletes-to-compete-in-pyeongchang-2018-under-the-olympic-flag",
-          "title": "IOC suspends Russian NOC and creates a path for clean individual athletes to compete in PyeongChang 2018 under the Olympic Flag",
-          "date": "July 14, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.sberbank.com/investor-relations/corporate-governance/supervisory_board/chernyshenko-dmitrij-nikolaevich",
-          "title": "Dmitry Chernyshenko",
-          "accessdate": "2021-06-05",
-          "publisher": "Sberbank",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

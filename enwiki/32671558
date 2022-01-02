@@ -411,23 +411,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Cluster bomb: How Russia is ruled",
-          "url": "https://www.economist.com/news/books-and-arts/21707179-how-russia-ruled-cluster-bomb",
-          "access-date": "16 September 2016",
-          "work": "The Economist",
-          "date": "16 September 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
