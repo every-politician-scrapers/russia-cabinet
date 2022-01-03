@@ -17,7 +17,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[ordinal image name dates president].freeze
+      %w[image name dates president].freeze
     end
   end
 end
