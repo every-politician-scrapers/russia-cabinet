@@ -1035,17 +1035,11 @@
             "text": "Putin signature.svg"
           },
           "allegiance": {
-            "text": "USSR\n🇷🇺 Russia",
+            "text": "Soviet Union\nRussia",
             "links": [
               {
-                "text": "USSR",
                 "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "Russia",
-                "type": "internal",
-                "page": "russia"
+                "page": "Soviet Union"
               }
             ]
           },
