@@ -160,6 +160,15 @@
               }
             ]
           },
+          "deputy": {
+            "text": "Sergei Ryabkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergei Ryabkov"
+              }
+            ]
+          },
           "term_start": {
             "text": "24 February 2004"
           },
