@@ -305,12 +305,11 @@
             ]
           },
           "party": {
-            "text": "Independent",
+            "text": "United Russia",
             "links": [
               {
-                "text": "Independent",
                 "type": "internal",
-                "page": "Independent politician"
+                "page": "United Russia"
               }
             ]
           },
