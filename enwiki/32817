@@ -85,7 +85,13 @@
               ]
             },
             {
-              "text": "Putin is the second-longest current serving European president."
+              "text": "Putin is the second-longest current serving European president after Alexander Lukashenko.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alexander Lukashenko"
+                }
+              ]
             },
             {
               "text": "Putin was born in Leningrad (now Saint Petersburg) and studied law at Leningrad State University, graduating in 1975.",
@@ -544,6 +550,12 @@
         {
           "list": [
             "Putin took office as Prime Minister in August 1999, and became Acting President while remaining Prime Minister on 31 December 1999; he was later officially elected as President on 7 May 2000."
+          ],
+          "template": "efn"
+        },
+        {
+          "list": [
+            "Sources saying that experts do not consider Russia a democracy:"
           ],
           "template": "efn"
         },
