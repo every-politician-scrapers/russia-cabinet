@@ -1,8 +1,4 @@
 @@,itemlabel,item,startdate,enddate
-+++,Valery Chaptynov,Q4507312,1994-02-01,1997-01-30
-+++,Vladilen Volkov,Q4123281,1997-01-30,1998-01-13
-+++,Semyon Zubakin,Q4194209,1998-01-13,2002-01-19
-+++,Mikhail Lapshin,Q1775096,2002-01-19,2006-01-26
 ->,Alexander Berdnikov,Q286470,2006-01-20->2006-01-26,2019-03-20
-->,Oleg Khorokhordin,Q62168639->NULL,2019-03-20,NULL->2019-10-01
-+++,Oleg Khorokhordin,,2019-10-01,
+->,Oleg Khorokhordin,Q62168639,2019-03-20,NULL->2019-10-01
++++,Oleg Khorokhordin,Q62168639,2019-10-01,
