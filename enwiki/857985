@@ -90,6 +90,10 @@
           "template": "use dmy dates"
         },
         {
+          "date": "February 2022",
+          "template": "cleanup bare urls"
+        },
+        {
           "list": [
             "Kuzhugetovich",
             "Shoigu"
