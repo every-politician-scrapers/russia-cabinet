@@ -65,6 +65,10 @@
       ],
       "templates": [
         {
+          "description": "Russian politician",
+          "template": "short description"
+        },
+        {
           "date": "September 2021",
           "template": "more footnotes"
         },
