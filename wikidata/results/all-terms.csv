@@ -1,0 +1,9 @@
+ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+1,Q4146581,1st State Duma of the Russian Federation,1993-12-12,1995-12-16,,,1993-12-12,11,,,1995-12-16,11,,,,,,,Q4146580,2nd State Duma of the Russian Federation
+2,Q4146580,2nd State Duma of the Russian Federation,1995-12-17,1999-12-19,1995-12-17,11,,,1999-12-19,11,,,,,,,Q4146581,1st State Duma of the Russian Federation,Q4146579,3rd State Duma of the Russian Federation
+3,Q4146579,3rd State Duma of the Russian Federation,1999-12-19,2003-12-07,1999-12-19,11,,,2003-12-07,11,,,,,,,Q4146580,2nd State Duma of the Russian Federation,Q4146585,4th State Duma of the Russian Federation
+4,Q4146585,4th State Duma of the Russian Federation,2003-12-07,2007-12-24,2003-12-07,11,,,2007-12-24,11,,,,,,,Q4146579,3rd State Duma of the Russian Federation,Q4146584,5th State Duma of the Russian Federation
+5,Q4146584,5th State Duma of the Russian Federation,2007-12-24,2011-12-21,2007-12-24,11,,,2011-12-21,11,,,,,,,Q4146585,4th State Duma of the Russian Federation,Q4146582,6th State Duma of the Russian Federation
+6,Q4146582,6th State Duma of the Russian Federation,2011-12-21,2016-10-05,,,2011-12-21,11,,,2016-10-05,11,,,,,Q4146584,5th State Duma of the Russian Federation,Q26708541,7th State Duma of the Russian Federation
+7,Q26708541,7th State Duma of the Russian Federation,2016-10-05,2021-09-01,2016-10-05,11,,,2021-09-01,10,,,,,,,Q4146582,6th State Duma of the Russian Federation,Q106638694,8th State Duma
+8,Q106638694,8th State Duma,2021-10-12,,,,2021-10-12,11,,,,,,,,,Q26708541,7th State Duma of the Russian Federation,,
