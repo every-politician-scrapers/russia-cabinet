@@ -25,7 +25,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def endDate
-      nil
+      '2021-10-12'
     end
 
     def date_class
