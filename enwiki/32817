@@ -606,7 +606,7 @@
             "text": "7 May 2000"
           },
           "term_end1": {
-            "text": "7 May 2008 Acting: 31 December 1999 – 7 May 2000"
+            "text": "7 May 2008\nActing: 31 December 1999 – 7 May 2000"
           },
           "predecessor1": {
             "text": "Boris Yeltsin",
@@ -973,7 +973,7 @@
             "text": "October 7, 1952"
           },
           "birth_place": {
-            "text": "Leningrad, Russian SFSR, Soviet Union (now Saint Petersburg, Russia)",
+            "text": "Leningrad, Russian SFSR, Soviet Union\n(now Saint Petersburg, Russia)",
             "links": [
               {
                 "type": "internal",
@@ -1069,7 +1069,7 @@
             "text": "1975–1991\n\n1998–1999\n\n2000–present"
           },
           "rank": {
-            "text": "Colonel Supreme Commander-in-chief",
+            "text": "Colonel\nSupreme Commander-in-chief",
             "links": [
               {
                 "type": "internal",
