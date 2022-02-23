@@ -976,16 +976,22 @@
             "text": "Leningrad, Russian SFSR, Soviet Union\n(now Saint Petersburg, Russia)",
             "links": [
               {
+                "text": "Leningrad",
                 "type": "internal",
-                "page": "Leningrad"
+                "page": "Saint Petersburg"
               },
               {
+                "text": "Russian SFSR",
                 "type": "internal",
-                "page": "Russian SFSR"
+                "page": "Russian Soviet Federative Socialist Republic"
               },
               {
                 "type": "internal",
                 "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Russia"
               }
             ]
           },
