@@ -2,13 +2,13 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (id, position, startdate) => {
+module.exports = (id, position, startdate, enddate) => {
   qualifier = {
     P580: meta.cabinet.start,
-    P5054: meta.cabinet.id,
   }
 
-  if(startdate)      qualifier['P580']  = startdate
+  if(startdate) qualifier['P580']  = startdate
+  if(enddate)   qualifier['P582']  = enddate
 
   return {
     id,
