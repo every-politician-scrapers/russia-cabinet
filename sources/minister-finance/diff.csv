@@ -1,13 +1,7 @@
 @@,itemlabel,item,startdate,enddate
-+++,Yegor Gaidar,Q82695,1992-02-19,1992-04-02
-+++,Vasily Barchuk,,1992-04-02,2022-02-25
-+++,Boris Fyodorov,Q893668,1993-03-25,1994-01-26
-+++,Sergey Dubinin,,1994-01-26,1994-10-12
-+++,Andrey Vavilov,Q4102110,1994-10-12,1994-11-04
-+++,Vladimir Panskov,,1994-11-04,1996-08-15
-+++,Alexander Livshits,,1996-08-15,1997-03-17
-+++,Anatoly Chubais,Q201005,1997-03-17,1997-11-20
-+++,Mikhail Zadornov,Q3313719,1997-11-20,1999-05-25
-->,Mikhail Kasyanov,Q62551,1999->1999-05-25,2000->2000-05-18
-+++,Alexey Kudrin,Q351014,2000-05-18,2011-09-26
+->,Vasily Barchuk,Q4078797->NULL,1992-04-02,1993-03-25->2022-02-25
+->,Sergey Dubinin,Q4169161->NULL,1994-01-26,1994-10-12
+->,Vladimir Panskov,Q4344258->NULL,1994-11-04,1996-08-15
+->,Aleksandr Livshits->Alexander Livshits,Q4261095->NULL,1996-08-15,1997-03-17
+->,Alexei Kudrin->Alexey Kudrin,Q351014,2000-05-18,2011-09-26
 ->,Anton Siluanov,Q589645,2011-09-27->2011-09-26,
