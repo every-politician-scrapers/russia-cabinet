@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Sergey Kuzhugetovich Shoigu (born 21 May 1955) is a Russian politician and General of the Army who serves as Minister of Defence of the Russian Federation and as Chairman of the Council of Ministers of Defense of the CIS since 2012.",
+              "text": "Sergey Kuzhugetovich Shoigu (born 21 May 1955) is a Russian politician and General of the Army who serves as Minister of Defence of the Russian Federation.",
               "links": [
                 {
                   "text": "General of the Army",
@@ -41,10 +41,6 @@
                   "text": "Minister of Defence of the Russian Federation",
                   "type": "internal",
                   "page": "Ministry of Defence (Russia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Council of Ministers of Defense of the CIS"
                 }
               ],
               "formatting": {
@@ -52,6 +48,15 @@
                   "Sergey Kuzhugetovich Shoigu"
                 ]
               }
+            },
+            {
+              "text": "Since 2012, Shoygu has also served as Chairman of the Council of Ministers of Defense of the CIS since 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council of Ministers of Defense of the CIS"
+                }
+              ]
             },
             {
               "text": "Previously, Shoigu was Minister of Emergency Situations from 1991 to 2012, and briefly served as Governor of Moscow Oblast in 2012.",
@@ -64,16 +69,6 @@
                 {
                   "type": "internal",
                   "page": "Moscow Oblast"
-                }
-              ]
-            },
-            {
-              "text": "Shoygu holds the military rank of General of the Army.",
-              "links": [
-                {
-                  "text": "General of the Army",
-                  "type": "internal",
-                  "page": "General of the Army (Russia)"
                 }
               ]
             }

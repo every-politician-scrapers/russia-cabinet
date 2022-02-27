@@ -4,7 +4,6 @@
   "categories": [
     "1950 births",
     "21st-century Russian politicians",
-    "Ethnic Armenian politicians",
     "Foreign ministers of Russia",
     "Grand Crosses of the Order of the Sun of Peru",
     "Living people",
@@ -20,7 +19,8 @@
     "Recipients of the Friendship Order",
     "Russian people of Armenian descent",
     "Soviet diplomats",
-    "United Russia politicians"
+    "United Russia politicians",
+    "Russian individuals subject to the U.S. Department of the Treasury sanctions"
   ],
   "sections": [
     {
@@ -64,6 +64,11 @@
         {
           "description": "Russian diplomat and politician (born 1950)",
           "template": "short description"
+        },
+        {
+          "reason": "Arbitration enforcement: WP:BLPDS",
+          "small": "yes",
+          "template": "pp-protected"
         },
         {
           "date": "November 2021",
@@ -281,7 +286,7 @@
             "text": "Signature of Sergey Lavrov.png"
           },
           "awards": {
-            "text": "Hero of Labour of the Russian Federation;\nFull cavalier of the Order \"For Merit to the Fatherland\"",
+            "text": "Hero of Labour of the Russian Federation;\nFull Cavalier of the Order \"For Merit to the Fatherland\"",
             "links": [
               {
                 "type": "internal",

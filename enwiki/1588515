@@ -61,6 +61,34 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of February 2022, the United States has sanctions against Patrushev following the Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "text": "United States has sanctions",
+                  "type": "internal",
+                  "page": "United States sanctions"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russian invasion of Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "links": [
+                {
+                  "text": "",
+                  "type": "external",
+                  "site": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220224"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
