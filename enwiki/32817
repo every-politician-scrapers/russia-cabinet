@@ -47,7 +47,9 @@
     "United Russia politicians",
     "United Russia presidential nominees",
     "Russian nationalists",
-    "Conservatism in Russia"
+    "Conservatism in Russia",
+    "Russian individuals subject to the U.S. Department of the Treasury sanctions",
+    "Specially Designated Nationals and Blocked Persons List"
   ],
   "sections": [
     {
@@ -57,7 +59,7 @@
         {
           "sentences": [
             {
-              "text": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is the current president of Russia.",
+              "text": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is the president of Russia, a position he has filled since 2012, and previously from 1999 until 2008.",
               "links": [
                 {
                   "text": "president of Russia",
@@ -70,9 +72,6 @@
                   "Vladimir Vladimirovich Putin"
                 ]
               }
-            },
-            {
-              "text": "He has been serving in this position since 2012, and he previously held this office from 1999 until 2008."
             },
             {
               "text": "He was also the prime minister from 1999 to 2000, and again from 2008 to 2012.",
@@ -108,7 +107,7 @@
               ]
             },
             {
-              "text": "Putin worked as a KGB foreign intelligence officer for 16 years, rising to the rank of lieutenant colonel, before resigning in 1991 to begin a political career in Saint Petersburg.",
+              "text": "He worked as a KGB foreign intelligence officer for 16 years, rising to the rank of lieutenant colonel, before resigning in 1991 to begin a political career in Saint Petersburg.",
               "links": [
                 {
                   "type": "internal",
@@ -124,6 +123,10 @@
             {
               "text": "He later moved to Moscow in 1996 to join the administration of president Boris Yeltsin.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Moscow"
+                },
                 {
                   "type": "internal",
                   "page": "Boris Yeltsin"
@@ -172,7 +175,7 @@
                   "page": "Dmitry Medvedev"
                 },
                 {
-                  "text": "election",
+                  "text": "an election",
                   "type": "internal",
                   "page": "2012 Russian presidential election"
                 },
@@ -208,7 +211,7 @@
         {
           "sentences": [
             {
-              "text": "During his first tenure as president, the Russian economy grew for eight straight years, with GDP measured by purchasing power increasing by 72%, real incomes increased by a factor of 2.5, real wages more than tripled; unemployment and poverty more than halved and the Russians' self-assessed life satisfaction rose significantly.",
+              "text": "During Putin's first tenure as president, the Russian economy grew for eight consecutive years, with GDP measured by purchasing power increasing by 72%; Russian self-assessed life satisfaction rose significantly.",
               "links": [
                 {
                   "type": "internal",
@@ -279,12 +282,12 @@
               ]
             },
             {
-              "text": "During his third term as president, falling oil prices coupled with international sanctions imposed at the beginning of 2014 after Russia's military intervention in Ukraine and annexation of Crimea led to GDP shrinking by 3.7% in 2015, though the Russian economy rebounded in 2016 with 0.3% GDP growth.",
+              "text": "During his third term as president, falling oil prices coupled with international sanctions imposed at the beginning of 2014 after Russia launched a military intervention in Ukraine and annexed Crimea led to GDP shrinking by 3.7% in 2015, though the Russian economy rebounded in 2016 with 0.3% GDP growth.",
               "links": [
                 {
                   "text": "falling oil prices",
                   "type": "internal",
-                  "page": "World oil market chronology from 2003"
+                  "page": "2014–2016 world oil market chronology"
                 },
                 {
                   "text": "international sanctions imposed at the beginning of 2014",
@@ -297,14 +300,29 @@
                   "page": "War in Donbas"
                 },
                 {
-                  "text": "annexation of Crimea",
+                  "text": "annexed Crimea",
                   "type": "internal",
                   "page": "Annexation of Crimea by the Russian Federation"
                 }
               ]
             },
             {
-              "text": "Other developments under Putin has included the construction of pipelines, the restoration of the satellite navigation system GLONASS, and the building of infrastructure for international events such as the 2014 Winter Olympics in Sochi and the 2018 FIFA World Cup.",
+              "text": "During his fourth term as president, the COVID-19 pandemic hit Russia, and Putin ordered a full-scale invasion of Ukraine in 2022, leading to further sanctions being imposed against Russia and him personally.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic hit Russia",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Russia"
+                },
+                {
+                  "text": "full-scale invasion",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "Other developments under Putin have included the construction of oil and gas pipelines, the restoration of the satellite navigation system GLONASS, and the building of infrastructure for international events such as the 2014 Winter Olympics in Sochi and the 2018 FIFA World Cup.",
               "links": [
                 {
                   "text": "pipelines",
@@ -344,6 +362,11 @@
               "text": "Under Putin's leadership, Russia has shifted to authoritarianism.",
               "links": [
                 {
+                  "text": "Putin's leadership",
+                  "type": "internal",
+                  "page": "Russia under Vladimir Putin"
+                },
+                {
                   "text": "authoritarianism",
                   "type": "internal",
                   "page": "authoritarianism"
@@ -351,7 +374,7 @@
               ]
             },
             {
-              "text": "Experts do not generally consider Russia to be a democracy, citing the jailing and repression of political opponents, the intimidation and suppression of the free press and the lack of free and fair elections.",
+              "text": "Experts do not consider Russia a democracy, citing the jailing and repression of political opponents, the intimidation and suppression of the free press and the lack of free and fair elections.",
               "links": [
                 {
                   "text": "free press",
@@ -425,6 +448,10 @@
           ]
         },
         {
+          "small": "yes",
+          "template": "pp-30-500"
+        },
+        {
           "list": [
             "Vladimirovich",
             "Putin"
@@ -435,6 +462,14 @@
         {
           "date": "February 2022",
           "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "",
+            "2022 Russian invasion of Ukraine"
+          ],
+          "date": "February 2022",
+          "template": "current related"
         },
         {
           "list": [
@@ -549,13 +584,7 @@
         },
         {
           "list": [
-            "Putin took office as Prime Minister in August 1999, and became Acting President while remaining Prime Minister on 31 December 1999; he was later officially elected as President on 7 May 2000."
-          ],
-          "template": "efn"
-        },
-        {
-          "list": [
-            "Sources saying that experts do not consider Russia to be a democracy:"
+            "Putin took office as Prime Minister in August 1999 and became Acting President while remaining Prime Minister on 31 December 1999; he was later officially elected as President on 7 May 2000."
           ],
           "template": "efn"
         },
@@ -573,7 +602,7 @@
             "text": "Владимир Путин"
           },
           "image": {
-            "text": "Vladimir Putin (2018-03-01) 03 (cropped).jpg"
+            "text": "Vladimir Putin (2018-03-01) 03 (cropped)(a).jpg"
           },
           "caption": {
             "text": "Putin in 2018"
@@ -606,7 +635,14 @@
             "text": "7 May 2000"
           },
           "term_end1": {
-            "text": "7 May 2008\nActing: 31 December 1999 – 7 May 2000"
+            "text": "7 May 2008\nActing: 31 December 1999 – 7 May 2000",
+            "links": [
+              {
+                "text": "Acting",
+                "type": "internal",
+                "page": "Acting President of Russia"
+              }
+            ]
           },
           "predecessor1": {
             "text": "Boris Yeltsin",
@@ -973,7 +1009,7 @@
             "text": "October 7, 1952"
           },
           "birth_place": {
-            "text": "Leningrad, Russian SFSR, Soviet Union\n(now Saint Petersburg, Russia)",
+            "text": "Leningrad, Russian SFSR, Soviet Union",
             "links": [
               {
                 "text": "Leningrad",
@@ -988,10 +1024,6 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Russia"
               }
             ]
           },
@@ -1075,14 +1107,14 @@
             "text": "1975–1991\n\n1998–1999\n\n2000–present"
           },
           "rank": {
-            "text": "Colonel\nSupreme Commander-in-chief",
+            "text": "Colonel\nSupreme Commander-in-Chief",
             "links": [
               {
                 "type": "internal",
                 "page": "Colonel"
               },
               {
-                "text": "Supreme Commander-in-chief",
+                "text": "Supreme Commander-in-Chief",
                 "type": "internal",
                 "page": "Supreme Commander-in-Chief of the Russian Armed Forces"
               }
