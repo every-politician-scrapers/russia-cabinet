@@ -12,7 +12,7 @@ Q107883554,"Minister of Digital Development, Communications and Mass Media",Q159
 Q107688593,Minister of Economic Development,Q159,Q159,,,,,,,
 Q107724580,Minister of Education,Q159,Q159,,,,,,,
 Q17287321,Minister of Emergency Situations,Q159,Q159,,,1991-04-17,,,,Minister of Emergency Situations (Russia)
-Q107724562,Minister of Energy,Q159,Q159,,,,,,,
+Q107724562,Minister of Energy,Q159,Q159,,Q4434760,,,,,
 Q107724511,Minister of Finance,Q159,Q159,Q110991398,,,,,,
 Q1418873,Minister of Foreign Affairs,Q159,Q159,,,,,Q68317435,,Minister of Foreign Affairs (Russia)
 Q19399764,Minister of Fuel and Energy,Q159,,,,,,,,
@@ -31,7 +31,7 @@ Q19891837,Director of SVR,Q159,,,,1991-09-18,,,,Director of the Foreign Intellig
 Q4399975,Director of the Federal Security Service,,,,,1995-04-12,,,,Director of the Federal Security Service
 Q109551787,Secretary of the Security Council of Russia,,,,,,,,,
 Q1970542,Prosecutor General of Russia,,,,,1991-02-28,,,,Prosecutor-General of Russia
-Q109551858,Governor of the Central Bank of Russia,Q159,,,,,,,,
+Q109551858,President of the Central Bank of Russia,Q159,,,,,,,,
 Q4109060,Supreme Commander-in-Chief of the Armed Forces of the Russian Federation,Q159,Q159,,,1992-05-07,,,,Supreme Commander-in-Chief of the Russian Armed Forces
 Q4376672,Chairman of the Federation Council of Russia,Q159,Q159,,Q30608860,1994,,,,Chairman of the Federation Council (Russia)
 Q4376663,Chairman of the State Duma,Q159,Q159,,,1993,,,,Chairman of the State Duma
