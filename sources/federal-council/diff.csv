@@ -1,720 +1,367 @@
 @@,itemlabel,item,startdate,enddate
-+++,Adam Tleuzh,Q18278741,2001-04-18,2007-02-02
-+++,Adnan Muzykayev,Q15074132,2003-07-10,2003-12-11
-+++,Ahkmar Zavgayev,Q4182932,2000-10-24,2003-12-07
-+++,Akhmat Salpagarov,Q60826888,2015-06-09,
-+++,Akhmed Bilalov,Q4086650,2011-10-14,2012-11-07
-+++,Akhmet Palankoyev,Q4342439,2010-06-09,2016-12
-+++,Albert Kazharov,Q15068071,2009-05-13,2013-08-14
-+++,Aleksandr Akimov,Q4059497,2013-10-02,
-+++,Aleksandr Aristov,Q27893123,2001-03-29,2004-01-28
-+++,Aleksandr Bashkin,Q60835555,2016-09-27,
+->,Airat Gaskarov->Ayrat Gaskarov,Q15065264,2010-12-24,2011-03-15
+->,Akhmar Zavgaev->Ahkmar Zavgayev,Q4182932,2000-10-24,2003-12-07
+->,Albert Kajarov->Albert Kazharov,Q15068071,2009-05-13,2013-08-14
 +++,Aleksandr Bespalov,,2002-06-07,2003-03-03
-+++,Aleksandr Borisov,Q4093805,2009-05-13,2017-10-27
-+++,Aleksandr Bryksin,Q4097351,2021-10-07,
-+++,Aleksandr Dondukov,Q4166135,2001-12-28,2003-09-17
-+++,Aleksandr Dvoynykh,Q60830635,2021-09-30,
-+++,Aleksandr Gavrin,Q4131293,2001-02-27,2005-03-23
+->,Aleksandr Chekalin->Alexander Chekalin,Q4508231,2008-05-12,2017-09-17
 +++,Aleksandr Golovanchikov,,2001-06-14,2004-02-19
 +++,Aleksandr Gusakovsky,,2021-10-15,
 +++,Aleksandr Kalita,,2001-01-18,2005-06-22
-+++,Aleksandr Karelin,Q187247,2020-09-25,
-+++,Aleksandr Karpov,Q106957740,2001-09-20,2005-06-22
-+++,Aleksandr Korovnikov,Q56046807,2007-11-16,2016-09
-+++,Aleksandr Koryakov,Q60829072,2016-09-26,2021-09
-+++,Aleksandr Lavrik,Q4252136,2013-10-03,2018-09-17
-+++,Aleksandr Lotorev,Q101354967,2005-12-07,2011-12
-+++,Aleksandr Lunyov,Q98085267,2004-04-15,2005-07-13
-+++,Aleksandr Matveyev,Q62714435,2003-01-23,2013-10-02
-+++,Aleksandr Nazarov,Q4312127,2001-01-18,2003-10-15
-+++,Aleksandr Nekrasov,Q28500050,2020-10-09,
-+++,Aleksandr Nikitin,Q15075321,2021-10-07,
-+++,Aleksandr Novyukhov,Q109137951,2021-10-07,
-+++,Aleksandr Petrov,Q66282310,2005-10-12,2010-09-29
-+++,Aleksandr Petrov,Q66282310,2011-04-28,2014-09-30
-+++,Aleksandr Pleshakov,Q4364960,2001-03-27,2002-06-07
+->,Aleksandr Kazakov->Alexander Kazakov,Q4207537,2001-12-21,2005-12-26
 +++,Aleksandr Podlesov,,2005-10-12,2010-11-10
-+++,Aleksandr Pronyushkin,Q62713518,2018-10-08,
-+++,Aleksandr Rakitin,Q41295310,2017-09-26,
-+++,Aleksandr Sabadash,Q4403389,2003-06-25,2006-06-27
-+++,Aleksandr Savenkov,Q4403873,2009-03-25,2013-09-25
-+++,Aleksandr Savin,Q106513293,2020-09-24,
-+++,Aleksandr Shishkin,Q19818063,2013-09-18,2018-09-28
-+++,Aleksandr Shkolnik,Q4525260,2008-10-15,2009-12-16
 +++,Aleksandr Sinyagin,,2011-12-13,2013-09-24
-+++,Aleksandr Skorobogatko,Q4422296,2002-08-14,2003-12-07
-+++,Aleksandr Smirnov,Q60827193,2005-04-13,2013-04-22
 +++,Aleksandr Suvorov,,2005-03-25,2012-05-17
-+++,Aleksandr Suvorov,Q55106913,2015-09-21,2018-09-27
-+++,Aleksandr Ter-Avanesov,Q4455377,2006-02-08,2015-11-27
-+++,Aleksandr Tishchenko,Q107727528,2004-09-15,2008-10-15
-+++,Aleksandr Torshin,Q4461403,2001-01-26,2015-01-20
-+++,Aleksandr Totoonov,Q15963950,2012-11-28,2017-09-22
-+++,Aleksandr Varfolomeyev,Q55651155,2013-09-18,
-+++,Aleksandr Vaynberg,Q4102482,2011-06-23,
-+++,Aleksandr Verkhovsky,Q19843999,2010-11-10,2017-10-19
-+++,Aleksandr Vysokinsky,Q60367985,2021-10-08,
-+++,Aleksandr Yakubov,Q15060757,2001-12-21,2004-02-25
-+++,Aleksandr Yakubov,Q15060757,2004-04-29,2005-10-12
-+++,Aleksandr Yermakov,Q61985942,2013-09-25,2020-09-24
-+++,Aleksandr Zelepukhin,Q23655992,2001-12-21,2004-04-21
-+++,Aleksandr Zhukov,Q62713966,2019-02-27,
-+++,Aleksei Bespalikov,Q24352325,2010-11-24,2014-10-01
-+++,Aleksei Sinitsyn,Q60835409,2018-09-17,
-+++,Aleksey Aleksandrov,Q4061077,2004-04-12,2020-09-24
-+++,Aleksey Dmitriyenko,Q60835547,2016-09-12,2020-09-21
-+++,Aleksey Grishin,Q62714181,2003-02-11,2004-10-28
+->,Aleksandr Vainberg->Aleksandr Vaynberg,Q4102482,2011-06-23,
+->,Aleksey Bespalikov->Aleksei Bespalikov,Q24352325,2010-11-24,2014-10-01
 +++,Aleksey Klishin,,2004-03-25,2009-04-01
-+++,Aleksey Kondratenko,Q60828361,2015-09-22,
-+++,Aleksey Kondratyev,Q15069303,2015-09-22,2020-09-22
-+++,Aleksey Korotkov,Q60835272,2016-10-13,2021-09-21
 +++,Aleksey Kostyukov,,2016-09,2017-10
-+++,Aleksey Lysyakov,Q28498998,2002-02-21,2011-12-13
-+++,Aleksey Mayorov,Q55956918,2011-07-05,
-+++,Aleksey Orlov,Q466927,2019-10-23,
-+++,Aleksey Pakhomov,Q70254633,2005-06-08,2011-12-01
-+++,Aleksey Panteleyev,Q4344281,2009-07-18,2012-02-09
-+++,Aleksey Pimanov,Q4362891,2011-01-17,2013-10-14
-+++,Aleksey Russkikh,Q4400897,2018-09-17,2021-04-08
-+++,Aleksey Shishkov,Q28354924,2003-01-10,2008-01-30
-+++,Aleksey Sokin,Q21148833,2011-03-17,2011-12
 ---,Alexander Alexandrovich Volkov,Q1378384,1996-01-23,2001-04-17
 ->,Alexander Alexandrovich Volkov->Alexander Volkov,Q1378384,2014-03-17,2017-09-26->2017-05-20
-+++,Alexander Babakov,Q2833421,2016-09-28,2020-09-22
-+++,Alexander Babakov,Q2833421,2020-09-22,2021-10-06
-+++,Alexander Chekalin,Q4508231,2008-05-12,2017-09-17
-+++,Alexander Dzasokhov,Q2624267,2005-06-22,2010-09-22
-+++,Alexander Karlin,Q1960321,2018-09-17,
-+++,Alexander Kazakov,Q4207537,2001-12-21,2005-12-26
-+++,Alexander Mikhailov,Q4297299,2018-11-27,2020-12-04
-+++,Alexander Pochinok,Q4375286,2007-06-06,2011-10-14
-+++,Alexander Pochinok,Q4375286,2012-01-31,2012-07-02
+->,Alexander Aristov->Aleksandr Aristov,Q27893123,2001-03-29,2004-01-28
+->,Alexander Gavrin->Aleksandr Gavrin,Q4131293,2001-02-27,2005-03-23
+->,Alexander Georgievich Suvorov->Aleksandr Suvorov,Q55106913,2015-09-21,2018-09-27
+->,Alexander Karelin->Aleksandr Karelin,Q187247,2020-09-25,
+->,Alexander Korovnikov->Aleksandr Korovnikov,Q56046807,2007-11-16,2016-09
+->,Alexander Koryakov->Aleksandr Koryakov,Q60829072,2016-09-26,2021-09
+->,Alexander Nekrasov->Aleksandr Nekrasov,Q28500050,2020-10-09,
+->,Alexander Nikolayevich Mikhaylov->Alexander Mikhailov,Q4297299,2018-11-27,2020-12-04
+->,Alexander Pashkov->Vladimir Pashkov,Q4347579,2001-12-21,2002-05-28
+->,Alexander Rakitin->Aleksandr Rakitin,Q41295310,2017-09-26,
 ->,Alexander Solovyov,Q16699412,2013-04-28->2013-04,2014-02-19->2014-02-26
-+++,Alexander Yaroshuk,Q4538993,2021-10-21,
-+++,Alexander Yevstifeyev,Q29178546,2002-01-11,2004-01-28
-+++,Alexei Pushkov,Q4384817,2016-09-29,
-+++,Alexey Chernyshyov,Q4514340,2010-09-22,2014-09-26
-+++,Amir Gallyamov,Q107015074,2007-09-19,2011-12
+->,Alexander Varfolomeev->Aleksandr Varfolomeyev,Q55651155,2013-09-18,
+->,Alexander Vysokinskij->Aleksandr Vysokinsky,Q60367985,2021-10-08,
+->,Alexander Zelepuhin->Aleksandr Zelepukhin,Q23655992,2001-12-21,2004-04-21
+->,Alexey Alexandrov->Aleksey Aleksandrov,Q4061077,2004-04-12,2020-09-24
+->,Alexey Kondratenko->Aleksey Kondratenko,Q60828361,2015-09-22,
+->,Alexey Lysyakov->Aleksey Lysyakov,Q28498998,2002-02-21,2011-12-13
+->,Alexey Mayorov->Aleksey Mayorov,Q55956918,2011-07-05,
+->,Alexey Panteleev->Aleksey Panteleyev,Q4344281,2009-07-18,2012-02-09
+->,Alexey Shishkov->Aleksey Shishkov,Q28354924,2003-01-10,2008-01-30
+->,Alexey Vladimirovich Sinitsyn->Aleksei Sinitsyn,Q60835409,2018-09-17,
 +++,Anastasia Zhukova,,2021-10-01,
-+++,Anatoly Bondaruk,Q15064622,2011-03-15,2014-09-25
+->,Anatoliy Bondaruk->Anatoly Bondaruk,Q15064622,2011-03-15,2014-09-25
+->,Anatoliy Kozeradsky->Anatoly Kozeradsky,Q63289885,2001-11-29,2002-04-11
 +++,Anatoly Dubodel,,2001-05-31,2004-01-29
-+++,Anatoly Korobeynikov,Q51668902,2001-01-25,2009-12-16
-+++,Anatoly Kozeradsky,Q63289885,2001-11-29,2002-04-11
-+++,Anatoly Lisitsyn,Q840698,2011-11-22,2018-09-25
-+++,Anatoly Lyskov,Q4270684,2002-01-31,2014-09-26
-+++,Anatoly Mishnev,Q30345914,2012-11-23,2015-09-29
-+++,Anatoly Saltykov,Q24352137,2001-04-17,2003-04-23
-+++,Anatoly Saltykov,Q24352137,2004-02-27,2010-11-24
-+++,Anatoly Shirokov,Q60835403,2014-10-10,
-+++,Anatoly Vaskov,Q97210058,2001-12-25,2004-04-15
-+++,Anatoly Vaskov,Q97210058,2005-07-13,2011-09-30
-+++,Andrei Klimov,Q4223719,2012-07-02,
-+++,Andrei Shevchenko,Q60835009,2016-09-27,
-+++,Andrey Artyukhov,Q108040998,2002-02-14,2005-11-23
-+++,Andrey Bazilevsky,Q108765251,2021-09-24,
-+++,Andrey Chernyshyov,Q43426301,2020-09-18,
-+++,Andrey Chirkin,Q100869490,2001-12-15,2005
-+++,Andrey Golushko,Q16637835,2012-07-19,2016-09-18
-+++,Andrey Guryev,Q4152529,2001-11-23,2013-05-29
-+++,Andrey Ishchuk,Q18212282,2004-04-30,2005-07-13
-+++,Andrey Ishchuk,Q18212282,2005-07-13,2007-10-17
-+++,Andrey Khazin,Q4494649,2004-02-13,2006-02-08
-+++,Andrey Khazin,Q4494649,2006-06-23,2011-04-28
-+++,Andrey Kislov,Q108736966,2021-09-28,
-+++,Andrey Klishas,Q4223993,2012-03-19,
-+++,Andrey Komarov,Q4229263,2005-09-21,2010-12
-+++,Andrey Kutepov,Q29677652,2016-09-28,
-+++,Andrey Lavrov,Q502113,2005-06-08,2011-01-26
-+++,Andrey Molchanov,Q4301113,2008-01-30,2011-12-28
-+++,Andrey Molchanov,Q4301113,2011-12-15,2013-04-17
-+++,Andrey Nelidov,Q201425,2006-04-07,2010-03-03
-+++,Andrey Shmelyov,Q4525646,2001-11-27,2007-09-19
-+++,Andrey Sobolev,Q22919697,2014-10-10,2017-09-19
-+++,Andrey Turchak,Q4466480,2007-07-06,2009-02-16
-+++,Andrey Turchak,Q4466480,2017-11-02,
-+++,Andrey Vavilov,Q4102110,2002-05-28,2010-03-17
+->,Andrei Klishas->Andrey Klishas,Q4223993,2012-03-19,
+->,Andrey Chernyshev->Andrey Chernyshyov,Q43426301,2020-09-18,
+->,Andrey Grigorevitsj Goerev->Andrey Guryev,Q4152529,2001-11-23,2013-05-29
+->,Andrey Klimov->Andrei Klimov,Q4223719,2012-07-02,
 +++,Andrey Vikharev,,2001-04-26,2004-06-29
-+++,Andrey Vorobyov,Q502185,2002-03-06,2003-12-07
-+++,Andrey Yatskin,Q99541861,2020-09-21,
-+++,Andrey Yepishin,Q4176098,2016-10-03,
-+++,Anna Otke,Q47453286,2013-09-25,
-+++,Anton Belyakov,Q4083534,2013-09-24,2018-10-08
-+++,Aramas Dallakyan,Q62714085,2015-06-05,2021-09
-+++,Arkady Chernetsky,Q2182618,2010-10-27,2021-10-08
-+++,Arkady Sarkisyan,Q4408649,2001-04-26,2006-06-02
-+++,Arnold Tulokhonov,Q4465164,2013-04-04,2017-02-16
-+++,Arsen Fadzayev,Q704427,2017-09-22,
-+++,Arsen Kanokov,Q594635,2013-12-25,2014-10-10
-+++,Arsen Kanokov,Q594635,2014-10-10,
-+++,Artur Chilingarov,Q2597507,2011-11-14,2014-10-01
-+++,Artyom Sheykin,Q108987202,2021-09-28,
-+++,Aslambek Aslakhanov,Q2362198,2008-07-11,2012-05
-+++,Aslan Khashir,Q4496784,2007-02-02,2011-08
-+++,Atay Aliyev,Q4062275,2006-03-24,2007-12-07
-+++,Ayrat Gaskarov,Q15065264,2010-12-24,2011-03-15
-+++,Ayrat Gibatdinov,Q108864926,2021-10-05,
-+++,Bair Zhamsuyev,Q4178003,2013-09-18,
-+++,Bato-Zhargal Zhambalnimbuyev,Q16650920,2010-12-15,2013-09-17
-+++,Batu Khasikov,Q4496447,2012-11-21,2014-09
-+++,Belan Khamchiev,Q4495345,2016-10-03,
-+++,Boris Agapov,Q4056625,2002-02-19,2005-10-12
-+++,Boris Agapov,Q4056625,2005-10-12,2012-06-29
-+++,Boris Gromov,Q504137,2012-05,2013-06-21
-+++,Boris Gutin,Q100146291,2004-06-02,2006-05-26
-+++,Boris Listov,Q16671563,2007-03-27,2009-10-30
+->,Bair Zhamsuev->Bair Zhamsuyev,Q4178003,2013-09-18,
+->,Belan Bagaoedinovitsj Hamtsjiev->Belan Khamchiev,Q4495345,2016-10-03,
 ---,Boris Nemtsov,Q363846,1993-12-12,2015-02-27
-+++,Boris Nevzorov,Q4315750,2012-01-10,
-+++,Boris Nikolsky,Q15075474,2002-01-15,2010-01-14
-+++,Boris Preobrazhensky,Q28500355,2001-02-15,2004-06-01
-+++,Boris Sorokin,Q4429155,2008-02,2011-04
-+++,Boris Spiegel,Q2357726,2003-04-03,2013-03-27
-+++,Boris Tretyak,Q28354838,2001-12-13,2010-11-10
-+++,Chamyr Udumbara,Q15068422,2001-12-24,2002-10-08
-+++,Denis Gusev,Q106541769,2020-09-14,
-+++,Devletkhan Alikhanov,Q4062458,2010-03-17,2010-09-22
-+++,Dina Oyun,Q84719197,2019-10-14,
-+++,Dmitri Alenichev,Q526233,2007-07-06,2010-11-10
-+++,Dmitry Ananyev,Q4064806,2006-09-25,2013-08-18
-+++,Dmitry Azarov,Q4058145,2014-10-10,2017-09-25
-+++,Dmitry Bednyakov,Q4080630,2002-04-11,2006-06-23
-+++,Dmitry Goritsky,Q107157806,2021-05-27,
-+++,Dmitry Krivitsky,Q56307801,2011-12-26,2016-09-28
-+++,Dmitry Kuzmin,Q60835408,2018-09-14,
-+++,Dmitry Mezentsev,Q385485,2002-01-16,2009-06-08
-+++,Dmitry Mezentsev,Q385485,2015-12-31,2019-04-30
-+++,Dmitry Perminov,Q4351475,2021-09-29,
-+++,Dmitry Priyatnov,Q76446687,2019-10-23,2019-10-31
-+++,Dmitry Sablin,Q4403533,2013-09-16,2016-09-18
-+++,Dmitry Savelyev,Q19818061,2016-10-06,
-+++,Dmitry Shatokhin,Q27921460,2016-09-22,2020-09
-+++,Dmitry Vasilenko,Q39082332,2016-10-05,
-+++,Eduard Isakov,Q4203649,2015-09-14,
-+++,Eduard Rossel,Q569362,2009-12-16,
-+++,Eduard Vasilishin,Q107408140,2005-09-21,2011-01-27
-+++,Ekaterina Lakhova,Q4255359,2014-09-30,2020-09-22
-+++,Ekzam Gubaydullin,Q4151252,2005-05-11,2012-12-19
-+++,Erik Bugulov,Q62714679,2002-02-19,2005-06-22
-+++,Farid Mukhametshin,Q4308762,2018-09-17,
-+++,Farkhad Akhmedov,Q4073083,2004-12-08,2007-06-06
+->,Boris Nikolski->Boris Nikolsky,Q15075474,2002-01-15,2010-01-14
+->,Chanmyr Udumbara->Chamyr Udumbara,Q15068422,2001-12-24,2002-10-08
+->,Devlethan Alihanov->Devletkhan Alikhanov,Q4062458,2010-03-17,2010-09-22
+->,Dmitry Krivetsky->Dmitry Krivitsky,Q56307801,2011-12-26,2016-09-28
+->,Efin Malkin->Yefim Malkin,Q15071910,2002-01-01,2015-06-01
+->,Egor Atanov->Yegor Atanov,Q4072016,2009-12-16,2014-09
+->,Ekaterina Filippovna Lachova->Ekaterina Lakhova,Q4255359,2014-09-30,2020-09-22
+->,Elena Avdeeva->Yelena Avdeyeva,Q70254739,2019-09-19,
+->,Elena Bibikova->Yelena Bibikova,Q55106921,2014-09-25,
+->,Elena Sagal->Yelena Sagal,Q51668952,2009-12-25,2012-08-17
+->,Elena Zlenko->Yelena Zlenko,Q62714108,2018-09-10,
+->,Eugene Shumeiko->Yevgeny Shumeyko,Q4527720,2011-04,2011-12
+->,Evgeni Bushmin->Yevgeny Bushmin,Q15064822,2001-11-20,2005-09-21
+->,Evgeni Bushmin->Yevgeny Bushmin,Q15064822,2005-09-21,2019-10-06
+->,Evgeny Zayashnikov->Yevgeny Zayashnikov,Q43427839,2001-11-12,2003-12-07
 ---,Farkhad Akhmedov,Q4073083,2007-01-22,2010-01-25
-+++,Farkhad Akhmedov,Q4073083,2007-06-06,2009-07-18
-+++,Fatima Ivanova,Q55806924,2013-09-26,2013-12-18
-+++,Filza Khamidullin,Q68577938,2003-04-11,2005-05-11
-+++,Frants Klintsevich,Q15702796,2015-09-29,2020-09-18
-+++,Galina Buslova,Q55651074,2001-12-14,2007-09-19
-+++,Galina Karelova,Q4214910,2014-09-22,
-+++,Galina Munzuk,Q84718811,2011-04-02,2014-10-05
-+++,Galina Nikolayeva,Q61101848,2012-07-05,2014-12-15
-+++,Galina Solodun,Q70254708,2020-09-22,
-+++,Gennady Burbulis,Q1970048,2001-11-02,2007-11-16
-+++,Gennady Gorbunov,Q4143694,2001-12-25,2016-09-26
-+++,Gennady Khripel,Q4501387,2001-12-20,2007-05-04
-+++,Gennady Makin,Q28499216,2011-11-03,2014-09-22
+->,Färit Möxämmätşin->Farid Mukhametshin,Q4308762,2018-09-17,
 +++,Gennady Oleynik,,2001-06-01,2010-05-26
-+++,Gennady Ordenov,Q60834983,2016-09-26,
 +++,Gennady Savinov,,2011-04,2016-10
 +++,Gennady Shirokonosov,,2000-11-23,2005-04-13
-+++,Gennady Yagubov,Q43424911,2021-09-30,
-+++,Gennady Yemelyanov,Q70434437,2019-10-02,
-+++,Georgy Golikov,Q70251074,2001-12-03,2003-12-07
-+++,German Petrov,Q70251342,2001-12-01,2004-12-03
-+++,German Tkachenko,Q4458939,2001-12-27,2005-07-13
-+++,Gleb Fetisov,Q4483313,2001-07-12,2009-05-13
-+++,Grigory Karasin,Q4214210,2019-09-12,
-+++,Grigory Ledkov,Q18044235,2020-09-25,
-+++,Grigory Naginsky,Q4311566,2003-09-16,2010-01-15
-+++,Grigory Rapota,Q370422,2021-05-17,
-+++,Igor Bryntsalov,Q16628101,2002-01-16,2011-12-08
-+++,Igor Chernyshenko,Q55106915,2013-06-06,2019-09-27
-+++,Igor Chernyshyov,Q28664646,2012-09-27,2016-09-28
-+++,Igor Fomin,Q29359657,2012-09-03,2020-09
+->,Georgiy Golikov->Georgy Golikov,Q70251074,2001-12-03,2003-12-07
+->,Grigoriy Mihaylovich Naginskiy->Grigory Naginsky,Q4311566,2003-09-16,2010-01-15
+->,Hatsjim Moechamedovitsj Karmokov->Khachim Karmokov,Q4215479,2001-06-01,2009-05-13
 +++,Igor Glukhovsky,,2000-11-29,2010-03-03
-+++,Igor Ivanov,Q106651542,2004-01-28,2006-05-26
-+++,Igor Izmestyev,Q4198697,2001-12-21,2006-12-13
-+++,Igor Kagramanyan,Q61974465,2017-09-20,2020-06-17
-+++,Igor Kamenskoy,Q56307709,2002-10-19,2004-03-11
-+++,Igor Kamenskoy,Q56307709,2004-05-25,2009-11-16
-+++,Igor Koshin,Q16666615,2012-02-09,2014-02-26
+->,Igor Izmestiev->Igor Izmestyev,Q4198697,2001-12-21,2006-12-13
 +++,Igor Martynov,,2014-09-19,2016-09-27
-+++,Igor Morozov,Q15073631,2001-08-22,2003-12-07
-+++,Igor Morozov,Q15073631,2012-12-07,2017-10-26
-+++,Igor Morozov,Q15073631,2017-10-26,
-+++,Igor Panchenko,Q55102665,2014-09-30,
 ->,Igor Provkin,Q17538762,2001-12->2001-12-21,2004-10->2004-10-28
-+++,Igor Pushkaryov,Q4384687,2004-11-24,2008-05-23
-+++,Igor Rogachyov,Q4395424,2005-06-22,2012-04-07
-+++,Igor Shubin,Q4527170,2010-12-24,2012-01
-+++,Igor Shubin,Q4527170,2012-02-16,2016-09-29
-+++,Igor Slyunyayev,Q4424147,2006-01-25,2007-10-25
-+++,Igor Vasilyev,Q26161019,2004-10-28,2010-03-03
-+++,Igor Zubarev,Q29358938,2016-10-07,
-+++,Igor Zuga,Q4194537,2012-08-29,2015-09-23
-+++,Ildus Akhmetzyanov,Q25555840,2014-10-01,2019-10-02
-+++,Iliyas Umakhanov,Q26255538,2001-11-29,
-+++,Ilya Lomakin-Rumyantsev,Q65152156,2001-03-29,2004-03-30
-+++,Ilyas Bechelov,Q56307981,2010-12,2014-10-10
-+++,Inna Svyatenko,Q54492812,2019-09-19,
-+++,Innokenty Yegorov,Q55652665,2004-12-22,2013-09-18
-+++,Irek Yalalov,Q4537386,2018-09-28,
-+++,Irina Gekht,Q24009810,2014-09-24,2019-07-10
+->,Ilya Lomakin-Rumyanzev->Ilya Lomakin-Rumyantsev,Q65152156,2001-03-29,2004-03-30
+->,Ilyas Umakhanov->Iliyas Umakhanov,Q26255538,2001-11-29,
+->,Innokentiy Egorov->Innokenty Yegorov,Q55652665,2004-12-22,2013-09-18
+->,Iraida Tikhonova->Irina Tikhonova,Q55106922,2014-09-26,2018-11-07
 +++,Irina Kozhanova,,2021-10-21,
-+++,Irina Larochkina,Q68960496,2002-01-17,2005-05-06
-+++,Irina Petina,Q106535448,2020-06-17,
-+++,Irina Rukavishnikova,Q60835030,2018-09-15,
-+++,Irina Tikhonova,Q55106922,2014-09-26,2018-11-07
-+++,Issa Kostoyev,Q4235476,2002-07-01,2009-05-13
-+++,Ivan Abramov,Q4054921,2018-09-27,
-+++,Ivan Kulabukhov,Q55104260,2015-01,2020-09-22
-+++,Ivan Starikov,Q4439888,2001-01-25,2004-04-28
-+++,Khachim Karmokov,Q4215479,2001-06-01,2009-05-13
-+++,Khuseyn Chechenov,Q47453832,2004-02-03,2010-12
-+++,Konstantin Dobrynin,Q20469725,2012-03-15,2015-09-25
-+++,Konstantin Dolgov,Q70254757,2019-09-27,
-+++,Konstantin Kosachev,Q736840,2014-12-15,2015-09-15
-+++,Konstantin Kosachev,Q736840,2015-09-21,
-+++,Konstantin Markelov,Q47091528,2001-02-15,2005-02-04
-+++,Konstantin Meremyanin,Q102852607,2002-01-01,2003-01-10
-+++,Konstantin Skomorokhin,Q4422116,2011-12-13,2016-10-06
-+++,Konstantin Surkov,Q106489850,2010-12-15,2013-09-16
-+++,Konstantin Titov,Q2367193,2007-10-17,2014-10-09
-+++,Konstantin Tsitsin,Q4506006,2006-07-07,2007-11-16
-+++,Konstantin Tsybko,Q18405816,2010-12-30,2015-09
-+++,Konstantin Yeryomenko,Q2596835,2004-06-01,2009-05-13
-+++,Konstantin Yeryomenko,Q2596835,2009-05-27,2010-03-18
-+++,Krym Kazanokov,Q56309709,2016-02,2016-09
-+++,Krym Kazanokov,Q56309709,2019-06-25,
-+++,Larisa Ponomaryova,Q106734231,2005-03-23,2013-09
-+++,Larisa Tyurina,Q108056765,2016-09-29,2017-10-10
-+++,Lenar Safin,Q99767758,2020-09-18,
-+++,Leon Kovalsky,Q28498337,2001-12-03,2006-01-25
+->,Ivan Kulabuhov->Ivan Kulabukhov,Q55104260,2015-01,2020-09-22
+->,Kateryna Altabayeva->Yekaterina Altabayeva,Q26255561,2019-09-14,2020-10-02
+->,Kateryna Altabayeva->Yekaterina Altabayeva,Q26255561,2020-10-02,
+->,Leon Iosifovich Kowalski->Leon Kovalsky,Q28498337,2001-12-03,2006-01-25
 +++,Leonid Belov,Q108836976,2006-06-23,2011-06-24
-+++,Leonid Lebedev,Q4255760,2002-09-10,2015-06
 +++,Leonid Lushkin,,2001-01-30,2004-04-29
-+++,Leonid Mostovoy,Q100678083,2003-12-29,2004-12-08
-+++,Leonid Nevzlin,Q1973544,2001-11-30,2003-03-27
-+++,Leonid Tyagachev,Q4467829,2007-07-11,2018-09-15
-+++,Levon Chakhmakhchyan,Q4507839,2004-11-26,2006-06-23
-+++,Lidiya Antonova,Q24351453,2014-10-09,2016-09-18
-+++,Liliya Gumerova,Q23673993,2014-09-25,
-+++,Lyubov Glebova,Q4139623,2012-10-22,2015-03-22
-+++,Lyubov Glebova,Q4139623,2017-09-17,
-+++,Lyudmila Bokova,Q18337942,2012-04-24,2017-09-19
-+++,Lyudmila Bokova,Q18337942,2017-09-19,2020-01-27
-+++,Lyudmila Kononova,Q55103681,2013-10-16,2018-09-21
-+++,Lyudmila Kostkina,Q4235448,2014-09-20,2016-09
-+++,Lyudmila Kozlova,Q106321265,2013-09-26,2018-09-27
-+++,Lyudmila Narusova,Q2107072,2002-10-08,2010-10-13
-+++,Lyudmila Narusova,Q2107072,2010-10-13,2012-10-22
-+++,Lyudmila Narusova,Q2107072,2016-09-23,
-+++,Lyudmila Skakovskaya,Q68294513,2021-09-24,
-+++,Lyudmila Talabayeva,Q55103680,2016-10-05,
-+++,Magomed Magomedov,Q51340649,2002-07-04,2009-04-22
-+++,Maksim Kavdzharadze,Q4206913,2001-12-25,
-+++,Margarita Pavlova,Q70254404,2019-09-20,
-+++,Maria Lvova-Belova,Q99521842,2020-09-21,2021-11-10
-+++,Marina Rogachyova,Q105105146,2004-05-21,2009-02-16
-+++,Mergen Oorzhak,Q54803575,2014-10-06,2016-09
-+++,Mikhail Afanasov,Q51669343,2012-08-17,2019-09
-+++,Mikhail Afanasov,Q51669343,2020-10-14,
-+++,Mikhail Glubokovsky,Q28497366,2002-01-30,2002-11-27
-+++,Mikhail Gnezdilov,Q16323959,2001-02-15,2002-02-19
-+++,Mikhail Isayev,Q19817638,2012-10-24,2016-09-28
-+++,Mikhail Kapura,Q4213256,2005-11-23,2012-11
-+++,Mikhail Korobeynikov,Q62712825,2001-12-03,2004-09-15
-+++,Mikhail Kozlov,Q65170800,2015-11-27,2020-10-05
-+++,Mikhail Lapshin,Q1775096,2006-02-08,2006-06-17
-+++,Mikhail Marchenko,Q21106293,2012-10-22,2015-09-29
-+++,Mikhail Margelov,Q2060455,2000-12-21,2014-09-25
-+++,Mikhail Mikhailovsky,Q4297725,2002-01-01,2003-10-29
-+++,Mikhail Mikheyev,Q4298078,2001-04-09,2004-04-14
-+++,Mikhail Nikolayev,Q2390534,2002-01-28,2010-06-23
+->,Lilia Gumerova->Liliya Gumerova,Q23673993,2014-09-25,
+->,Ludmila Skakovskaya->Lyudmila Skakovskaya,Q68294513,2021-09-24,
+->,Lydia Antonova->Lidiya Antonova,Q24351453,2014-10-09,2016-09-18
+->,Michail Michailovitch Sorokin->Mikhail Sorokin,Q4429207,2001-11-28,2011-12-26
+->,Mikhail Gloubokovsky->Mikhail Glubokovsky,Q28497366,2002-01-30,2002-11-27
 +++,Mikhail Odintsov,,2001-01-27,2004-04-30
-+++,Mikhail Ponomaryov,Q60834993,2016-10-06,2021-03-13
-+++,Mikhail Shchetinin,Q70254233,2014-09-26,2018-09-17
-+++,Mikhail Sorokin,Q4429207,2001-11-28,2011-12-26
-+++,Mokhmad Akhmadov,Q84720768,2019-11-14,
-+++,Mukharbek Barakhoyev,Q70254663,2019-09-08,
-+++,Mukharbek Didigov,Q55652537,2009-05-13,2011-12-21
-+++,Mukharbek Didigov,Q55652537,2013-09-09,2018-09-09
-+++,Mukharby Ulbashev,Q29359625,2001-12-24,2004-02-03
-+++,Mukharby Ulbashev,Q29359625,2014-10-11,
-+++,Murat Khapsirokov,Q28500788,2012-02-08,
-+++,Murat Suyunchev,Q60826602,2011-04,2015-06
-+++,Musa Chiliyev,Q60827787,2018-09-09,2019-09
-+++,Musa Keligov,Q21010553,2010-03,2010-05
-+++,Musa Umarov,Q15067418,2003-12-11,2008-11-26
-+++,Nadezhda Boltenko,Q24352464,2014-10-01,2018-10-01
-+++,Natalya Dementyeva,Q4157416,2004-06-10,2019-10-07
-+++,Natalya Kosikhina,Q62713767,2018-09-25,
-+++,Nikita Ivanov,Q4196233,2011-12-30,2013-09-09
-+++,Nikolai Bulayev,Q4098702,2015-10,2016-03
-+++,Nikolai Bychkov,Q65133709,2003-03-27,2004-11-25
-+++,Nikolai Churkin,Q4518238,2002-01-01,2012-05
-+++,Nikolai Dolgushkin,Q48956611,2004-04-21,2010-09-22
+->,Mukharbiy Ulbashev->Mukharby Ulbashev,Q29359625,2001-12-24,2004-02-03
+->,Mukharbiy Ulbashev->Mukharby Ulbashev,Q29359625,2014-10-11,
+->,Murat Hapsirokov->Murat Khapsirokov,Q28500788,2012-02-08,
+->,Natalia Dementieva->Natalya Dementyeva,Q4157416,2004-06-10,2019-10-07
 +++,Nikolai Fedoryak,,2010-05-26,2015-03
-+++,Nikolai Frolov,Q22247015,2009-04-22,2012-11-23
-+++,Nikolai Kondratenko,Q4230550,2001-01-11,2003-12-07
-+++,Nikolai Kondratenko,Q4230550,2008-01-30,2013-11-27
-+++,Nikolai Kosarev,Q4234768,2001-12-29,2016-09-28
-+++,Nikolai Lvov,Q56307384,2008-10-15,2012-03-15
 +++,Nikolai Medvedev,,2002-01-01,2007-07-06
-+++,Nikolai Olshansky,Q4334450,2011-01-20,2013-03-01
-+++,Nikolai Petrushkin,Q70250938,2013-04-22,2017-05
-+++,Nikolai Pozhitkov,Q107722232,2003-12-30,2016-09-27
-+++,Nikolai Ryzhkov,Q366524,2003-09-17,
-+++,Nikolai Savelyev,Q4403821,2012-12-24,2015-09-21
-+++,Nikolai Semisotov,Q18635020,2019-09-25,
-+++,Nikolai Tonkov,Q4460534,2004-04-09,2011-11-22
-+++,Nikolai Tulayev,Q60827920,2000-12-08,2011-06-09
-+++,Nikolai Vladimirov,Q108920334,2021-09-29,
-+++,Nikolai Vlasenko,Q107561021,2011-06-09,2016-03
-+++,Nikolai Zhuravlyov,Q58887554,2011-05-18,
-+++,Nikolay Fyodorov,Q734866,2010-09-22,2012-05-23
-+++,Nikolay Fyodorov,Q734866,2015-09-15,
-+++,Nikolay Kondratyuk,Q110817787,2021-12-21,
+->,Nikolay Bulayev->Nikolai Bulayev,Q4098702,2015-10,2016-03
+->,Nikolay Churkin->Nikolai Churkin,Q4518238,2002-01-01,2012-05
+->,Nikolay Kosarev->Nikolai Kosarev,Q4234768,2001-12-29,2016-09-28
 ---,Nikolay Maksyuta,Q4276406,1997-01-22,2001-01-25
 ->,Nikolay Maksyuta,Q4276406,2010-03-02->2010-02-03,2014-09-25
-+++,Nikolay Shaklein,Q1778740,2009-04-01,2012-03-16
-+++,Nikolay Volkov,Q4123338,2010-03-03,2015-09-22
-+++,Nina Kulikovskikh,Q100332986,2020-09-18,
-+++,Nina Tkachyova,Q108061980,2005-04-13,2006-05-26
-+++,Nina Tkachyova,Q108061980,2006-05-26,2011-06-23
-+++,Nurbiy Samogov,Q18277253,2011-08-24,2012-02
-+++,Oganes Oganyan,Q15076678,2001-01,2011-12-04
-+++,Oksana Buriko,Q60824815,2014-10-27,2019-10-14
+->,Nikolay Mikhailovich Volkov->Nikolay Volkov,Q4123338,2010-03-03,2015-09-22
+->,Nikolay Olshansky->Nikolai Olshansky,Q4334450,2011-01-20,2013-03-01
+->,Nikolay Savelyev->Nikolai Savelyev,Q4403821,2012-12-24,2015-09-21
+->,Nikolay Semisotov->Nikolai Semisotov,Q18635020,2019-09-25,
+->,Nikolay Tonkov->Nikolai Tonkov,Q4460534,2004-04-09,2011-11-22
+->,Nikolay Tulaev->Nikolai Tulayev,Q60827920,2000-12-08,2011-06-09
+->,Nikolay Vasilyevich Fyodorov->Nikolay Fyodorov,Q734866,2010-09-22,2012-05-23
+->,Nikolay Vasilyevich Fyodorov->Nikolay Fyodorov,Q734866,2015-09-15,
 +++,Oksana Khlyakina,,2021-09-21,
-+++,Oleg Alekseyev,Q109967767,2016-09-28,2017-09-19
-+++,Oleg Alekseyev,Q109967767,2020-04-08,
-+++,Oleg Chirkunov,Q1062350,2001-01,2004-03
-+++,Oleg Kankov,Q62714657,2012-10-02,2015-10-03
-+++,Oleg Kazakovtsev,Q107636541,2011-04-28,2016-03
-+++,Oleg Kazakovtsev,Q107636541,2016-09,2017-09
-+++,Oleg Khatsev,Q39082301,2010-09-22,2015-09-29
-+++,Oleg Korolyov,Q1962353,2018-11-15,2021-06-23
-+++,Oleg Kovalyov,Q4225606,2017-10-26,2020-05-11
-+++,Oleg Kozhemyako,Q4226336,2002-11-27,2004-09-29
-+++,Oleg Melnichenko,Q56311119,2017-09-26,2021-03-31
-+++,Oleg Morozov,Q4302998,2015-09-18,2020-09-18
-+++,Oleg Panteleyev,Q28354848,2001-04-26,2014-09-26
-+++,Oleg Seleznyov,Q55655788,2017-09-10,2021-10-06
-+++,Oleg Shurdumov,Q56309166,2004-06-04,2009-06-17
-+++,Oleg Tatarinov,Q97316028,2000-12-21,2004-10-03
-+++,Oleg Tkach,Q4458914,2004-01-22,
 +++,Oleg Tolkachyov,,2010-01-14,2010-12
-+++,Oleg Tsepkin,Q24009727,2015-09-24,
-+++,Oleg Yeremeyev,Q4176247,2011-01-26,2015-03
-+++,Olga Khokhlova,Q62713413,2018-10-05,
-+++,Olga Starostina,Q62713982,2018-10-01,2020-09-13
-+++,Olga Timofeyeva,Q15071668,2014-10-21,2019-09-14
-+++,Olga Yepifanova,Q19615418,2020-09-23,
-+++,Olga Zabralova,Q107084045,2021-05-19,
-+++,Oner Ondar,Q84720001,2013-12-21,2014-10
-+++,Pavel Berks,Q102078222,2003-12-26,2008-01-30
-+++,Pavel Fedirko,Q29359641,2001-11-02,2004-05-25
-+++,Pavel Maslovsky,Q21106348,2011-12-18,2014-10
-+++,Pavel Merkulov,Q21641638,2001-12-28,2004-05-21
-+++,Pavel Tarakanov,Q4451506,2018-09-27,
+->,Olga Timofeeva->Olga Timofeyeva,Q15071668,2014-10-21,2019-09-14
+->,Oxana Buriko->Oksana Buriko,Q60824815,2014-10-27,2019-10-14
+->,Pavel Vladimirovitsj Tarakanov->Pavel Tarakanov,Q4451506,2018-09-27,
 ---,Pyotr Sumin,Q2375587,1996,2001
-+++,Pyotr Tultayev,Q16708323,2021-09-29,
 +++,Pyotr Volostrigov,,2001-06-01,2006-07-07
+->,Q100146291->Boris Gutin,Q100146291,2004-06-02,2006-05-26
+->,Q100332986->Nina Kulikovskikh,Q100332986,2020-09-18,
+->,Q100678083->Leonid Mostovoy,Q100678083,2003-12-29,2004-12-08
+->,Q100869490->Andrey Chirkin,Q100869490,2001-12-15,2005
+->,Q101003401->Valentin Chernyavsky,Q101003401,2002-05-16,2005-12-14
+->,Q101097189->Viktor Nefyodov,Q101097189,2001-12-21,2003-12-07
+->,Q101354967->Aleksandr Lotorev,Q101354967,2005-12-07,2011-12
+->,Q102078222->Pavel Berks,Q102078222,2003-12-26,2008-01-30
+->,Q102119674->Valery Tikhomirov,Q102119674,2001-12-04,2004-02-17
+->,Q102852607->Konstantin Meremyanin,Q102852607,2002-01-01,2003-01-10
+->,Q105105146->Marina Rogachyova,Q105105146,2004-05-21,2009-02-16
+->,Q105579422->Sergey Beryozkin,Q105579422,2020-06-18,
+->,Q106465665->Vladimir Beryozov,Q106465665,2002-01-18,2002-06-18
+->,Q106474325->Yelena Shumilova,Q106474325,2020-09-24,
+->,Q106489850->Konstantin Surkov,Q106489850,2010-12-15,2013-09-16
+->,Q106489897->Yevgeny Gromyko,Q106489897,2014-01-22,2015-07-25
+->,Q106513293->Aleksandr Savin,Q106513293,2020-09-24,
+->,Q106535448->Irina Petina,Q106535448,2020-06-17,
+->,Q106535505->Sergey Perminov,Q106535505,2020-09-17,
+->,Q106541769->Denis Gusev,Q106541769,2020-09-14,
+->,Q106547414->Svetlana Korostelyova,Q106547414,2020-10-14,2021-09-27
+->,Q106547729->Sergei Kolbin,Q106547729,2020-10-29,
+->,Q106548018->Sergey Kalashnik,Q106548018,2020-10-05,
+->,Q106591299->Vladimir Kharlamov,Q106591299,2015-11-25,2017-09-15
+->,Q106651542->Igor Ivanov,Q106651542,2004-01-28,2006-05-26
+->,Q106734231->Larisa Ponomaryova,Q106734231,2005-03-23,2013-09
+->,Q106778328->Vladimir Nikitov,Q106778328,2001-12-18,2002-07-04
+->,Q106957740->Aleksandr Karpov,Q106957740,2001-09-20,2005-06-22
+->,Q107015074->Amir Gallyamov,Q107015074,2007-09-19,2011-12
+->,Q107084045->Olga Zabralova,Q107084045,2021-05-19,
+->,Q107157806->Dmitry Goritsky,Q107157806,2021-05-27,
+->,Q107408140->Eduard Vasilishin,Q107408140,2005-09-21,2011-01-27
+->,Q107500799->Yury Sivkov,Q107500799,2001-12-11,2007-10-14
+->,Q107560143->Yury Udalov,Q107560143,2011-06-06,2012-12
+->,Q107560828->Valery Ustyugov,Q107560828,2000-12-18,2002-08-14
+->,Q107561021->Nikolai Vlasenko,Q107561021,2011-06-09,2016-03
+->,Q107589451->Vladislav Zhiganov,Q107589451,2004-02-27,2005-06-22
+->,Q107636541->Oleg Kazakovtsev,Q107636541,2011-04-28,2016-03
+->,Q107636541->Oleg Kazakovtsev,Q107636541,2016-09,2017-09
+->,Q107722232->Nikolai Pozhitkov,Q107722232,2003-12-30,2016-09-27
+->,Q107727528->Aleksandr Tishchenko,Q107727528,2004-09-15,2008-10-15
+->,Q107733892->Vladimir Sysolyatin,Q107733892,2002-01-01,2002-11-13
+->,Q108040998->Andrey Artyukhov,Q108040998,2002-02-14,2005-11-23
+->,Q108056765->Larisa Tyurina,Q108056765,2016-09-29,2017-10-10
+->,Q108061980->Nina Tkachyova,Q108061980,2005-04-13,2006-05-26
+->,Q108061980->Nina Tkachyova,Q108061980,2006-05-26,2011-06-23
+->,Q108063419->Zhanna Ivanova,Q108063419,2012-06,2015-12
+->,Q108067000->Valentina Dyomina,Q108067000,2001-04-25,2005-09-21
+->,Q108692129->Yuliya Lazutkina,Q108692129,2021-04-29,
+->,Q108736966->Andrey Kislov,Q108736966,2021-09-28,
+->,Q108765251->Andrey Bazilevsky,Q108765251,2021-09-24,
+->,Q108920334->Nikolai Vladimirov,Q108920334,2021-09-29,
+->,Q108987202->Artyom Sheykin,Q108987202,2021-09-28,
+->,Q109137951->Aleksandr Novyukhov,Q109137951,2021-10-07,
+->,Q110817787->Nikolay Kondratyuk,Q110817787,2021-12-21,
+->,Q15060757->Aleksandr Yakubov,Q15060757,2001-12-21,2004-02-25
+->,Q15060757->Aleksandr Yakubov,Q15060757,2004-04-29,2005-10-12
+->,Q15076678->Oganes Oganyan,Q15076678,2001-01,2011-12-04
+->,Q16665401->Tatyana Konovalova,Q16665401,2001-05-23,2005-07-12
+->,Q16708323->Pyotr Tultayev,Q16708323,2021-09-29,
+->,Q18277846->Viktor Smirnov,Q18277846,2018-09-27,2021-09
+->,Q21148833->Aleksey Sokin,Q21148833,2011-03-17,2011-12
+->,Q22246881->Valery Manilov,Q22246881,2001-08-29,2004-01-28
+->,Q22247015->Nikolai Frolov,Q22247015,2009-04-22,2012-11-23
+->,Q25641519->Robert Burnashov,Q25641519,2002-01-28,2003-01-23
+->,Q27921460->Dmitry Shatokhin,Q27921460,2016-09-22,2020-09
+->,Q28664646->Igor Chernyshyov,Q28664646,2012-09-27,2016-09-28
+->,Q29864930->Sergey Brilka,Q29864930,2018-09-20,
+->,Q30346262->Valentina Zganich,Q30346262,2017-04-20,2018-09
+->,Q30346283->Stepan Zhiryakov,Q30346283,2013-10-16,2018-10-08
+->,Q39082301->Oleg Khatsev,Q39082301,2010-09-22,2015-09-29
+->,Q4173490->Viktor Yevtukhov,Q4173490,2009-11-25,2011-02-28
+->,Q4219669->Yefim Kerpelman,Q4219669,2000-12-13,2004-06-02
+->,Q4297725->Mikhail Mikhailovsky,Q4297725,2002-01-01,2003-10-29
+->,Q4315750->Boris Nevzorov,Q4315750,2012-01-10,
+->,Q4337819->Yury Osintsev,Q4337819,2007-09-19,2009-04-02
+->,Q43424911->Gennady Yagubov,Q43424911,2021-09-30,
+->,Q4363539->Yelena Pisareva,Q4363539,2021-10-06,
+->,Q4397824->Yury Roslyak,Q4397824,2010-12,2013-09-13
+->,Q4403389->Aleksandr Sabadash,Q4403389,2003-06-25,2006-06-27
+->,Q4403588->Ziya Sabsabi,Q4403588,2008-11-26,2019-11-06
+->,Q4422116->Konstantin Skomorokhin,Q4422116,2011-12-13,2016-10-06
 ->,Q4458577->Nikolai Tikhomirov,Q4458577,2012-02-10,NULL->2019-09-19
-+++,Rafael Baydavletov,Q4075434,2008-04-16,2010-12-24
-+++,Rafali Zinurov,Q41889832,2013-10-03,2018-09-28
-+++,Rafgat Altynbayev,Q4063042,2001-05-11,2003-04-11
-+++,Rafgat Altynbayev,Q4063042,2005-09-21,2012-12
-+++,Rakhim Azimov,Q60322687,2002-02-27,2003-02-11
-+++,Ralif Safin,Q50224531,2002-06-05,2014-09-30
-+++,Ramazan Abdulatipov,Q3813416,2000-12-19,2005-04-27
-+++,Ramil Iskuzhin,Q15067681,2006-12-27,2007-12-07
-+++,Ratmir Aybazov,Q56309274,2001-11-16,2009-06
-+++,Ratmir Aybazov,Q56309274,2009-06-17,2011-04-07
-+++,Rauf Arashukov,Q56310238,2016-09-18,2019-05-22
-+++,Rimma Galushina,Q62713930,2018-10-02,
-+++,Robert Burnashov,Q25641519,2002-01-28,2003-01-23
-+++,Rostislav Goldstein,Q4142768,2015-09-22,2019-12-23
-+++,Rudik Iskuzhin,Q4203952,2004-02-25,2006-12-27
-+++,Rudik Iskuzhin,Q4203952,2006-12-27,2013-10-03
-+++,Ruslan Aushev,Q205645,2002-01-10,2002-04-23
-+++,Ruslan Gattarov,Q16635877,2010-05-26,2014-02-19
-+++,Rustem Iskhakov,Q56308329,2001-12-21,2005-11-23
+->,Q4464645->Valery Trushnikov,Q4464645,2002-01-01,2008-06-18
+->,Q4525646->Andrey Shmelyov,Q4525646,2001-11-27,2007-09-19
+->,Q4528437->Sergey Shcheblygin,Q4528437,2001-12-28,2016-10-04
+->,Q47453832->Khuseyn Chechenov,Q47453832,2004-02-03,2010-12
+->,Q48956611->Nikolai Dolgushkin,Q48956611,2004-04-21,2010-09-22
+->,Q51668902->Anatoly Korobeynikov,Q51668902,2001-01-25,2009-12-16
+->,Q52105935->Sergey Ryabukhin,Q52105935,2013-09-20,
+->,Q55103680->Lyudmila Talabayeva,Q55103680,2016-10-05,
+->,Q55103681->Lyudmila Kononova,Q55103681,2013-10-16,2018-09-21
+->,Q55650549->Vladimir Bavlov,Q55650549,2001-12-18,2004-07-01
+->,Q55652537->Mukharbek Didigov,Q55652537,2009-05-13,2011-12-21
+->,Q55652537->Mukharbek Didigov,Q55652537,2013-09-09,2018-09-09
+->,Q55806924->Fatima Ivanova,Q55806924,2013-09-26,2013-12-18
+->,Q56307384->Nikolai Lvov,Q56307384,2008-10-15,2012-03-15
+->,Q56307981->Ilyas Bechelov,Q56307981,2010-12,2014-10-10
+->,Q56308329->Rustem Iskhakov,Q56308329,2001-12-21,2005-11-23
+->,Q56309166->Oleg Shurdumov,Q56309166,2004-06-04,2009-06-17
+->,Q56309274->Ratmir Aybazov,Q56309274,2001-11-16,2009-06
+->,Q56309274->Ratmir Aybazov,Q56309274,2009-06-17,2011-04-07
+->,Q57206655->Yevgeny Serebrennikov,Q57206655,2006-09-25,2018-09
+->,Q58887554->Nikolai Zhuravlyov,Q58887554,2011-05-18,
+->,Q60826026->Zubar Dokshokov,Q60826026,2009-12,2011-04
+->,Q60826602->Murat Suyunchev,Q60826602,2011-04,2015-06
+->,Q60827193->Aleksandr Smirnov,Q60827193,2005-04-13,2013-04-22
+->,Q60827787->Musa Chiliyev,Q60827787,2018-09-09,2019-09
+->,Q60830635->Aleksandr Dvoynykh,Q60830635,2021-09-30,
+->,Q60834983->Gennady Ordenov,Q60834983,2016-09-26,
+->,Q60834993->Mikhail Ponomaryov,Q60834993,2016-10-06,2021-03-13
+->,Q60835030->Irina Rukavishnikova,Q60835030,2018-09-15,
+->,Q60835272->Aleksey Korotkov,Q60835272,2016-10-13,2021-09-21
+->,Q60835408->Dmitry Kuzmin,Q60835408,2018-09-14,
+->,Q60835547->Aleksey Dmitriyenko,Q60835547,2016-09-12,2020-09-21
+->,Q60838755->Yuri Arkharov,Q60838755,2017-10-19,
+->,Q60838852->Yelena Perminova,Q60838852,2014-09-26,
+->,Q61101848->Galina Nikolayeva,Q61101848,2012-07-05,2014-12-15
+->,Q61974465->Igor Kagramanyan,Q61974465,2017-09-20,2020-06-17
+->,Q61985942->Aleksandr Yermakov,Q61985942,2013-09-25,2020-09-24
+->,Q62311511->Valery Zhilin,Q62311511,2014-10-24,2015-10-15
+->,Q62712825->Mikhail Korobeynikov,Q62712825,2001-12-03,2004-09-15
+->,Q62713413->Olga Khokhlova,Q62713413,2018-10-05,
+->,Q62713518->Aleksandr Pronyushkin,Q62713518,2018-10-08,
+->,Q62713727->Sergey Mamedov,Q62713727,2011-12-23,2021-06-23
+->,Q62713767->Natalya Kosikhina,Q62713767,2018-09-25,
+->,Q62713930->Rimma Galushina,Q62713930,2018-10-02,
+->,Q62714027->Yury Vazhenin,Q62714027,2016-10-06,2021-09
+->,Q62714085->Aramas Dallakyan,Q62714085,2015-06-05,2021-09
+->,Q62714181->Aleksey Grishin,Q62714181,2003-02-11,2004-10-28
+->,Q62714300->Yevgeny Trofimov,Q62714300,2001-12-21,2011-04-21
+->,Q62714435->Aleksandr Matveyev,Q62714435,2003-01-23,2013-10-02
+->,Q62714657->Oleg Kankov,Q62714657,2012-10-02,2015-10-03
+->,Q62714679->Erik Bugulov,Q62714679,2002-02-19,2005-06-22
+->,Q65133709->Nikolai Bychkov,Q65133709,2003-03-27,2004-11-25
+->,Q65151601->Viktor Chernykh,Q65151601,2001-01-30,2005-03-31
+->,Q65170800->Mikhail Kozlov,Q65170800,2015-11-27,2020-10-05
+->,Q65171976->Yury Chaplin,Q65171976,2004-02-18,2005-02-25
+->,Q65171976->Yury Chaplin,Q65171976,2005-02-25,2014-09-19
+->,Q68960496->Irina Larochkina,Q68960496,2002-01-17,2005-05-06
+->,Q70250935->Vera Oskina,Q70250935,2010-07-14,2012-03-16
+->,Q70250938->Nikolai Petrushkin,Q70250938,2013-04-22,2017-05
+->,Q70250965->Sergey Rybakov,Q70250965,2013-09-25,2018-09
+->,Q70250985->Tatyana Popova,Q70250985,2004-04,2007-07
+->,Q70250998->Viktor Kondratov,Q70250998,2006-12-08,2010-04-28
+->,Q70251107->Sergey Popelnyukhov,Q70251107,2003-12-24,2006-05-26
+->,Q70251112->Vyacheslav Kalikyan,Q70251112,2004-09-25,2006-05-02
+->,Q70251342->German Petrov,Q70251342,2001-12-01,2004-12-03
+->,Q70252609->Sergey Batin,Q70252609,2012-12-19,2015-09
+->,Q70252683->Tatyana Zabolotnaya,Q70252683,2012-06-12,2014-09-22
+->,Q70252956->Sergey Opyonyshev,Q70252956,2001-12-20,2004-05-27
+->,Q70254404->Margarita Pavlova,Q70254404,2019-09-20,
+->,Q70254633->Aleksey Pakhomov,Q70254633,2005-06-08,2011-12-01
+->,Q70254663->Mukharbek Barakhoyev,Q70254663,2019-09-08,
+->,Q70254708->Galina Solodun,Q70254708,2020-09-22,
+->,Q70254757->Konstantin Dolgov,Q70254757,2019-09-27,
+->,Q70434437->Gennady Yemelyanov,Q70434437,2019-10-02,
+->,Q70759501->Vagiz Mingazov,Q70759501,2011-12-01,2014-06-23
+->,Q71164393->Sergey Gornyakov,Q71164393,2019-10-09,
+->,Q76446687->Dmitry Priyatnov,Q76446687,2019-10-23,2019-10-31
+->,Q84719197->Dina Oyun,Q84719197,2019-10-14,
+->,Q84720001->Oner Ondar,Q84720001,2013-12-21,2014-10
+->,Q84720464->Viktor Khoroshavtsev,Q84720464,2003-04-23,2009-01-23
+->,Q84720592->Valdimir Shcherbakov,Q84720592,2009-05-13,2012-10-21
+->,Q84720768->Mokhmad Akhmadov,Q84720768,2019-11-14,
+->,Q84724966->Stepan Ponasov,Q84724966,2000-12-26,2001-04-25
+->,Q88234039->Vyacheslav Borovik,Q88234039,2001-09-07,2002-09-10
+->,Q97210058->Anatoly Vaskov,Q97210058,2001-12-25,2004-04-15
+->,Q97210058->Anatoly Vaskov,Q97210058,2005-07-13,2011-09-30
+->,Q97316028->Oleg Tatarinov,Q97316028,2000-12-21,2004-10-03
+->,Q97369531->Yury Shamkov,Q97369531,2008-02-20,2014-09-26
+->,Q97659934->Vladimir Germanenko,Q97659934,2001-12-20,2004-03-14
+->,Q97659934->Vladimir Germanenko,Q97659934,2004-05-27,2008-12-29
+->,Q98085267->Aleksandr Lunyov,Q98085267,2004-04-15,2005-07-13
+->,Q99541861->Andrey Yatskin,Q99541861,2020-09-21,
+->,Q99767758->Lenar Safin,Q99767758,2020-09-18,
+->,R. I. Baĭdavletov->Rafael Baydavletov,Q4075434,2008-04-16,2010-12-24
+->,Rafail Zinurov->Rafali Zinurov,Q41889832,2013-10-03,2018-09-28
 +++,Rustem Shiyanov,,2005-06-22,2011-04
-+++,Sergei Arenin,Q4069033,2017-09-21,
-+++,Sergei Gordeev,Q2272599,2007-07-19,2010-12-01
-+++,Sergei Kislyak,Q460281,2017-09-20,
-+++,Sergei Kolbin,Q106547729,2020-10-29,
-+++,Sergei Shuvalov,Q4527279,2005-04-27,2010-04-28
-+++,Sergei Tsekov,Q4503713,2014-09-24,
+->,Schetinin Mikhail->Mikhail Shchetinin,Q70254233,2014-09-26,2018-09-17
+->,Sergei Muratov->Sergey Muratov,Q99675811,2020-09-25,
 +++,Sergey Anokhin,,2001-12-11,2005-09-21
-+++,Sergey Antufyev,Q2029013,2002-06-18,2003-12-07
-+++,Sergey Batin,Q70252609,2012-12-19,2015-09
-+++,Sergey Bazhanov,Q26776668,2008-11-26,2013-03-01
-+++,Sergey Bekov,Q29358622,2001-03-20,2002-10-15
-+++,Sergey Belousov,Q60827950,2008-12-29,2021-09
-+++,Sergey Beryozkin,Q105579422,2020-06-18,
-+++,Sergey Bezdenezhnykh,Q84722539,2019-12-05,
-+++,Sergey Brilka,Q29864930,2018-09-20,
-+++,Sergey Fabrichny,Q4480363,2016-09-28,2021-10-06
-+++,Sergey Gornyakov,Q71164393,2019-10-09,
-+++,Sergey Ivanov,Q65170763,2002-11-13,2004-03-25
-+++,Sergey Ivanov,Q65170763,2004-04-14,2006-06-02
-+++,Sergey Ivanov,Q65170763,2006-06-02,
-+++,Sergey Kalashnik,Q106548018,2020-10-05,
-+++,Sergey Kalashnikov,Q4209170,2015-09-29,2020-09-23
-+++,Sergey Katanandov,Q1321955,2010-09-22,2017-09-25
-+++,Sergey Kotkin,Q4236030,2014-03-17,2014-09-22
-+++,Sergey Leonov,Q57204406,2018-09-27,2021-10-06
-+++,Sergey Lisovsky,Q4263286,2004-06-29,2020-09-25
+->,Sergey Arenin->Sergei Arenin,Q4069033,2017-09-21,
+->,Sergey Gerasimovich Mitin->Sergey Mitin,Q4296640,2017-10-14,
+->,Sergey Gordeyev->Sergei Gordeev,Q2272599,2007-07-19,2010-12-01
+->,Sergey Kislyak->Sergei Kislyak,Q460281,2017-09-20,
+->,Sergey Lisovskiy->Sergey Lisovsky,Q4263286,2004-06-29,2020-09-25
 ->,Sergey Lukin->Sergei Lukin,Q18245240,2013-04->2013-04-12,
-+++,Sergey Mamedov,Q62713727,2011-12-23,2021-06-23
-+++,Sergey Martynov,Q71167967,2019-10-07,
-+++,Sergey Mironov,Q368947,2001-06-13,2011-05-18
-+++,Sergey Mitin,Q4296640,2017-10-14,
-+++,Sergey Muratov,Q99675811,2020-09-25,
-+++,Sergey Opyonyshev,Q70252956,2001-12-20,2004-05-27
 +++,Sergey Pakhomov,Q4347372,2013-09,2013-09
-+++,Sergey Perminov,Q106535505,2020-09-17,
-+++,Sergey Popelnyukhov,Q70251107,2003-12-24,2006-05-26
-+++,Sergey Popov,Q4372604,2016-09-29,2018-02
 ->,Sergey Pugachyov->Sergei Pugachev,Q3479763,2001-12-24,2011-01-03
-+++,Sergey Ryabukhin,Q52105935,2013-09-20,
-+++,Sergey Rybakov,Q70250965,2013-09-25,2018-09
-+++,Sergey Shatirov,Q4520897,2001-06-27,2013-09
-+++,Sergey Shatirov,Q4520897,2013-09-17,2018-09-14
-+++,Sergey Shcheblygin,Q4528437,2001-12-28,2016-10-04
+->,Sergey Shuvalov->Sergei Shuvalov,Q4527279,2005-04-27,2010-04-28
 ---,Sergey Sobyanin,Q319497,1996-02-06,2001-01-22
-+++,Sergey Tarasov,Q4451697,2008-05-30,2009-10-30
-+++,Sergey Vasilyev,Q51669803,2001-07-12,2007-09-03
-+++,Shamil Zaynalov,Q4184319,2001-11-29,2006-03-24
-+++,Stanislav Derev,Q4158748,2001-11-16,2004-06-04
-+++,Stanislav Vavilov,Q4102119,2001-02-28,2007-03-27
-+++,Stepan Kirichuk,Q4221485,2005-03-23,2018-09-17
-+++,Stepan Ponasov,Q84724966,2000-12-26,2001-04-25
-+++,Stepan Zhiryakov,Q30346283,2013-10-16,2018-10-08
+->,Sergey Tsekov->Sergei Tsekov,Q4503713,2014-09-24,
+->,Sergey Vasiliev->Sergey Vasilyev,Q51669803,2001-07-12,2007-09-03
+->,Stepan Michaylovitsj Kiritsjoek->Stepan Kirichuk,Q4221485,2005-03-23,2018-09-17
 ---,Suleyman Geremeev,Q4137169,2011-06-11,
 ->,Suleyman Geremeev->Suleiman Geremeyev,Q4137169,2010-02-03,2011-06-08->NULL
-+++,Svetlana Goryacheva,Q4146292,2014-09-22,
-+++,Svetlana Korostelyova,Q106547414,2020-10-14,2021-09-27
-+++,Svetlana Orlova,Q4336754,2001-11-24,2013-09-17
-+++,Svetlana Solntseva,Q52564934,2015-01-29,2015-09
-+++,Svetlana Zhurova,Q268338,2012-03-16,2013-03-27
-+++,Taimuraz Mamsurov,Q2087597,2015-09-14,
-+++,Tatyana Gigel,Q51670337,2014-09-30,
-+++,Tatyana Konovalova,Q16665401,2001-05-23,2005-07-12
-+++,Tatyana Kusayko,Q55102781,2016-10-06,2021-10-06
-+++,Tatyana Lebedeva,Q229470,2014-10-02,2019-09
-+++,Tatyana Mantatova,Q29359184,2017-02-16,2017-09-22
-+++,Tatyana Popova,Q70250985,2004-04,2007-07
-+++,Tatyana Sakharova,Q108911260,2021-10-07,
-+++,Tatyana Zabolotnaya,Q70252683,2012-06-12,2014-09-22
-+++,Timur Timerbulatov,Q4457377,2004-05-27,2006-01-25
-+++,Umar Dzhabrailov,Q4159652,2004-01-14,2009-10-07
+->,Tatiana Gitel->Tatyana Gigel,Q51670337,2014-09-30,
+->,Tatiana Sakharova->Tatyana Sakharova,Q108911260,2021-10-07,
+->,Taymuraz Mamsurov->Taimuraz Mamsurov,Q2087597,2015-09-14,
+->,Timur Rafkatovich Timerbulatov->Timur Timerbulatov,Q4457377,2004-05-27,2006-01-25
+->,VIiktor Stepanov->Viktor Stepanov,Q4441791,2001-12-14,2006-04-07
+->,Vadim Albertovich Tulpanov->Vadim Tyulpanov,Q4467454,2011-12-14,2014-09-20
+->,Vadim Albertovich Tulpanov->Vadim Tyulpanov,Q4467454,2014-09,2017-04
 +++,Vadim Artyukhov,,2004-02-19,2009-03-25
-+++,Vadim Dengin,Q16643001,2020-09-23,
-+++,Vadim Gustov,Q4152885,2001-02-28,2011-12-13
-+++,Vadim Kharlov,Q62714135,2016-10-06,2021-10-05
-+++,Vadim Moshkovich,Q18346629,2006-05-26,2014-12-15
-+++,Vadim Nikolayev,Q60827659,2015-06-11,2021-09-29
-+++,Vadim Tyulpanov,Q4467454,2011-12-14,2014-09-20
-+++,Vadim Tyulpanov,Q4467454,2014-09,2017-04
-+++,Vagiz Mingazov,Q70759501,2011-12-01,2014-06-23
-+++,Valdimir Shcherbakov,Q84720592,2009-05-13,2012-10-21
-+++,Valentin Bakulin,Q16273125,2001-01-09,2004-02-19
-+++,Valentin Chernyavsky,Q101003401,2002-05-16,2005-12-14
-+++,Valentin Mezhevich,Q4288664,2001-03-15,2013-09-25
-+++,Valentin Zavadnikov,Q4182821,2001-09-12,2012-10-24
-+++,Valentina Dyomina,Q108067000,2001-04-25,2005-09-21
-+++,Valentina Petrenko,Q4360473,2001-04-26,2011-11-25
-+++,Valentina Zganich,Q30346262,2017-04-20,2018-09
-+++,Valery Aksakov,Q4059836,2011-10-29,2014-10-09
-+++,Valery Fyodorov,Q15065836,2001-10-03,2012-02-10
-+++,Valery Gayevsky,Q4131616,2016-10-06,2021-09-30
-+++,Valery Goreglyad,Q4143963,2001-01-18,2004-05-12
-+++,Valery Kadokhov,Q19887822,2000-11-09,2012-11-28
-+++,Valery Kulikov,Q55107090,2017-09-19,2020-10-02
-+++,Valery Manilov,Q22246881,2001-08-29,2004-01-28
-+++,Valery Markov,Q25680976,2015-10-15,2020-09-24
-+++,Valery Oyf,Q54231969,2004-03-18,2008-06-17
+->,Vadim Nikolaev->Vadim Nikolayev,Q60827659,2015-06-11,2021-09-29
+->,Valentin Georgievitsj Zavadnikov->Valentin Zavadnikov,Q4182821,2001-09-12,2012-10-24
+->,Valeriy Oyf->Valery Oyf,Q54231969,2004-03-18,2008-06-17
+->,Valeriy Sychov->Valery Sychyov,Q84719974,2001-10-29,2008-09
 +++,Valery Parfyonov,,2007-07-06,2011-12-23
-+++,Valery Ponomaryov,Q28500338,2011-12-11,
-+++,Valery Ryazansky,Q4402637,2011-06-23,2021-10-07
-+++,Valery Semyonov,Q60828559,2014-04-03,
-+++,Valery Shnyakin,Q107720910,2010-11-10,2014-09
+->,Valery Ponomarev->Valery Ponomaryov,Q28500338,2011-12-11,
 ->,Valery Sudarenkov,Q4445350,1993->2000-11-18,2015->2015-09
-+++,Valery Sychyov,Q84719974,2001-10-29,2008-09
-+++,Valery Tikhomirov,Q102119674,2001-12-04,2004-02-17
-+++,Valery Trushnikov,Q4464645,2002-01-01,2008-06-18
-+++,Valery Usatyuk,Q59315167,2018-11-16,
-+++,Valery Ustyugov,Q107560828,2000-12-18,2002-08-14
-+++,Valery Vasilyev,Q4104542,2011-03-29,
-+++,Valery Zhilin,Q62311511,2014-10-24,2015-10-15
-+++,Vasily Bochkaryov,Q4095390,2015-09-21,2016-06-22
-+++,Vasily Duma,Q12102810,2004-05-13,2011-05-18
-+++,Vasily Ikonnikov,Q4199045,2016-10-04,
 +++,Vasily Klyuchenok,,2001-12-11,2007-07-09
-+++,Vasily Likhachyov,Q4264140,2004-03-11,2010-03-03
 +++,Vasily Sondykov,,2015-10,2016-10
-+++,Vera Oskina,Q70250935,2010-07-14,2012-03-16
-+++,Viacheslav Fetisov,Q553302,2008-10-27,2016-10-05
-+++,Viktor Abramov,Q4054910,2004-01-29,2007-12-02
-+++,Viktor Abramov,Q4054910,2011-12-20,2016-07
-+++,Viktor Abramov,Q4054910,2016-09-29,2021-09
-+++,Viktor Bondarev,Q4093124,2017-09-19,
-+++,Viktor Chernykh,Q65151601,2001-01-30,2005-03-31
-+++,Viktor Glukhikh,Q4140259,2001-10-31,2011-06-03
-+++,Viktor Ignatov,Q24351891,2001-11-21,2004-02-27
-+++,Viktor Khoroshavtsev,Q84720464,2003-04-23,2009-01-23
-+++,Viktor Kolesnikov,Q28498354,2001-03-04,2003-12-07
-+++,Viktor Kondrashin,Q3558305,2015-08-11,2017-09
-+++,Viktor Kondratov,Q70250998,2006-12-08,2010-04-28
-+++,Viktor Kosourov,Q19618421,2010-11-10,2015-10-01
-+++,Viktor Kress,Q444185,2012-05-17,
-+++,Viktor Leonov,Q4258847,2006-01-25,2010-11-10
-+++,Viktor Lopatnikov,Q4266708,2006-03-03,2014-09-30
-+++,Viktor Maslov,Q4283996,2008-01-30,2013-09-26
+->,Victor Glukhikh->Viktor Glukhikh,Q4140259,2001-10-31,2011-06-03
+->,Victor Novozhilov->Viktor Novozhilov,Q28500214,2018-09-21,
+->,Victor Pavlenko->Viktor Pavlenko,Q1447842,2015-09-25,2020-10-09
+->,Victor Sokolovsky->Viktor Sokolovsky,Q26255416,2004-11-05,2009-12-16
 +++,Viktor Mironov,,2002-01-02,2002-05-16
-+++,Viktor Nazarov,Q4312148,2018-03-15,2021-09-29
-+++,Viktor Nefyodov,Q101097189,2001-12-21,2003-12-07
-+++,Viktor Novozhilov,Q28500214,2018-09-21,
-+++,Viktor Orlov,Q4336636,2008-02,2012-01-10
-+++,Viktor Ozerov,Q19311626,2001-12-15,2019-10-23
-+++,Viktor Pavlenko,Q1447842,2015-09-25,2020-10-09
 +++,Viktor Pichugov,,2006-07-07,2011-03
-+++,Viktor Rogotsky,Q4395647,2012-12,2017-09
-+++,Viktor Shudegov,Q4527351,2001-04-17,2007-12-07
-+++,Viktor Smirnov,Q18277846,2018-09-27,2021-09
-+++,Viktor Sokolovsky,Q26255416,2004-11-05,2009-12-16
-+++,Viktor Stepanov,Q4441791,2001-12-14,2006-04-07
-+++,Viktor Yevtukhov,Q4173490,2009-11-25,2011-02-28
-+++,Viktor Zobnev,Q29865106,2021-10-07,
-+++,Vitaly Bogdanov,Q4089230,2005-04-13,2006-05-26
-+++,Vitaly Bogdanov,Q4089230,2006-06-23,2018-11
-+++,Vitaly Ignatenko,Q4197397,2012-11-07,2015-09-22
-+++,Vitaly Malkin,Q971910,2004-01-01,2013-04-04
-+++,Vitaly Shuba,Q4527120,2013-09-25,2018-09-20
-+++,Vladimir Agalov,Q55650223,2000-12-26,2004-01-01
-+++,Vladimir Babichev,Q4074412,2006-12-27,2010-02-03
-+++,Vladimir Babichev,Q4074412,2010-02-03,2010-12-15
 +++,Vladimir Barkanov,,2011-03-09,2011-09-10
-+++,Vladimir Bavlov,Q55650549,2001-12-18,2004-07-01
-+++,Vladimir Beketov,Q4081312,2017-09-28,
-+++,Vladimir Beryozov,Q106465665,2002-01-18,2002-06-18
-+++,Vladimir Bochkov,Q16627830,2013-10-24,2018-09-27
-+++,Vladimir Chub,Q4587011,2011-12-24,2016-10-06
-+++,Vladimir Dolgikh,Q2544308,2013-09-13,2018-09-19
-+++,Vladimir Dzhabarov,Q43429921,2009-12-25,
-+++,Vladimir Fyodorov,Q4493944,2003-01-04,2016-10-07
-+++,Vladimir Germanenko,Q97659934,2001-12-20,2004-03-14
-+++,Vladimir Germanenko,Q97659934,2004-05-27,2008-12-29
-+++,Vladimir Gorodetsky,Q2587229,2018-10-01,
-+++,Vladimir Gusev,Q4152674,2001-01-25,2010-04-28
-+++,Vladimir Gusev,Q4152674,2010-04-28,2012-04-24
-+++,Vladimir Kharlamov,Q106591299,2015-11-25,2017-09-15
-+++,Vladimir Kikot,Q15068595,2010-04-28,2012-06-12
-+++,Vladimir Kozhin,Q4226351,2018-09-19,
-+++,Vladimir Kravchenko,Q47452796,2016-10-07,
-+++,Vladimir Krugly,Q21640741,2014-09-26,
-+++,Vladimir Kulakov,Q16668567,2000-11-25,2014-08-01
-+++,Vladimir Kulakov,Q4245982,2009-05-13,2011-11-03
-+++,Vladimir Lakunin,Q75330465,2019-11-14,2020-09-21
-+++,Vladimir Laptev,Q24642487,2015-12-10,2020-09-25
-+++,Vladimir Lebedev,Q60838797,2014-09-25,
-+++,Vladimir Lityushkin,Q4264035,2004-12-03,2021-09-29
-+++,Vladimir Lukin,Q2003890,2016-09-23,2021-09-24
-+++,Vladimir Nikitov,Q106778328,2001-12-18,2002-07-04
-+++,Vladimir Pashkov,Q4347579,2001-12-21,2002-05-28
+->,Vladimir Edalov->Vladimir Yedalov,Q70250974,2013-04-04,2015-09-21
+->,Vladimir Igorevich Kozhin->Vladimir Kozhin,Q4226351,2018-09-19,
 ->,Vladimir Petrov,Q4360737,2001-12-25,2016-12->2016-09
 +++,Vladimir Plotnikov,,2001-10-06,2005-10-26
-+++,Vladimir Plotnikov,Q4365364,2009-03-25,2014-09-25
-+++,Vladimir Poletayev,Q18786113,2014-09-30,
-+++,Vladimir Rushailo,Q1376668,2007-12-07,2013-09-25
 +++,Vladimir Savin,,2008-01-30,2011-12-20
 +++,Vladimir Shapoval,,2004-06-03,2005-09-21
-+++,Vladimir Sloutsker,Q4424063,2002-01-18,2010-09-22
 +++,Vladimir Spitsnadel,,2004-01-28,2010-03-31
-+++,Vladimir Sysolyatin,Q107733892,2002-01-01,2002-11-13
-+++,Vladimir Torlopov,Q1193444,2010-03-03,2014-01
-+++,Vladimir Yakubovsky,Q4537160,2009-11-18,2012-10-02
-+++,Vladimir Yedalov,Q70250974,2013-04-04,2015-09-21
-+++,Vladimir Zhidkikh,Q22133460,2002-09-25,2003-09-26
-+++,Vladimir Zhidkikh,Q22133460,2007-09-19,2012-09-01
-+++,Vladislav Zhiganov,Q107589451,2004-02-27,2005-06-22
-+++,Vyacheslav Borovik,Q88234039,2001-09-07,2002-09-10
-+++,Vyacheslav Derev,Q56309535,2011-04-07,2016-01
-+++,Vyacheslav Kalikyan,Q70251112,2004-09-25,2006-05-02
 ---,Vyacheslav Kislitsyn,Q4222181,1997,2001
-+++,Vyacheslav Markhayev,Q22919490,2015-10-03,2020-09-18
-+++,Vyacheslav Novikov,Q4322661,2002-01-10,2014-03-05
-+++,Vyacheslav Popov,Q4372465,2002-01-04,2011-12-15
-+++,Vyacheslav Shtyrov,Q1192630,2010-06-23,2018-09-28
-+++,Vyacheslav Shverikas,Q18280170,2004-01-28,2017-01
-+++,Vyacheslav Skvortsov,Q21793991,2011-12-28,2012-09-03
+->,Vyacheslav Timchenko->Vycheslav Timchenko,Q28853840,2014-09-24,2016-09
+->,Vyacheslav Timchenko->Vycheslav Timchenko,Q28853840,2016-10-06,
 +++,Vyacheslav Vinogradov,,2001-06-07,2004-02-13
-+++,Vycheslav Timchenko,Q28853840,2014-09-24,2016-09
-+++,Vycheslav Timchenko,Q28853840,2016-10-06,
-+++,Yefim Kerpelman,Q4219669,2000-12-13,2004-06-02
-+++,Yefim Malkin,Q15071910,2002-01-01,2015-06-01
-+++,Yegor Atanov,Q4072016,2009-12-16,2014-09
-+++,Yegor Stroyev,Q1143350,2009-03-25,2014-09-24
-+++,Yekaterina Altabayeva,Q26255561,2019-09-14,2020-10-02
-+++,Yekaterina Altabayeva,Q26255561,2020-10-02,
-+++,Yelena Afanasyeva,Q4072680,2014-09-26,
-+++,Yelena Avdeyeva,Q70254739,2019-09-19,
-+++,Yelena Bibikova,Q55106921,2014-09-25,
-+++,Yelena Greshnyakova,Q60829630,2018-09-28,2021-09-24
-+++,Yelena Mizulina,Q4292925,2015-09-23,
-+++,Yelena Perminova,Q60838852,2014-09-26,
-+++,Yelena Pisareva,Q4363539,2021-10-06,
-+++,Yelena Popova,Q60838553,2014-09-25,2019-09-25
-+++,Yelena Sagal,Q51668952,2009-12-25,2012-08-17
-+++,Yelena Shumilova,Q106474325,2020-09-24,
-+++,Yelena Zlenko,Q62714108,2018-09-10,
-+++,Yevgeny Alekseyev,Q18543613,2014-11-07,2018-10-02
-+++,Yevgeny Bushmin,Q15064822,2001-11-20,2005-09-21
-+++,Yevgeny Bushmin,Q15064822,2005-09-21,2019-10-06
-+++,Yevgeny Gromyko,Q106489897,2014-01-22,2015-07-25
+->,Wiktor Alexejewitsch Oserow->Viktor Ozerov,Q19311626,2001-12-15,2019-10-23
+->,Yelena Polova->Yelena Popova,Q60838553,2014-09-25,2019-09-25
 +++,Yevgeny Ilyushkin,,2001-01-24,2009-03-25
 +++,Yevgeny Petelin,,2013-04-24,2016-10
-+++,Yevgeny Samoylov,Q4406703,2011-12-20,2014-10-15
-+++,Yevgeny Serebrennikov,Q57206655,2006-09-25,2018-09
-+++,Yevgeny Shumeyko,Q4527720,2011-04,2011-12
-+++,Yevgeny Tarlo,Q21644625,2007-07,2015-07
-+++,Yevgeny Trofimov,Q62714300,2001-12-21,2011-04-21
-+++,Yevgeny Yeliseyev,Q28790968,2001-03-29,2010-05-26
-+++,Yevgeny Zayashnikov,Q43427839,2001-11-12,2003-12-07
-+++,Yuliya Lazutkina,Q108692129,2021-04-29,
 ->,Yuliya Veprintseva,Q26709803,2014-10-07,NULL->2016-09
-+++,Yuri Arkharov,Q60838755,2017-10-19,
-+++,Yuri Ponomarev,Q24009927,2001-12-28,2003-01-01
-+++,Yuri Valyayev,Q39083166,2020-09-22,
-+++,Yury Alaferovsky,Q4060543,2001-12-20,2006-01-25
-+++,Yury Antaradonov,Q4066956,2002-02-19,2002-06-05
-+++,Yury Biryukov,Q8061779,2006-12-22,2014-09-20
-+++,Yury Biryukov,Q8061779,2014-09-22,2019-09-21
-+++,Yury Chaplin,Q65171976,2004-02-18,2005-02-25
-+++,Yury Chaplin,Q65171976,2005-02-25,2014-09-19
-+++,Yury Fyodorov,Q60827579,2017-09-26,
+->,Yuri Valyaev->Yuri Valyayev,Q39083166,2020-09-22,
+->,Yuri Viktorovich Fedorov->Yury Fyodorov,Q60827579,2017-09-26,
+->,Yuriy Kushnar->Yury Kushnar,Q55103378,2014-10-23,2016-09-23
 +++,Yury Gurdin,,2001-12-28,2002-09-25
 +++,Yury Isupov,,2013-03-27,2014-09-24
-+++,Yury Kalinin,Q4209492,2010-03-31,2012-10-22
-+++,Yury Kovalyov,Q4225624,2001-12-28,2007-03-17
-+++,Yury Kushnar,Q55103378,2014-10-23,2016-09-23
-+++,Yury Lipatov,Q4262428,2016-09-30,2018-09-17
-+++,Yury Neyolov,Q546640,2010-03-31,2018-09-10
-+++,Yury Osintsev,Q4337819,2007-09-19,2009-04-02
-+++,Yury Roslyak,Q4397824,2010-12,2013-09-13
-+++,Yury Shamkov,Q97369531,2008-02-20,2014-09-26
-+++,Yury Sivkov,Q107500799,2001-12-11,2007-10-14
-+++,Yury Smirnov,Q4424776,2004-02-19,2013-09
-+++,Yury Solonin,Q4428364,2005-02-09,2013-05
-+++,Yury Udalov,Q107560143,2011-06-06,2012-12
-+++,Yury Vazhenin,Q62714027,2016-10-06,2021-09
-+++,Yury Volkov,Q4123361,2001-04-25,2002-01-23
-+++,Yury Volkov,Q4123361,2002-01-31,2002-09-26
-+++,Yury Volkov,Q4123361,2015-09-21,2020-01-22
+->,Yury Vasilyevich Neyolov->Yury Neyolov,Q546640,2010-03-31,2018-09-10
 ->,Yury Vorobyov,Q4125213,2008-09-19->2007-05-04,
-+++,Yury Yablokov,Q16722928,2010-06-23,2011-03-29
 +++,Yury Zasko,,2001-06-04,2004-09-25
-+++,Zhanna Ivanova,Q108063419,2012-06,2015-12
-+++,Zinaida Dragunkina,Q4167531,2005-10,2019-09
-+++,Ziya Sabsabi,Q4403588,2008-11-26,2019-11-06
-+++,Zubar Dokshokov,Q60826026,2009-12,2011-04
