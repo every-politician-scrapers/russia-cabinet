@@ -121,7 +121,7 @@
               ]
             },
             {
-              "text": "He later moved to Moscow in 1996 to join the administration of president Boris Yeltsin.",
+              "text": "He moved to Moscow in 1996 to join the administration of president Boris Yeltsin.",
               "links": [
                 {
                   "type": "internal",
@@ -377,6 +377,11 @@
               "text": "Experts do not consider Russia a democracy, citing the jailing and repression of political opponents, the intimidation and suppression of the free press and the lack of free and fair elections.",
               "links": [
                 {
+                  "text": "democracy",
+                  "type": "internal",
+                  "page": "Democratic state"
+                },
+                {
                   "text": "free press",
                   "type": "internal",
                   "page": "Media freedom in Russia"
@@ -431,7 +436,7 @@
       ],
       "templates": [
         {
-          "description": "President of Russia (born 1952)",
+          "description": "President of Russia from 1999 to 2008 and since 2012",
           "template": "short description"
         },
         {
