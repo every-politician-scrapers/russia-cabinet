@@ -1,8 +1,5 @@
 @@,itemlabel,item,startdate,enddate
-+++,Yevgeny Sidorov,,1992-12-23,1997-08-28
-+++,Natalia Dementieva,,1997-08-28,1998-09-30
-+++,Vladimir Yegorov,,1998-09-30,2000-02-08
-+++,Mikhail Shvydkoy,Q827054,2000-02-08,2004-03-09
-+++,Alexander Sokolov,Q1974734,2004-03-09,2008-05-12
-+++,Alexander Avdeyev,Q928083,2008-05-12,2012-05-21
-+++,Vladimir Medinsky,Q2121094,2012-05-21,2020-01-21
+->,Yevgeny Sidorov,Q4418846->NULL,1992-12-23,1997-08-28
+->,Natalia Dementieva,Q4157416->NULL,1997-08-28,1998-09-30
+->,Vladimir Yegorov,Q4173733->NULL,1998-09-30,2000-02-08
+->,Aleksandr Sokolov->Alexander Sokolov,Q1974734,2004-03-09,2008-05-12

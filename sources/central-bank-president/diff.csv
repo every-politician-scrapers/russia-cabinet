@@ -1,8 +1,6 @@
 @@,itemlabel,item,startdate,enddate
-+++,Georgy Matyukhin,Q4285466,1990-12-25,1992-05-16
-+++,Viktor Gerashchenko,Q4136108,1992-07-17,1994-10-18
-+++,Tatyana Paramonova,Q4344952,1994-10-19,1995-11-08
-+++,Alexander Khandruyev,Q4495437,1995-11-08,1995-11-22
-+++,Sergei Dubinin,Q4169161,1995-11-22,1998-09-11
-+++,Viktor Gerashchenko,Q4136108,1998-09-11,2002-03-20
-+++,Sergei Ignatyev,Q2376226,2002-03-21,2013-06-23
+->,Georgy Matyukhin,Q4285466->NULL,1990-12-25,1992-05-16
+->,Tatiana Paramonova->Tatyana Paramonova,Q4344952->NULL,1994-10-19,1995-11-08
+->,A. A. Khandruev->Alexander Khandruyev,Q4495437->NULL,1995-11-08,1995-11-22
+->,Sergey Dubinin->Sergei Dubinin,Q4169161->NULL,1995-11-22,1998-09-11
+->,Sergey Mikhaylovich Ignatyev->Sergei Ignatyev,Q2376226,2002-03-21,2013-06-23

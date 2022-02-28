@@ -1,7 +1,2 @@
 @@,itemlabel,item,startdate,enddate
-+++,Vitaly Yefimov,Q19844165,1990-09-08,1996-01-10
-+++,Nikolai Tsakh,Q21140616,1996-01-12,1998-02-28
-+++,Sergei Frank,Q1426030,1998-02-28,2004-03-09
-+++,Igor Levitin,Q982464,2004-03-09,2012-05-21
-+++,Maksim Sokolov,Q4427199,2012-05-21,2018-05-18
-+++,Yevgeny Dietrich,Q53803011,2018-05-18,2020-11-09
+->,Q21140616->Nikolai Tsakh,Q21140616,1996-01-12,1998-02-28
