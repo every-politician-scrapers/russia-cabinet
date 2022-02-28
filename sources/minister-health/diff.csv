@@ -1,9 +1,5 @@
 @@,itemlabel,item,startdate,enddate
 ---,Yevgeniy Chazov,Q1981523,1987-02-17,1990-03-29
-+++,Tatyana Dmitrieva,Q456780,1996-08-22,1998-05-05
 ->,Oleg Vsevolodovich Rutkowski->Oleg Rutkovsky,Q4401174->NULL,1998-05-05,1998-09-30
 ->,Vladimir Ivanovich Starodubov->Vladimir Starodubov,Q4440220->NULL,1998-09-30,1999-07-05->1999-05-12
-+++,Yury Shevchenko,,1999-07-05,2004-03-09
-+++,Mikhail Zurabov,Q1965600,2004-03-09,2007-09-24
-+++,Tatyana Golikova,Q260432,2007-09-24,2012-05-21
-+++,Veronika Skvortsova,Q441076,2012-05-21,2020-01-21
+->,Yury Shevchenko,Q4522097->NULL,1999-07-05,2004-03-09
