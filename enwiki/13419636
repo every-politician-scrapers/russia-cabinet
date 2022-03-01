@@ -52,7 +52,7 @@
               ]
             },
             {
-              "text": "As of 2019, she is listed as the 53rd most powerful woman in the world by Forbes.",
+              "text": "As of 2019, she was listed as the 53rd most powerful woman in the world by Forbes.",
               "formatting": {
                 "italic": [
                   "Forbes"
@@ -258,10 +258,6 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Russia"
               }
             ]
           },

@@ -84,11 +84,15 @@
               ]
             },
             {
-              "text": "Putin is the second-longest current serving European president after Alexander Lukashenko.",
+              "text": "Putin is the second-longest current serving European president after Alexander Lukashenko of neighbouring Belarus.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Alexander Lukashenko"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belarus"
                 }
               ]
             },
@@ -465,7 +469,7 @@
           "template": "family name hatnote"
         },
         {
-          "date": "February 2022",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
@@ -475,6 +479,12 @@
           ],
           "date": "February 2022",
           "template": "current related"
+        },
+        {
+          "list": [
+            "New image"
+          ],
+          "template": "discuss"
         },
         {
           "list": [
