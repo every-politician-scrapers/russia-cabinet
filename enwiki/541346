@@ -56,6 +56,28 @@
                   "page": "Permanent Representative of Russia to the United Nations"
                 }
               ]
+            },
+            {
+              "text": "He is under personal sanctions in the European Union, the United States and Canada for his role in the 2022 Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Canada"
+                },
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
             }
           ]
         }
