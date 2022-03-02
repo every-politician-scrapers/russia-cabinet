@@ -26,20 +26,10 @@
         {
           "sentences": [
             {
-              "text": "Nikolai Platonovich Patrushev (Никола́й Плато́нович Па́трушев, tr. Nikolay Platonovich Patrushev; born 11 July 1951) is a Russian politician, security officer and intelligence officer.",
-              "links": [
-                {
-                  "text": "tr.",
-                  "type": "internal",
-                  "page": "Romanization of Russian"
-                }
-              ],
+              "text": "Nikolai Platonovich Patrushev (Никола́й Плато́нович Па́трушев; born 11 July 1951) is a Russian politician, security officer and intelligence officer.",
               "formatting": {
                 "bold": [
                   "Nikolai Platonovich Patrushev"
-                ],
-                "italic": [
-                  "Nikolay Platonovich Patrushev"
                 ]
               }
             },
@@ -75,16 +65,6 @@
                 {
                   "type": "internal",
                   "page": "Russian invasion of Ukraine"
-                }
-              ]
-            },
-            {
-              "text": "",
-              "links": [
-                {
-                  "text": "",
-                  "type": "external",
-                  "site": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220224"
                 }
               ]
             }

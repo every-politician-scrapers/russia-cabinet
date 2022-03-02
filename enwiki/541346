@@ -130,10 +130,10 @@
             "text": "Сергей Лавров"
           },
           "image": {
-            "text": "Сергей_Лавров_(14-10-2021).jpg"
+            "text": "Сергей Лавров (14-02-2022) (cropped).jpg"
           },
           "caption": {
-            "text": "Lavrov in 2021"
+            "text": "Lavrov in 2022"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -171,7 +171,7 @@
             ]
           },
           "president": {
-            "text": "Vladimir Putin\nDmitry Medvedev\nVladimir Putin",
+            "text": "Vladimir Putin\nDmitry Medvedev",
             "links": [
               {
                 "type": "internal",
@@ -180,10 +180,6 @@
               {
                 "type": "internal",
                 "page": "Dmitry Medvedev"
-              },
-              {
-                "type": "internal",
-                "page": "Vladimir Putin"
               }
             ]
           },
