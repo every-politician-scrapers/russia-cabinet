@@ -307,11 +307,16 @@
                   "text": "annexed Crimea",
                   "type": "internal",
                   "page": "Annexation of Crimea by the Russian Federation"
+                },
+                {
+                  "text": "shrinking",
+                  "type": "internal",
+                  "page": "Russian financial crisis (2014–2016)"
                 }
               ]
             },
             {
-              "text": "During his fourth term as president, the COVID-19 pandemic hit Russia, and Putin ordered a full-scale invasion of Ukraine in 2022, leading to further sanctions being imposed against Russia and him personally.",
+              "text": "During his fourth term as president, the COVID-19 pandemic hit Russia, and Putin ordered a full-scale invasion of Ukraine in 2022, leading to further sanctions being imposed against Russia, causing a financial crisis.",
               "links": [
                 {
                   "text": "COVID-19 pandemic hit Russia",
@@ -322,6 +327,11 @@
                   "text": "full-scale invasion",
                   "type": "internal",
                   "page": "2022 Russian invasion of Ukraine"
+                },
+                {
+                  "text": "financial crisis",
+                  "type": "internal",
+                  "page": "2022 Russian financial crisis"
                 }
               ]
             },
@@ -440,7 +450,7 @@
       ],
       "templates": [
         {
-          "description": "President of Russia from 1999 to 2008 and since 2012",
+          "description": "President of Russia (1999–2008, 2012–present)",
           "template": "short description"
         },
         {
