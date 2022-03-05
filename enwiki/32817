@@ -104,9 +104,8 @@
                   "page": "Saint Petersburg"
                 },
                 {
-                  "text": "Leningrad State University",
                   "type": "internal",
-                  "page": "Saint Petersburg State University"
+                  "page": "Leningrad State University"
                 }
               ]
             },
@@ -233,7 +232,7 @@
               ]
             },
             {
-              "text": "The growth was a result of a fivefold increase in the price of oil and gas, which constitute the majority of Russian exports, recovery from the post-communist depression and financial crises, a rise in foreign investment, and prudent economic and fiscal policies.",
+              "text": "The growth was a result of a fivefold increase in the price of oil and gas, which constitute the majority of Russian exports, recovery from the post-Communist depression and financial crisis following the dissolution of the Soviet Union, a rise in foreign investment, and prudent economic and fiscal policies.",
               "links": [
                 {
                   "text": "fivefold increase",
@@ -246,14 +245,19 @@
                   "page": "price of oil"
                 },
                 {
-                  "text": "post-communist depression",
+                  "text": "post-Communist",
                   "type": "internal",
-                  "page": "Dissolution of the Soviet Union"
+                  "page": "post-Communist"
                 },
                 {
-                  "text": "financial crises",
+                  "text": "financial crisis",
                   "type": "internal",
                   "page": "1998 Russian financial crisis"
+                },
+                {
+                  "text": "dissolution of the Soviet Union",
+                  "type": "internal",
+                  "page": "dissolution of the Soviet Union"
                 }
               ]
             },
@@ -388,12 +392,12 @@
               ]
             },
             {
-              "text": "Experts do not consider Russia a democracy, citing the jailing and repression of political opponents, the intimidation and suppression of the free press and the lack of free and fair elections.",
+              "text": "Experts do not consider Russia a democracy, citing the jailing and repression of political opponents, the intimidation and suppression of the free press, and the lack of free and fair elections.",
               "links": [
                 {
                   "text": "democracy",
                   "type": "internal",
-                  "page": "Democratic state"
+                  "page": "democracy"
                 },
                 {
                   "text": "free press",
@@ -416,8 +420,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Corruption Perceptions Index",
-                  "anchor": "2012–2020"
+                  "page": "Corruption Perceptions Index"
                 },
                 {
                   "type": "internal",
@@ -425,8 +428,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Democracy Index",
-                  "anchor": "Democracy Index by country (2016)"
+                  "page": "Democracy Index"
                 },
                 {
                   "type": "internal",
@@ -440,7 +442,7 @@
               "formatting": {
                 "italic": [
                   "Corruption Perceptions Index",
-                  "Democracy Index,",
+                  "Democracy Index",
                   "Freedom in the World"
                 ]
               }
@@ -458,17 +460,10 @@
           "redirect": "Putin",
           "links": [
             {
-              "page": "Putin (surname)",
+              "page": "Putin (disambiguation)",
               "desc": ""
-            },
-            {
-              "desc": "Poutine"
             }
           ]
-        },
-        {
-          "small": "yes",
-          "template": "pp-30-500"
         },
         {
           "list": [
@@ -479,22 +474,12 @@
           "template": "family name hatnote"
         },
         {
+          "small": "yes",
+          "template": "pp-30-500"
+        },
+        {
           "date": "March 2022",
           "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "",
-            "2022 Russian invasion of Ukraine"
-          ],
-          "date": "February 2022",
-          "template": "current related"
-        },
-        {
-          "list": [
-            "New image"
-          ],
-          "template": "discuss"
         },
         {
           "list": [
@@ -540,12 +525,6 @@
           "template": "ublist"
         },
         {
-          "list": [
-            "General Secretary"
-          ],
-          "template": "nowr"
-        },
-        {
           "template": "collapsed infobox section end"
         },
         {
@@ -573,12 +552,6 @@
             "Putin has two daughters with his ex-wife Lyudmila. He is also alleged to have a third daughter with Svetlana Krivonogikh, and a fourth daughter and twin sons with Alina Kabaeva, although these reports have not been officially confirmed."
           ],
           "template": "efn"
-        },
-        {
-          "list": [
-            "http://eng.putin.kremlin.ru"
-          ],
-          "template": "official website"
         },
         {
           "list": [
@@ -627,10 +600,10 @@
             "text": "Владимир Путин"
           },
           "image": {
-            "text": "Vladimir Putin (2018-03-01) 03 (cropped)(a).jpg"
+            "text": "Vladimir Putin 17-11-2021 (cropped).jpg"
           },
           "caption": {
-            "text": "Putin in 2018"
+            "text": "Putin in 2021"
           },
           "office": {
             "text": "President of Russia",
@@ -792,10 +765,9 @@
             "text": "Nikolai Aksyonenko\n\nViktor Khristenko\n\nMikhail Kasyanov"
           },
           "office4": {
-            "text": "Secretary of the Security Council",
+            "text": "Secretary of the Security Council of Russia",
             "links": [
               {
-                "text": "Secretary of the Security Council",
                 "type": "internal",
                 "page": "Security Council of Russia"
               }
@@ -838,7 +810,7 @@
             "text": "Director of the Federal Security Service",
             "links": [
               {
-                "text": "Director of the Federal Security Service",
+                "text": "Federal Security Service",
                 "type": "internal",
                 "page": "Federal Security Service (Russia)"
               }
@@ -882,7 +854,6 @@
             "text": "Leader of All-Russia People's Front",
             "links": [
               {
-                "text": "Leader of All-Russia People's Front",
                 "type": "internal",
                 "page": "All-Russia People's Front"
               }
@@ -903,24 +874,19 @@
             "text": "Chairman of the Council of Ministers of the Union State",
             "links": [
               {
-                "text": "Chairman of the Council of Ministers of the Union State",
                 "type": "internal",
                 "page": "Union State"
               }
             ]
           },
           "1blankname7": {
-            "text": "Chm of Sup. Cncl.",
-            "links": [
-              {
-                "text": "Chm of Sup. Cncl.",
-                "type": "internal",
-                "page": "Union State"
-              }
-            ]
+            "text": "Chairman"
           },
           "1namedata7": {
             "text": "Alexander Lukashenko"
+          },
+          "2blankname7": {
+            "text": "General Secretary"
           },
           "2namedata7": {
             "text": "Pavel Borodin",
@@ -959,7 +925,6 @@
             "text": "Leader of United Russia",
             "links": [
               {
-                "text": "Leader of United Russia",
                 "type": "internal",
                 "page": "United Russia"
               }
@@ -990,7 +955,7 @@
             ]
           },
           "party": {
-            "text": "Independent (1991–1995; 2001–2008; 2012–present)",
+            "text": "Independent (1991–1995; 2001–2008; since 2012)",
             "links": [
               {
                 "text": "Independent",
@@ -1000,10 +965,9 @@
             ]
           },
           "otherparty": {
-            "text": "People's Front (2011–present)\nUnited Russia (2008–2012)\nUnity (1999–2001)\nOur Home – Russia\n(1995–1999)\nCPSU (1975–1991)",
+            "text": "All-Russia People's Front (since 2011)\nUnited Russia (2008–2012)\nUnity (1999–2001)\nOur Home – Russia\n(1995–1999)\nCPSU (1975–1991)",
             "links": [
               {
-                "text": "People's Front",
                 "type": "internal",
                 "page": "All-Russia People's Front"
               },
@@ -1037,14 +1001,12 @@
             "text": "Leningrad, Russian SFSR, Soviet Union",
             "links": [
               {
-                "text": "Leningrad",
                 "type": "internal",
-                "page": "Saint Petersburg"
+                "page": "Leningrad"
               },
               {
-                "text": "Russian SFSR",
                 "type": "internal",
-                "page": "Russian Soviet Federative Socialist Republic"
+                "page": "Russian SFSR"
               },
               {
                 "type": "internal",
@@ -1106,6 +1068,9 @@
           },
           "signature": {
             "text": "Putin signature.svg"
+          },
+          "website": {
+            "text": "eng.putin.kremlin.ru"
           },
           "allegiance": {
             "text": "Soviet Union\nRussia"
