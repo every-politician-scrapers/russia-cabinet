@@ -1,5 +1,5 @@
 {
-  "title": "Sergey Shoygu",
+  "title": "Sergei Shoigu",
   "pageID": 857985,
   "categories": [
     "1955 births",
@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Sergey Kuzhugetovich Shoigu (born 21 May 1955) is a Russian politician and General of the Army who serves as Minister of Defence of the Russian Federation.",
+              "text": "Sergei Kuzhugetovich Shoigu (born 21 May 1955) is a Russian politician and General of the Army who serves as Minister of Defence of the Russian Federation.",
               "links": [
                 {
                   "text": "General of the Army",
@@ -46,7 +46,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Sergey Kuzhugetovich Shoigu"
+                  "Sergei Kuzhugetovich Shoigu"
                 ]
               }
             },
@@ -72,6 +72,24 @@
                   "page": "Moscow Oblast"
                 }
               ]
+            },
+            {
+              "text": "A close confidant and ally of Vladimir Putin, Shoigu belongs to the Silovik, Putin's inner circle.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vladimir Putin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Silovik"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Silovik"
+                ]
+              }
             }
           ]
         }
@@ -147,7 +165,7 @@
         },
         {
           "list": [
-            "Сергей Кужугетович Шойгу, ;,."
+            "Also transliterated as Shoygu; Сергей Кужугетович Шойгу, ;,."
           ],
           "template": "efn"
         }
@@ -393,7 +411,7 @@
             ]
           },
           "birth_name": {
-            "text": "Sergei Kuzhugetovich Shoygu"
+            "text": "Sergei Kuzhugetovich Shoigu"
           },
           "birth_date": {
             "text": "May 21, 1955"
@@ -449,15 +467,14 @@
             ]
           },
           "spouse": {
-            "text": "Irina Shoygu"
+            "text": "Irina Shoigu"
           },
           "children": {
-            "text": "Yuliya Shoygu Kseniya Shoygu",
+            "text": "Yulia Shoigu Kseniya Shoigu",
             "links": [
               {
-                "text": "Yuliya Shoygu",
                 "type": "internal",
-                "page": "Yulia Shoygu"
+                "page": "Yulia Shoigu"
               }
             ]
           },

@@ -58,11 +58,15 @@
               ]
             },
             {
-              "text": "He is under personal sanctions in the European Union, the United States and Canada for his role in the 2022 Russian invasion of Ukraine.",
+              "text": "He is under personal sanctions in the European Union, the United Kingdom, the United States and Canada for his role in the 2022 Russian invasion of Ukraine.",
               "links": [
                 {
                   "type": "internal",
                   "page": "European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
                 },
                 {
                   "type": "internal",

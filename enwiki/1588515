@@ -63,8 +63,9 @@
                   "page": "United States sanctions"
                 },
                 {
+                  "text": "Russian invasion of Ukraine",
                   "type": "internal",
-                  "page": "Russian invasion of Ukraine"
+                  "page": "2022 Russian invasion of Ukraine"
                 }
               ]
             }
@@ -240,7 +241,13 @@
             ]
           },
           "awards": {
-            "text": "Hero of the Russian Federation medal.png"
+            "text": "Hero of the Russian Federation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hero of the Russian Federation"
+              }
+            ]
           }
         }
       ]

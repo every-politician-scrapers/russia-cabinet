@@ -38,7 +38,7 @@
               }
             },
             {
-              "text": "She was Russian President Vladimir Putin's economic adviser between May 2012 to June 2013 after serving as minister of economic development and trade from September 2007 to May 2012.",
+              "text": "She was Russian President Vladimir Putin's economic adviser from May 2012 to June 2013 after serving as minister of economic development and trade from September 2007 to May 2012.",
               "links": [
                 {
                   "type": "internal",
@@ -66,14 +66,6 @@
         {
           "description": "Russian economist and Governor of the Bank of Russia",
           "template": "short description"
-        },
-        {
-          "topic": "bio",
-          "list": [
-            "Набиуллина, Эльвира Сахипзадовна"
-          ],
-          "date": "March 2013",
-          "template": "expand russian"
         },
         {
           "date": "March 2013",
