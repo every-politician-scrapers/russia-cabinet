@@ -18,6 +18,7 @@
     "Candidates in the 2012 Russian presidential election",
     "Candidates in the 2018 Russian presidential election",
     "Communist Party of the Soviet Union members",
+    "Conservatism in Russia",
     "Directors of the Federal Security Service",
     "Federal Security Service officers",
     "Grand Croix of the Légion d'honneur",
@@ -38,18 +39,17 @@
     "Recipients of the Order of Ho Chi Minh",
     "Recipients of the Order of Saint-Charles",
     "Recipients of the Order of St. Sava",
+    "Russian individuals subject to the U.S. Department of the Treasury sanctions",
     "Russian male judoka",
     "Russian male karateka",
+    "Russian nationalists",
     "Russian Orthodox Christians from Russia",
     "Russian sambo practitioners",
     "Saint Petersburg State University alumni",
+    "Specially Designated Nationals and Blocked Persons List",
     "Time Person of the Year",
     "United Russia politicians",
-    "United Russia presidential nominees",
-    "Russian nationalists",
-    "Conservatism in Russia",
-    "Russian individuals subject to the U.S. Department of the Treasury sanctions",
-    "Specially Designated Nationals and Blocked Persons List"
+    "United Russia presidential nominees"
   ],
   "sections": [
     {
@@ -59,7 +59,7 @@
         {
           "sentences": [
             {
-              "text": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is the president of Russia, a position he has filled since 2012, and previously from 1999 until 2008.",
+              "text": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is the president of Russia, a position he has filled since 2012, and previously from 2000 until 2008.",
               "links": [
                 {
                   "text": "president of Russia",
@@ -320,13 +320,18 @@
               ]
             },
             {
-              "text": "During his fourth term as president, the COVID-19 pandemic hit Russia, and Putin ordered a full-scale invasion of Ukraine in 2022, leading to further sanctions being imposed against Russia, causing a financial crisis.",
+              "text": "During his fourth term as president, the COVID-19 pandemic hit Russia.",
               "links": [
                 {
                   "text": "COVID-19 pandemic hit Russia",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Russia"
-                },
+                }
+              ]
+            },
+            {
+              "text": "In February 2022 Putin ordered a full-scale invasion of Ukraine, leading to further sanctions being imposed against Russia, causing a financial crisis.",
+              "links": [
                 {
                   "text": "full-scale invasion",
                   "type": "internal",
@@ -582,7 +587,7 @@
         },
         {
           "list": [
-            "Putin took office as Prime Minister in August 1999 and became Acting President while remaining Prime Minister on 31 December 1999; he was later officially elected as President on 7 May 2000."
+            "Putin took office as Prime Minister in August 1999 and became Acting President while remaining Prime Minister on 31 December 1999; he later took office as President on 7 May 2000, following his election in March."
           ],
           "template": "efn"
         },
