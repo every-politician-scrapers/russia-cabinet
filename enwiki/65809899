@@ -1,127 +1,13 @@
 {
-  "title": "Irek Faizullin",
-  "pageID": 65809899,
-  "categories": [
-    "United Russia politicians",
-    "1962 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Irek Envarovich Faizullin (Russian: Ирек Энварович Файзуллин; born 8 December 1962), is a Russian statesman and politician who is currently the Minister for Construction and Housing since 10 November 2020.",
-              "links": [
-                {
-                  "text": "Minister for Construction and Housing",
-                  "type": "internal",
-                  "page": "Ministry of Construction, Housing and Utilities (Russia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Irek Envarovich Faizullin"
-                ]
-              }
-            },
-            {
-              "text": "He was deputy minister for construction and housing from 22 January 2020 until 9 November, when Russian Prime Minister Mikhail Mishustin nominated Faizullin's candidacy for the post of Minister of Construction & Housing."
-            },
-            {
-              "text": "He was approved by the State Duma and confirmed the post on 10 November.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Duma"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Russian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1962",
-          "month": "12",
-          "day": "08",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Irek Faizullin"
-          },
-          "native_name": {
-            "text": "Ирек Файзуллин"
-          },
-          "native_name_lang": {
-            "text": "ru"
-          },
-          "image": {
-            "text": "Irek Fáizullin.jpg"
-          },
-          "office": {
-            "text": "Minister for Construction and Housing",
-            "links": [
-              {
-                "text": "Minister for Construction and Housing",
-                "type": "internal",
-                "page": "Ministry of Construction, Housing and Utilities (Russia)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mikhail Mishustin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mikhail Mishustin"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Vladimir Yakushev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Yakushev"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 November 2020"
-          },
-          "birth_name": {
-            "text": "Irek Envarovich Faizullin"
-          },
-          "birth_date": {
-            "text": "December 8, 1962"
-          },
-          "birth_place": {
-            "text": "Kazan, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kazan"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Irek Faizullin",
+  "native_name": "Ирек Файзуллин",
+  "native_name_lang": "ru",
+  "image": "Irek Fáizullin.jpg",
+  "office": "Minister for Construction and Housing",
+  "primeminister": "Mikhail Mishustin",
+  "predecessor": "Vladimir Yakushev",
+  "term_start": "10 November 2020",
+  "birth_name": "Irek Envarovich Faizullin",
+  "birth_date": "December 8, 1962",
+  "birth_place": "Kazan, Soviet Union"
 }

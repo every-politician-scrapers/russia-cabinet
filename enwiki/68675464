@@ -1,161 +1,17 @@
 {
-  "title": "Aleksandr Chupriyan",
-  "pageID": 68675464,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "Russian people of Armenian descent",
-    "Government ministers of Russia",
-    "People from Ukhta",
-    "Recipients of the Order \"For Merit to the Fatherland\", 4th class",
-    "Recipients of the Order of Honour (Russia)",
-    "Recipients of the Medal of the Order \"For Merit to the Fatherland\" I class",
-    "Recipients of the Medal of the Order \"For Merit to the Fatherland\" II class"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aleksandr Petrovich Chupriyan (Александр Петрович Чуприян, born 23 March 1958) is a Russian statesman, and political military commander, who is serving as the interim Minister of Emergency Situations since 8 September 2021.",
-              "links": [
-                {
-                  "text": "Minister of Emergency Situations",
-                  "type": "internal",
-                  "page": "Minister of Emergency Situations (Russia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Aleksandr Petrovich Chupriyan"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "At the same time, Chupriyan is the first deputy minister of emergency situations as of 2018."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is a colonel general of the Internal Service as of 2018, and a doctor of technical sciences awarded in 2007."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Russian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1958",
-          "month": "03",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aleksandr Chupriyan"
-          },
-          "native_name": {
-            "text": "Александр Чуприян"
-          },
-          "native_name_lang": {
-            "text": "ru"
-          },
-          "image": {
-            "text": "Alexander Chupriyan.jpg"
-          },
-          "office": {
-            "text": "Acting Minister of Emergency Situations",
-            "links": [
-              {
-                "text": "Acting Minister of Emergency Situations",
-                "type": "internal",
-                "page": "Minister of Emergency Situations (Russia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "8 September 2021"
-          },
-          "predecessor": {
-            "text": "Yevgeny Zinichev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yevgeny Zinichev"
-              }
-            ]
-          },
-          "office2": {
-            "text": "First Deputy Minister of Emergency Situations",
-            "links": [
-              {
-                "text": "Minister of Emergency Situations",
-                "type": "internal",
-                "page": "Minister of Emergency Situations (Russia)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 July 2018"
-          },
-          "office3": {
-            "text": "Deputy Minister of Emergency Situations",
-            "links": [
-              {
-                "text": "Minister of Emergency Situations",
-                "type": "internal",
-                "page": "Minister of Emergency Situations (Russia)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 November 2006"
-          },
-          "term_end3": {
-            "text": "4 June 2018"
-          },
-          "birth_date": {
-            "text": "March 23, 1958"
-          },
-          "birth_place": {
-            "text": "Ukhta, Russia, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ukhta"
-              },
-              {
-                "type": "internal",
-                "page": "Russia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Military Academy of the General Staff of the Armed Forces of Russia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Military Academy of the General Staff of the Armed Forces of Russia"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aleksandr Chupriyan",
+  "native_name": "Александр Чуприян",
+  "native_name_lang": "ru",
+  "image": "Alexander Chupriyan.jpg",
+  "office": "Acting Minister of Emergency Situations",
+  "term_start": "8 September 2021",
+  "predecessor": "Yevgeny Zinichev",
+  "office2": "First Deputy Minister of Emergency Situations",
+  "term_start2": "4 July 2018",
+  "office3": "Deputy Minister of Emergency Situations",
+  "term_start3": "13 November 2006",
+  "term_end3": "4 June 2018",
+  "birth_date": "March 23, 1958",
+  "birth_place": "Ukhta, Russia, Soviet Union",
+  "alma_mater": "Military Academy of the General Staff of the Armed Forces of Russia"
 }
