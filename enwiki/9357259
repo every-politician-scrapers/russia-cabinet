@@ -1,223 +1,25 @@
 {
-  "title": "Konstantin Chuychenko",
-  "pageID": 9357259,
-  "categories": [
-    "Russian businesspeople",
-    "Russian lawyers",
-    "KGB officers",
-    "Medvedev Administration personnel",
-    "Gazprom people",
-    "Living people",
-    "1965 births",
-    "Deputy heads of government of the Russian Federation",
-    "21st-century Russian politicians",
-    "Justice ministers of Russia"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Konstantin Anatolyevich Chuychenko (Константин Анатольевич Чуйченко; born 12 July 1965) is a Russian politician, businessman, and lawyer who served as the Minister of Justice since 21 January 2020.",
-              "links": [
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Ministry of Justice (Russia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Konstantin Anatolyevich Chuychenko"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he was Deputy Prime Minister of Russia and Chief of Staff of the Government from 2018 to 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Russia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Anatolyevich",
-            "Chuychenko"
-          ],
-          "lang": "Eastern Slavic",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1965",
-          "month": "7",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Konstantin Chuychenko"
-          },
-          "native_name": {
-            "text": "Константин Чуйченко"
-          },
-          "native_name_lang": {
-            "text": "ru"
-          },
-          "image": {
-            "text": "Konstantin Chuychenko (2021-05-19).jpg"
-          },
-          "caption": {
-            "text": "Chuychenko in 2021"
-          },
-          "office": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice (Russia)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Vladimir Putin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Putin"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "21 January 2020"
-          },
-          "predecessor": {
-            "text": "Aleksandr Konovalov",
-            "links": [
-              {
-                "text": "Aleksandr Konovalov",
-                "type": "internal",
-                "page": "Aleksandr Konovalov (politician, born 1968)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Prime Minister of Russia – Chief of Staff of the Government",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Russia"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Dmitry Medvedev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dmitry Medvedev"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "18 May 2018"
-          },
-          "term_end1": {
-            "text": "15 January 2020 Acting: 15 January 2020 – 21 January 2020",
-            "links": [
-              {
-                "text": "Acting",
-                "type": "internal",
-                "page": "Acting (law)"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Sergey Prikhodko",
-            "links": [
-              {
-                "text": "Sergey Prikhodko",
-                "type": "internal",
-                "page": "Sergei Eduardovich Prikhodko"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Dmitry Grigorenko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dmitry Grigorenko"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Head of the Control Department in the Russian Presidential Administration"
-          },
-          "term_start2": {
-            "text": "13 May 2008"
-          },
-          "term_end2": {
-            "text": "18 May 2018"
-          },
-          "president2": {
-            "text": "Vladimir Putin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Putin"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Konstantin Anatolyevich Chuychenko"
-          },
-          "birth_date": {
-            "text": "July 12, 1965"
-          },
-          "birth_place": {
-            "text": "Lipetsk, Russian SFSR, Soviet Union (now Russia)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lipetsk"
-              },
-              {
-                "text": "Russian SFSR",
-                "type": "internal",
-                "page": "Russian Soviet Federative Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Russia"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Konstantin Chuychenko",
+  "native_name": "Константин Чуйченко",
+  "native_name_lang": "ru",
+  "image": "Konstantin Chuychenko (2021-05-19).jpg",
+  "caption": "Chuychenko in 2021",
+  "office": "Minister of Justice",
+  "president": "Vladimir Putin",
+  "term_start": "21 January 2020",
+  "predecessor": "Aleksandr Konovalov",
+  "office1": "Deputy Prime Minister of Russia – Chief of Staff of the Government",
+  "primeminister1": "Dmitry Medvedev",
+  "term_start1": "18 May 2018",
+  "term_end1": "15 January 2020 Acting: 15 January 2020 – 21 January 2020",
+  "predecessor1": "Sergey Prikhodko",
+  "successor1": "Dmitry Grigorenko",
+  "office2": "Head of the Control Department in the Russian Presidential Administration",
+  "term_start2": "13 May 2008",
+  "term_end2": "18 May 2018",
+  "president2": "Vladimir Putin",
+  "birth_name": "Konstantin Anatolyevich Chuychenko",
+  "birth_date": "July 12, 1965",
+  "birth_place": "Lipetsk, Russian SFSR, Soviet Union (now Russia)",
+  "party": "Independent"
 }

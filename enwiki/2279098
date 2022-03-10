@@ -1,251 +1,34 @@
 {
-  "title": "Yury Trutnev",
-  "pageID": 2279098,
-  "categories": [
-    "1956 births",
-    "Living people",
-    "People from Perm, Russia",
-    "Mayors of Perm",
-    "Governors of Perm Krai",
-    "Deputy heads of government of the Russian Federation",
-    "21st-century Russian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yury Petrovich Trutnev (Ю́рий Петро́вич Тру́тнев; born 1 March 1956) is a Russian politician who serves as a Deputy Prime Minister of Russia and Presidential Envoy to the Far Eastern Federal District since 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Far Eastern Federal District"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Yury Petrovich Trutnev"
-                ]
-              }
-            },
-            {
-              "text": "From 2004 to 2012, he served as Minister of Natural Resources and the Environment of Russia.",
-              "links": [
-                {
-                  "text": "Minister of Natural Resources and the Environment",
-                  "type": "internal",
-                  "page": "Ministry of Natural Resources and the Environment (Russia)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Russian politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "the Soviet/Russian physicist",
-            "Yuri Trutnev (scientist)"
-          ],
-          "template": "for"
-        },
-        {
-          "year": "1956",
-          "month": "03",
-          "day": "01",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yury Trutnev"
-          },
-          "image": {
-            "text": "Yury Trutnev official portrait.png"
-          },
-          "native_name": {
-            "text": "Юрий Трутнев"
-          },
-          "native_name_lang": {
-            "text": "ru"
-          },
-          "office": {
-            "text": "Deputy Prime Minister of Russia — Presidential Envoy to the Far Eastern Federal District",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Russia"
-              },
-              {
-                "type": "internal",
-                "page": "Far Eastern Federal District"
-              }
-            ]
-          },
-          "president": {
-            "text": "Vladimir Putin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Putin"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Dmitry Medvedev Mikhail Mishustin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dmitry Medvedev"
-              },
-              {
-                "type": "internal",
-                "page": "Mikhail Mishustin"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "31 August 2013 Acting: 7 – 18 May 2018 and 15 – 21 January 2020",
-            "links": [
-              {
-                "text": "Acting",
-                "type": "internal",
-                "page": "Acting (law)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Viktor Ishayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viktor Ishayev"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Assistant to the President of Russia"
-          },
-          "term_start2": {
-            "text": "22 May 2012"
-          },
-          "term_end2": {
-            "text": "31 August 2013"
-          },
-          "order3": {
-            "text": "2nd Minister of Natural Resources and Ecology of Russia"
-          },
-          "term_start3": {
-            "text": "9 March 2004"
-          },
-          "term_end3": {
-            "text": "21 May 2012"
-          },
-          "predecessor3": {
-            "text": "Vitaly Artyukhov"
-          },
-          "successor3": {
-            "text": "Sergey Donskoy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sergey Donskoy"
-              }
-            ]
-          },
-          "order4": {
-            "text": "3rd"
-          },
-          "office4": {
-            "text": "Governor of Perm Oblast"
-          },
-          "term_start4": {
-            "text": "17 December 2000"
-          },
-          "term_end4": {
-            "text": "11 March 2004"
-          },
-          "predecessor4": {
-            "text": "Gennady Igumnov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gennady Igumnov"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Oleg Chirkunov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oleg Chirkunov"
-              }
-            ]
-          },
-          "order5": {
-            "text": "1st"
-          },
-          "office5": {
-            "text": "Mayor of Perm"
-          },
-          "term_start5": {
-            "text": "9 December 1996"
-          },
-          "term_end5": {
-            "text": "17 December 2000"
-          },
-          "predecessor5": {
-            "text": "Vladimir Fil"
-          },
-          "successor5": {
-            "text": "Arkady Kamenev"
-          },
-          "birth_date": {
-            "text": "March 1, 1956"
-          },
-          "birth_place": {
-            "text": "Perm, Perm Oblast, Russian SFSR, Soviet Union",
-            "links": [
-              {
-                "text": "Perm",
-                "type": "internal",
-                "page": "Perm, Russia"
-              },
-              {
-                "type": "internal",
-                "page": "Perm Oblast"
-              },
-              {
-                "type": "internal",
-                "page": "Russian SFSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "party": {
-            "text": "United Russia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Russia"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yury Trutnev",
+  "image": "Yury Trutnev official portrait.png",
+  "native_name": "Юрий Трутнев",
+  "native_name_lang": "ru",
+  "office": "Deputy Prime Minister of Russia — Presidential Envoy to the Far Eastern Federal District",
+  "president": "Vladimir Putin",
+  "primeminister": "Dmitry Medvedev Mikhail Mishustin",
+  "term_start": "31 August 2013 Acting: 7 – 18 May 2018 and 15 – 21 January 2020",
+  "predecessor": "Viktor Ishayev",
+  "office2": "Assistant to the President of Russia",
+  "term_start2": "22 May 2012",
+  "term_end2": "31 August 2013",
+  "order3": "2nd Minister of Natural Resources and Ecology of Russia",
+  "term_start3": "9 March 2004",
+  "term_end3": "21 May 2012",
+  "predecessor3": "Vitaly Artyukhov",
+  "successor3": "Sergey Donskoy",
+  "order4": "3rd",
+  "office4": "Governor of Perm Oblast",
+  "term_start4": "17 December 2000",
+  "term_end4": "11 March 2004",
+  "predecessor4": "Gennady Igumnov",
+  "successor4": "Oleg Chirkunov",
+  "order5": "1st",
+  "office5": "Mayor of Perm",
+  "term_start5": "9 December 1996",
+  "term_end5": "17 December 2000",
+  "predecessor5": "Vladimir Fil",
+  "successor5": "Arkady Kamenev",
+  "birth_date": "March 1, 1956",
+  "birth_place": "Perm, Perm Oblast, Russian SFSR, Soviet Union",
+  "party": "United Russia"
 }
