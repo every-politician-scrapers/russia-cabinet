@@ -31,7 +31,6 @@ Q150080,Mikhail Fradkov,child,Q4492294,Petr Fradkov
 Q15075401,Aysen Nikolayev,spouse,Q61110830,Ljudmila Nikolajeva
 Q152318,Svetlana Savitskaya,father,Q523332,Yevgeny Savitsky
 Q156379,Yury Luzhkov,spouse,Q466610,Yelena Baturina
-Q15963668,Natalia Poklonskaya,child,,
 Q15963668,Natalia Poklonskaya,spouse,Q4428059,Ivan Nikolaevich Solovjev
 Q16166675,Anvar Azimov,father,Q4058348,Sarvar Azimov
 Q16902077,Alexander Boroday,father,Q4094487,Youri Borodaï
@@ -55,7 +54,6 @@ Q1964825,Nikolai Burlyayev,spouse,Q510170,Natalya Varley
 Q1964825,Nikolai Burlyayev,spouse,Q754131,Natalya Bondarchuk
 Q1973544,Leonid Nevzlin,child,Q27247995,Irina Nevzlin
 Q1978432,Anatoly Wasserman,father,Q21663972,Alexander Vasserman
-Q1978790,Alexander Nevzorov,father,,
 Q1978790,Alexander Nevzorov,spouse,Q1967995,Aleksandra Yakovleva
 Q1979193,Alexander Tkachov,sibling,Q27230932,Alexey Tkachyov
 Q1980296,Joseph Kobzon,child,Q56501949,Andrey Kobzon
@@ -97,8 +95,6 @@ Q27783608,Sergey Boyarskiy,sibling,Q167548,Elizaveta Boyarskaya
 Q28497365,Elmira Glubokovskaya,child,Q108691440,Roza Chemeris
 Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
 Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
-Q28500708,Andrey Tychinin,father,,
-Q28500708,Andrey Tychinin,mother,,
 Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
 Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
 Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
@@ -205,9 +201,6 @@ Q4525925,Larisa Flamenbaum,father,Q17287361,Kuzhuget Shoygu
 Q4525925,Larisa Flamenbaum,mother,Q17287363,Aleksandra Shoygu
 Q4525925,Larisa Flamenbaum,sibling,Q32024,Sergey Shoygu
 Q4525925,Larisa Flamenbaum,spouse,Q17287491,Konstantin Flamenbaum
-Q453170,Tatyana Yumasheva,child,,
-Q453170,Tatyana Yumasheva,child,,
-Q453170,Tatyana Yumasheva,child,,
 Q453170,Tatyana Yumasheva,father,Q34453,Boris Yeltsin
 Q453170,Tatyana Yumasheva,mother,Q2498810,Naina Yeltsina
 Q453170,Tatyana Yumasheva,sibling,Q27734161,Elena Yeltsina
