@@ -46,8 +46,8 @@ Q182654,Valentina Matviyenko,child,Q15072147,"Матвиенко, Сергей �
 Q18277467,Valery Seleznyov,child,Q17388691,Roman Seleznev
 Q183279,Zhores Alferov,spouse,Q109324376,Tamara Darskaya
 Q18634850,Yevgeny Popov,spouse,Q24706934,Olga Skabeyeva
-Q190884,Viktor Chernomyrdin,spouse,Q96482967,
-Q19521683,Aleksey Didenko,father,Q97274760,
+Q190884,Viktor Chernomyrdin,spouse,Q96482967,Valentina Fedorovna Chernomyrdina
+Q19521683,Aleksey Didenko,father,Q97274760,"Диденко, Николай Васильевич"
 Q1964825,Nikolai Burlyayev,child,Q4099732,Ivan Burlyayev
 Q1964825,Nikolai Burlyayev,child,Q4099734,Marija Boerljaeva
 Q1964825,Nikolai Burlyayev,sibling,Q101246260,Gennady Burlyaev
@@ -68,7 +68,7 @@ Q19818067,Pavel Fedyayev,father,Q4482344,"Федяев, Михаил Юрьев�
 Q1983805,Nikolai Gubenko,spouse,Q4090976,Zhanna Bolotova
 Q19917170,Boris Titenko,spouse,Q16488249,Alla Amelina
 Q200015,Vladimir Zhirinovsky,child,Q520016,Igor Lebedev
-Q20090063,Vakha Agaev,child,Q86830849,
+Q20090063,Vakha Agaev,child,Q86830849,Bekhan Agaev
 Q204027,Sergei Ivanov,child,Q29865118,Sergey Ivanov
 Q204027,Sergei Ivanov,father,Q50375960,Boris Ivanov
 Q2060455,Mikhail Margelov,father,Q4281196,Vitaly Margelov
@@ -80,7 +80,7 @@ Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
 Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
 Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
 Q233812,Irina Rodnina,child,Q4738675,Alyona Minkovski
-Q233812,Irina Rodnina,spouse,Q956655,
+Q233812,Irina Rodnina,spouse,Q956655,Alexander Gennadiyevich Zaitsev
 Q23530,Dmitry Medvedev,spouse,Q234259,Svetlana Medvedeva
 Q2391593,Aleksey Lebed,sibling,Q295898,Alexander Lebed
 Q2544308,Vladimir Dolgikh,child,Q4164520,Елена Долгих
@@ -132,9 +132,9 @@ Q370787,Alexander Lebedev,spouse,Q55437706,Elena Perminova
 Q385485,Dmitry Mezentsev,spouse,Q4492958,"Фролова, Евгения Евгеньевна"
 Q39391916,Aleksey Zagrebin,father,Q24352427,Egor Zagrebin
 Q4066230,Grigory Anikeyev,relative,Q106274168,Andrey Anikeev
-Q4068640,Alexei Arbatov,father,Q967886,
+Q4068640,Alexei Arbatov,father,Q967886,Georgy Arbatov
 Q4073083,Farkhad Akhmedov,father,Q12846537,Teymur Əhmədov
-Q4082839,Andrey Belousov,father,Q97315367,
+Q4082839,Andrey Belousov,father,Q97315367,"Белоусов, Рэм Александрович"
 Q4094838,Nikolay Bortsov,child,Q4094839,Yury Bortsov
 Q4106917,Aleksej Veller,father,Q16335396,Boris Veller
 Q4107645,Sergey Veremeenko,spouse,Q467773,Sofya Skya
@@ -150,7 +150,7 @@ Q4153081,Sait-Salam Gutseriyev,sibling,Q1346607,Mikhail Gutseriyev
 Q4153625,Denis Aleksandrovitsj Davitiasjvili,spouse,Q4277930,Masha Malinovskaya
 Q4159652,Umar Dzhabrailov,partner,Q199369,Naomi Campbell
 Q4159652,Umar Dzhabrailov,partner,Q287099,Kseniya Sobchak
-Q4166135,Aleksandr Dondukov,father,Q97660391,
+Q4166135,Aleksandr Dondukov,father,Q97660391,Nikolay Dondukov
 Q4167730,Yelena Drapeko,spouse,Q4082210,Oleg Belov
 Q4180012,Sergey Zhigarev,father,Q4180011,Aleksandr Zhigarev
 Q4180012,Sergey Zhigarev,mother,Q4468787,Ирина Борисовна Уварова
@@ -171,9 +171,9 @@ Q4281196,Vitaly Margelov,sibling,Q4281193,Aleksandr Margelov
 Q4281196,Vitaly Margelov,sibling,Q4281195,Anatoly Margelov
 Q4284542,Mikhail Matveyev,father,Q4284547,Nikolay Matveyev
 Q4292925,Yelena Mizulina,child,Q106839254,Ekaterina Mizulina
-Q4298520,Mikhail Mishustin,father,Q82905670,
-Q4298520,Mikhail Mishustin,mother,Q83161648,
-Q4298520,Mikhail Mishustin,spouse,Q82751268,
+Q4298520,Mikhail Mishustin,father,Q82905670,Vladimir Mishustin
+Q4298520,Mikhail Mishustin,mother,Q83161648,Luiza Mishustina
+Q4298520,Mikhail Mishustin,spouse,Q82751268,Vladlena Mishustina
 Q4309028,Zelimkhan Mutsoyev,sibling,Q17142371,Amirkhan Mori
 Q4317737,Andrey Nesterenko,father,Q4317736,"Нестеренко, Алексей Ефремович"
 Q43231501,Anna Kuvychko,spouse,Q57913764,Роланд Тамазович Херианов
@@ -269,9 +269,9 @@ Q82695,Yegor Gaidar,mother,Q18679045,Ariadna Bazhova
 Q827054,Mikhail Shvydkoy,sibling,Q4199013,Andrey Ikov
 Q827054,Mikhail Shvydkoy,spouse,Q6401231,Marina Polyak
 Q83375533,Olga Lyubimova,father,Q4271497,Boris Lyubimov
-Q83375533,Olga Lyubimova,mother,Q97184610,
+Q83375533,Olga Lyubimova,mother,Q97184610,Мария Вадимовна Шверубович
 Q84394256,Igor Molyakov,father,Q60831838,"Моляков, Юрий Иванович"
-Q84718811,Galina Munzuk,father,Q926680,
+Q84718811,Galina Munzuk,father,Q926680,Maxim Munzuk
 Q84718811,Galina Munzuk,mother,Q16495194,Kara-Kys Munzuk
 Q86830849,Bekhan Agaev,father,Q20090063,Vakha Agaev
 Q86833225,Mikhail Pitkevich,father,Q4363883,Yury Pitkevich
