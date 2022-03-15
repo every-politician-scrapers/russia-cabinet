@@ -1,0 +1,280 @@
+id,name,relationship,relative,relativename
+Q101077271,,father,Q70250998,Viktor Kondratov
+Q102435754,,father,Q3820134,Vladimir Govorov
+Q103813305,Konstantin Sevenard,father,Q15081060,Yury Sevenard
+Q105105146,Marina Rogachyova,father,Q1143350,Yegor Stroyev
+Q106274168,Andrey Anikeev,relative,Q4066230,Grigory Anikeyev
+Q106734231,Larisa Ponomaryova,child,Q4371978,Ilya Ponomarev
+Q106734231,Larisa Ponomaryova,spouse,Q70248527,"Пономарёв, Владимир Николаевич"
+Q108040998,Andrey Artyukhov,child,Q55105854,Dmitry Artyukhov
+Q108684903,Anton Krasnoshtanov,father,Q60220292,Aleksey Krasnoshtanov
+Q108691440,Roza Chemeris,mother,Q28497365,Elmira Glubokovskaya
+Q108691440,Roza Chemeris,stepparent,Q28497366,Mikhail Gloubokovsky
+Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
+Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
+Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
+Q108899086,,sibling,Q4074398,Mikhail Babich
+Q1192630,Vyacheslav Shtyrov,father,Q15868908,Anatoliĭ Shtyrov
+Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
+Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
+Q1346607,Mikhail Gutseriyev,sibling,Q110893340,"Гуцериев, Хамзат Сафарбекович"
+Q1346607,Mikhail Gutseriyev,sibling,Q4153081,Sait-Salam Gutseriyev
+Q1377159,Stanislav Govorukhin,child,Q4140923,Sergey Govorukhin
+Q1377159,Stanislav Govorukhin,spouse,Q55107077,"Карева, Юнона Ильинична"
+Q1396536,Nikita Belykh,mother,Q19741977,Zinaida Belykh
+Q1396536,Nikita Belykh,sibling,Q4083181,Aleksandr Belykh
+Q1430324,Arkady Dvorkovich,father,Q15065744,Vladimir Dvorkovitch
+Q1430324,Arkady Dvorkovich,spouse,Q4401100,Zumrud Rustamova
+Q14920892,Mikhail Musatov,child,Q6097047,Ivan Musatov
+Q150080,Mikhail Fradkov,child,Q110991318,Pavel Fradkov
+Q150080,Mikhail Fradkov,child,Q4492294,Petr Fradkov
+Q15075401,Aysen Nikolayev,spouse,Q61110830,Ljudmila Nikolajeva
+Q152318,Svetlana Savitskaya,father,Q523332,Yevgeny Savitsky
+Q156379,Yury Luzhkov,spouse,Q466610,Yelena Baturina
+Q15963668,Natalia Poklonskaya,child,,
+Q15963668,Natalia Poklonskaya,spouse,Q4428059,Ivan Nikolaevich Solovjev
+Q16166675,Anvar Azimov,father,Q4058348,Sarvar Azimov
+Q16902077,Alexander Boroday,father,Q4094487,Youri Borodaï
+Q171428,Roman Abramovich,child,Q4791679,Arkadiy Abramovich
+Q171428,Roman Abramovich,father,Q107097633,Arkady Abramovich
+Q171428,Roman Abramovich,mother,Q107097635,Irina Vasilievna Abramovich
+Q171428,Roman Abramovich,spouse,Q4181439,Dasha Zhukova
+Q171428,Roman Abramovich,spouse,Q46109451,Irina Abramovich
+Q18043712,Dmitry Patrushev,father,Q446865,Nikolai Patrushev
+Q182452,Gennady Zyuganov,child,Q67103659,Leonid Zyuganov
+Q182654,Valentina Matviyenko,child,Q15072147,"Матвиенко, Сергей Владимирович"
+Q18277467,Valery Seleznyov,child,Q17388691,Roman Seleznev
+Q183279,Zhores Alferov,spouse,Q109324376,Tamara Darskaya
+Q18634850,Yevgeny Popov,spouse,Q24706934,Olga Skabeyeva
+Q190884,Viktor Chernomyrdin,spouse,Q96482967,
+Q19521683,Aleksey Didenko,father,Q97274760,
+Q1964825,Nikolai Burlyayev,child,Q4099732,Ivan Burlyayev
+Q1964825,Nikolai Burlyayev,child,Q4099734,Marija Boerljaeva
+Q1964825,Nikolai Burlyayev,sibling,Q101246260,Gennady Burlyaev
+Q1964825,Nikolai Burlyayev,spouse,Q510170,Natalya Varley
+Q1964825,Nikolai Burlyayev,spouse,Q754131,Natalya Bondarchuk
+Q1973544,Leonid Nevzlin,child,Q27247995,Irina Nevzlin
+Q1978432,Anatoly Wasserman,father,Q21663972,Alexander Vasserman
+Q1978790,Alexander Nevzorov,father,,
+Q1978790,Alexander Nevzorov,spouse,Q1967995,Aleksandra Yakovleva
+Q1979193,Alexander Tkachov,sibling,Q27230932,Alexey Tkachyov
+Q1980296,Joseph Kobzon,child,Q56501949,Andrey Kobzon
+Q1980296,Joseph Kobzon,spouse,Q4241956,Veronica P. Kruglova
+Q1980296,Joseph Kobzon,spouse,Q56501964,Ninel Kobzon
+Q1980296,Joseph Kobzon,spouse,Q68537,Lyudmila Gurchenko
+Q1980669,Aleksandr Yakovenko,father,Q4536780,Vladimir Yakovenko
+Q19817635,Denis Voronenkov,spouse,Q4276043,"Maria Maksakova, Jr."
+Q19818067,Pavel Fedyayev,father,Q4482344,"Федяев, Михаил Юрьевич"
+Q1983805,Nikolai Gubenko,spouse,Q4090976,Zhanna Bolotova
+Q19917170,Boris Titenko,spouse,Q16488249,Alla Amelina
+Q200015,Vladimir Zhirinovsky,child,Q520016,Igor Lebedev
+Q20090063,Vakha Agaev,child,Q86830849,
+Q204027,Sergei Ivanov,child,Q29865118,Sergey Ivanov
+Q204027,Sergei Ivanov,father,Q50375960,Boris Ivanov
+Q2060455,Mikhail Margelov,father,Q4281196,Vitaly Margelov
+Q2072843,Vasyl Dzharty,child,Q14491528,Джарти Вікторія Василівна
+Q20812953,Maria Zakharova,spouse,Q110997152,Andrei Makarov
+Q2107072,Lyudmila Narusova,child,Q287099,Kseniya Sobchak
+Q2107072,Lyudmila Narusova,spouse,Q334294,Anatoly Sobchak
+Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
+Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
+Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
+Q233812,Irina Rodnina,child,Q4738675,Alyona Minkovski
+Q233812,Irina Rodnina,spouse,Q956655,
+Q23530,Dmitry Medvedev,spouse,Q234259,Svetlana Medvedeva
+Q2391593,Aleksey Lebed,sibling,Q295898,Alexander Lebed
+Q2544308,Vladimir Dolgikh,child,Q4164520,Елена Долгих
+Q255764,Yelena Kondakova,spouse,Q472497,Valery Ryumin
+Q2597507,Artur Chilingarov,child,Q107309433,Чилингарова Ксения Артуровна
+Q260432,Tatyana Golikova,spouse,Q317667,Viktor Khristenko
+Q26255538,Ilyas Umakhanov,father,Q4475334,Magomed-Salam Umakhanov
+Q266708,Svetlana Zakharova,spouse,Q474762,Vadim Repin
+Q27230932,Alexey Tkachyov,sibling,Q1979193,Alexander Tkachov
+Q275585,Natalya Narochnitskaya,father,Q4313453,Aleksei Narochnitsky
+Q27783608,Sergey Boyarskiy,father,Q544641,Mikhail Boyarsky
+Q27783608,Sergey Boyarskiy,mother,Q4269666,Larisa Luppian
+Q27783608,Sergey Boyarskiy,sibling,Q167548,Elizaveta Boyarskaya
+Q28497365,Elmira Glubokovskaya,child,Q108691440,Roza Chemeris
+Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
+Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
+Q28500708,Andrey Tychinin,father,,
+Q28500708,Andrey Tychinin,mother,,
+Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
+Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
+Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
+Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
+Q313452,Buvaisar Saitiev,sibling,Q348977,Adam Saitiev
+Q313915,Sergey Kiriyenko,child,Q5680808,Vladimir Kiriyenko
+Q3148435,Mariya Kozhevnikova,father,Q1373900,Aleksandr Kozhevnikov
+Q316583,Anatoliy Serdyukov,spouse,Q4104732,Yevgeniya Vasilyeva
+Q317667,Viktor Khristenko,spouse,Q260432,Tatyana Golikova
+Q319497,Sergey Sobyanin,relative,Q25390701,Nikolay Ulanov
+Q32024,Sergey Shoygu,child,Q17287328,Yuliya Shoygu
+Q32024,Sergey Shoygu,child,Q17287335,Kseniya Shoygu
+Q32024,Sergey Shoygu,father,Q17287361,Kuzhuget Shoygu
+Q32024,Sergey Shoygu,mother,Q17287363,Aleksandra Shoygu
+Q32024,Sergey Shoygu,sibling,Q4525925,Larisa Flamenbaum
+Q32024,Sergey Shoygu,spouse,Q17287325,Irina Shoygu
+Q3400285,Dmitry Pevtsov,spouse,Q4168456,Olga Drozdova
+Q3479763,Sergey Pugachyov,child,Q2833979,Alexandre Pougatchev
+Q3479763,Sergey Pugachyov,partner,Q4720766,Alexandra Tolstoy
+Q3479763,Sergey Pugachyov,spouse,Q4720766,Alexandra Tolstoy
+Q363846,Boris Nemtsov,child,Q4317038,Zhanna Nemtsova
+Q363846,Boris Nemtsov,partner,Q59777710,Anna Durytska
+Q363846,Boris Nemtsov,relative,Q4530004,Igor Eidman
+Q363846,Boris Nemtsov,spouse,Q108667711,Raisa Akhmetovna Nemtsova
+Q3658303,Alexander Grushko,father,Q4150962,Viktor Grushko
+Q370787,Alexander Lebedev,child,Q2889271,Evgeny Lebedev
+Q370787,Alexander Lebedev,father,Q107097779,Евгений Николаевич Лебедев
+Q370787,Alexander Lebedev,mother,Q107097778,Мария Сергеевна Лебедева
+Q370787,Alexander Lebedev,spouse,Q107097785,Natalia Sokolova
+Q370787,Alexander Lebedev,spouse,Q55437706,Elena Perminova
+Q385485,Dmitry Mezentsev,spouse,Q4492958,"Фролова, Евгения Евгеньевна"
+Q39391916,Aleksey Zagrebin,father,Q24352427,Egor Zagrebin
+Q4066230,Grigory Anikeyev,relative,Q106274168,Andrey Anikeev
+Q4068640,Alexei Arbatov,father,Q967886,
+Q4073083,Farkhad Akhmedov,father,Q12846537,Teymur Əhmədov
+Q4082839,Andrey Belousov,father,Q97315367,
+Q4094838,Nikolay Bortsov,child,Q4094839,Yury Bortsov
+Q4106917,Aleksej Veller,father,Q16335396,Boris Veller
+Q4107645,Sergey Veremeenko,spouse,Q467773,Sofya Skya
+Q4113334,Aleksandr Vladislavlev,spouse,Q4263122,Karine Lisitsyan
+Q4125213,Yury Vorobyov,child,Q502185,Andrey Vorobyov
+Q4136108,Viktor Gerashchenko,father,Q28359993,Vladimir Gerashchenko
+Q4148178,Ivan Dmitrievitsj Gratsjjov,spouse,Q4162799,Oksana Dmitrijeva
+Q4151599,Dmitry Gudkov,father,Q555125,Gennady Gudkov
+Q4151668,Pjotr Anatolevitsj Goezjvin,father,Q4151671,Anatoly Guzhvin
+Q4152529,Andrey Grigorevitsj Goerev,child,Q20090835,"Andrey Guryev, Jr."
+Q4153081,Sait-Salam Gutseriyev,sibling,Q110893340,"Гуцериев, Хамзат Сафарбекович"
+Q4153081,Sait-Salam Gutseriyev,sibling,Q1346607,Mikhail Gutseriyev
+Q4153625,Denis Aleksandrovitsj Davitiasjvili,spouse,Q4277930,Masha Malinovskaya
+Q4159652,Umar Dzhabrailov,partner,Q199369,Naomi Campbell
+Q4159652,Umar Dzhabrailov,partner,Q287099,Kseniya Sobchak
+Q4166135,Aleksandr Dondukov,father,Q97660391,
+Q4167730,Yelena Drapeko,spouse,Q4082210,Oleg Belov
+Q4180012,Sergey Zhigarev,father,Q4180011,Aleksandr Zhigarev
+Q4180012,Sergey Zhigarev,mother,Q4468787,Ирина Борисовна Уварова
+Q4194287,Boris Zubitsky,child,Q4194286,"Зубицкий, Андрей Борисович"
+Q4194287,Boris Zubitsky,child,Q4194291,"Зубицкий, Евгений Борисович"
+Q4213035,Sergey Kapkov,partner,Q287099,Kseniya Sobchak
+Q4213035,Sergey Kapkov,spouse,Q4149679,Yekaterina Grinchevskaya
+Q4225876,Marina Kovtun,father,Q4226704,Vasily Kozlov
+Q4245378,Alla Kuzmina,father,Q4522057,Vladimir Shevchenko
+Q4260940,Dmitry Livanov,father,Q17146233,Viktor Livanov
+Q4264140,Vasily Likhachyov,relative,Q4264150,Pyotr Likhachyov
+Q4276043,"Maria Maksakova, Jr.",mother,Q4276040,Lyudmila Maksakova
+Q4276043,"Maria Maksakova, Jr.",spouse,Q19817635,Denis Voronenkov
+Q4279841,Georgiy Mamedov,father,Q4279880,Enver Mamedov
+Q4281196,Vitaly Margelov,child,Q2060455,Mikhail Margelov
+Q4281196,Vitaly Margelov,father,Q677432,Vasily Margelov
+Q4281196,Vitaly Margelov,sibling,Q4281193,Aleksandr Margelov
+Q4281196,Vitaly Margelov,sibling,Q4281195,Anatoly Margelov
+Q4284542,Mikhail Matveyev,father,Q4284547,Nikolay Matveyev
+Q4292925,Yelena Mizulina,child,Q106839254,Ekaterina Mizulina
+Q4298520,Mikhail Mishustin,father,Q82905670,
+Q4298520,Mikhail Mishustin,mother,Q83161648,
+Q4298520,Mikhail Mishustin,spouse,Q82751268,
+Q4309028,Zelimkhan Mutsoyev,sibling,Q17142371,Amirkhan Mori
+Q4317737,Andrey Nesterenko,father,Q4317736,"Нестеренко, Алексей Ефремович"
+Q43231501,Anna Kuvychko,spouse,Q57913764,Роланд Тамазович Херианов
+Q4364960,Aleksandr Pleshakov,father,Q4364962,Pyotr Pleshakov
+Q4364960,Aleksandr Pleshakov,mother,Q4066788,Tatiana Anodina
+Q4364960,Aleksandr Pleshakov,spouse,Q4364964,Olga Pleshakova
+Q4371978,Ilya Ponomarev,father,Q70248527,"Пономарёв, Владимир Николаевич"
+Q4375286,Alexander Pochinok,spouse,Q21154097,Natalya Pochinok
+Q4391661,Yevgeny Revenko,spouse,Q4263452,Elizaveta Listova
+Q4395840,,child,Q54492812,Inna Svyatenko
+Q44371,Valentina Tereshkova,child,Q110415240,Elena Tereshkova
+Q44371,Valentina Tereshkova,spouse,Q312474,Andriyan Nikolayev
+Q44371,Valentina Tereshkova,spouse,Q47161323,Yuliy Shaposhnikov
+Q4441872,Zoya Stepanova,spouse,Q4514356,Mikhail Chernyshyov
+Q4451697,Sergey Tarasov,spouse,Q4113122,Varvara Vladimirova
+Q4459965,Pyotr Olegovich Tolstoy,father,Q66022202,Oleg Tolstoy
+Q4459965,Pyotr Olegovich Tolstoy,mother,Q66022682,Olga Tolstaya
+Q4460667,Maxim Topilin,spouse,Q110991573,Maria Topilina
+Q446865,Nikolai Patrushev,child,Q18043712,Dmitry Patrushev
+Q4494406,Radiy Khabirov,father,Q59200086,Farit Khabirov
+Q4494406,Radiy Khabirov,mother,Q59192624,Raziya Khabirova
+Q4494649,Andrey Khazin,relative,Q55104087,"Хазин, Григорий Лейзерович"
+Q4494649,Andrey Khazin,sibling,Q1968160,Mikhail Khazin
+Q4512985,Valery Chereshnev,sibling,Q16335539,Игорь Александрович Черешнев
+Q4514356,Mikhail Chernyshyov,spouse,Q4441872,Zoya Stepanova
+Q4522642,Petr Shelisch,father,Q55103859,"Шелищ, Борис Исаакович"
+Q4525925,Larisa Flamenbaum,child,Q17287465,Aleksandr Flamenbaum
+Q4525925,Larisa Flamenbaum,father,Q17287361,Kuzhuget Shoygu
+Q4525925,Larisa Flamenbaum,mother,Q17287363,Aleksandra Shoygu
+Q4525925,Larisa Flamenbaum,sibling,Q32024,Sergey Shoygu
+Q4525925,Larisa Flamenbaum,spouse,Q17287491,Konstantin Flamenbaum
+Q453170,Tatyana Yumasheva,child,,
+Q453170,Tatyana Yumasheva,child,,
+Q453170,Tatyana Yumasheva,child,,
+Q453170,Tatyana Yumasheva,father,Q34453,Boris Yeltsin
+Q453170,Tatyana Yumasheva,mother,Q2498810,Naina Yeltsina
+Q453170,Tatyana Yumasheva,sibling,Q27734161,Elena Yeltsina
+Q453170,Tatyana Yumasheva,spouse,Q1975794,Valentin Yumashev
+Q4535396,Marsel Yusupov,father,Q4535400,Kharis Yusupov
+Q4537160,Vladimir Yakubovsky,child,Q60389401,Alexander Yakubovsky
+Q457064,Roman Romanenko,father,Q446720,Yury Romanenko
+Q47139160,Alfiya Kogogina,spouse,Q4226081,Sergey Kogogin
+Q47670067,Bella Zlatkis,child,Q110991720,Svetlana Berman
+Q47670067,Bella Zlatkis,relative,Q18045340,Oleg Malis
+Q47670067,Bella Zlatkis,relative,Q4277977,Alexander Malis
+Q47670067,Bella Zlatkis,sibling,Q110991716,Nina Malis
+Q487779,Anatoly Lukyanov,child,Q4269216,Yelena Lukyanova
+Q501649,Andrei Fursenko,father,Q4493540,Aleksandr Aleksandrovich Fursenko
+Q501649,Andrei Fursenko,sibling,Q4493547,Sergey Fursenko
+Q502185,Andrey Vorobyov,father,Q4125213,Yury Vorobyov
+Q50224531,Ralif Safin,child,Q270951,Alsou
+Q503151,Artur Taymazov,sibling,Q1387949,Timur Taymazov
+Q51667982,Aleksandr Sholokhov,father,Q48402657,Mikhail Mikhailovich Sholokhov
+Q516824,Alexander Bortnikov,child,Q104902312,Denis Bortnikov
+Q520016,Igor Lebedev,father,Q200015,Vladimir Zhirinovsky
+Q520291,Anton Shipulin,sibling,Q229640,Anastasiya Kuzmina
+Q541213,Irina Khakamada,father,Q11626639,Mutsuo Hakamada
+Q541213,Irina Khakamada,sibling,Q4494882,Shigeki Hakamada
+Q54492812,Inna Svyatenko,father,Q4395840,"Родионов, Юрий Николаевич"
+Q550670,Sergey Tchepikov,spouse,Q525611,Yelena Melnikova
+Q55101946,Daniil Bessarabov,father,Q55105923,Vladimir Bessarabov
+Q55105061,Sergey Ten,father,Q4454589,Yury Ten
+Q555125,Gennady Gudkov,child,Q4151599,Dmitry Gudkov
+Q56310238,Rauf Arashukov,father,Q104410592,Raul Arashukov
+Q56708540,Vladimir Sipyagin,father,Q62570577,Владимир Яковлевич Сипягин
+Q57735,Alexander Zhukov,child,Q75492617,Pyotr Zhukov
+Q57735,Alexander Zhukov,father,Q4181368,Dmitri Zhukov
+Q58217,Sergey Lavrov,child,Q17287802,Ekaterina Lavrova
+Q58217,Sergey Lavrov,spouse,Q17287782,Maria Lavrova
+Q589645,Anton Siluanov,father,Q61875753,Герман Михайлович Силуанов
+Q60220292,Aleksey Krasnoshtanov,child,Q108684903,Anton Krasnoshtanov
+Q60322844,Aleksandr Kozlovskiy,father,Q48954963,"Козловский, Николай Николаевич"
+Q60345819,Yuri Kobzev,father,Q24642628,"Кобзев, Виктор Анатольевич"
+Q60389401,Alexander Yakubovsky,father,Q4537160,Vladimir Yakubovsky
+Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
+Q612244,Yury Chaika,child,Q105078108,"Чайка, Игорь Юрьевич"
+Q612244,Yury Chaika,child,Q21617046,Artem Chaika
+Q70250998,Viktor Kondratov,child,Q101077271,"Кондратов, Руслан Викторович"
+Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
+Q737463,Dmitry Rogozin,father,Q4395590,Oleg Rogozin
+Q74746,Elvira Nabiullina,spouse,Q4245427,Yaroslav Kuzminov
+Q7747,Vladimir Putin,child,Q19364345,Katerina Tikhonova
+Q7747,Vladimir Putin,child,Q19816371,Maria Vorontsova
+Q7747,Vladimir Putin,father,Q19300851,Vladimir Spiridonovich Putin
+Q7747,Vladimir Putin,mother,Q19300864,Maria Ivanovna Shelomova
+Q7747,Vladimir Putin,relative,Q15087614,Roman Putin
+Q7747,Vladimir Putin,relative,Q1833348,Igor Putin
+Q7747,Vladimir Putin,relative,Q22682071,Kirill Shamalov
+Q7747,Vladimir Putin,spouse,Q233282,Lyudmila Putina
+Q82695,Yegor Gaidar,child,Q1964282,Maria Gaidar
+Q82695,Yegor Gaidar,father,Q4121797,Timur Gaidar
+Q82695,Yegor Gaidar,mother,Q18679045,Ariadna Bazhova
+Q827054,Mikhail Shvydkoy,sibling,Q4199013,Andrey Ikov
+Q827054,Mikhail Shvydkoy,spouse,Q6401231,Marina Polyak
+Q83375533,Olga Lyubimova,father,Q4271497,Boris Lyubimov
+Q83375533,Olga Lyubimova,mother,Q97184610,
+Q84394256,Igor Molyakov,father,Q60831838,"Моляков, Юрий Иванович"
+Q84718811,Galina Munzuk,father,Q926680,
+Q84718811,Galina Munzuk,mother,Q16495194,Kara-Kys Munzuk
+Q86830849,Bekhan Agaev,father,Q20090063,Vakha Agaev
+Q86833225,Mikhail Pitkevich,father,Q4363883,Yury Pitkevich
+Q983505,Murtaza Rakhimov,child,Q4391090,Ural Rakhimov
+Q984154,Vladimir Bortko,father,Q12084245,Volodymyr Volodymyrovych Bortko
+Q98704934,Vladimir Chernukhin,spouse,Q107242456,Lubov Chernukhin
