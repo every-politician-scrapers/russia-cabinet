@@ -242,7 +242,7 @@ Q60322844,Aleksandr Kozlovskiy,father,Q48954963,"Козловский, Нико�
 Q60345819,Yuri Kobzev,father,Q24642628,"Кобзев, Виктор Анатольевич"
 Q60389401,Alexander Yakubovsky,father,Q4537160,Vladimir Yakubovsky
 Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
-Q612244,Yury Chaika,child,Q105078108,"Чайка, Игорь Юрьевич"
+Q612244,Yury Chaika,child,Q105078108,Igor Chaika
 Q612244,Yury Chaika,child,Q21617046,Artem Chaika
 Q70250998,Viktor Kondratov,child,Q101077271,"Кондратов, Руслан Викторович"
 Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
@@ -255,6 +255,7 @@ Q7747,Vladimir Putin,mother,Q19300864,Maria Ivanovna Shelomova
 Q7747,Vladimir Putin,relative,Q15087614,Roman Putin
 Q7747,Vladimir Putin,relative,Q1833348,Igor Putin
 Q7747,Vladimir Putin,relative,Q22682071,Kirill Shamalov
+Q7747,Vladimir Putin,relative,Q22941823,Jorrit Faassen
 Q7747,Vladimir Putin,spouse,Q233282,Lyudmila Putina
 Q82695,Yegor Gaidar,child,Q1964282,Maria Gaidar
 Q82695,Yegor Gaidar,father,Q4121797,Timur Gaidar
