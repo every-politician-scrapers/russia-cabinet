@@ -3,6 +3,7 @@
   "native_name": "Антон Силуанов",
   "native_name_lang": "ru",
   "image": "Anton Siluanov (2019-09-25).jpg",
+  "caption": "Siluanov in 2019",
   "office1": "Minister of Finance of Russia",
   "primeminister1": "Vladimir Putin\nDmitry Medvedev\nMikhail Mishustin",
   "term_start1": "27 September 2011\nActing:\n27 September – 16 December 2011\n7 – 21 May 2012\n7 – 18 May 2018\n15 – 21 January 2020",
@@ -14,7 +15,7 @@
   "predecessor2": "Igor Shuvalov",
   "successor2": "Andrey Belousov",
   "birth_date": "April 12, 1963",
-  "birth_place": "Moscow, Russian SFSR, Soviet Union\n(now Russia)",
+  "birth_place": "Moscow, Russian SFSR, Soviet Union",
   "party": "United Russia",
   "alma_mater": "Moscow Finance Institute"
 }
