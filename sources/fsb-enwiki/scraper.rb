@@ -4,8 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -17,7 +15,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[image name dates president].freeze
+      %w[no image name dates president].freeze
     end
   end
 end
