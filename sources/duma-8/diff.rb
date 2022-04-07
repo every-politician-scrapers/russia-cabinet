@@ -3,5 +3,12 @@
 
 require 'every_politician_scraper/comparison'
 
-diff = EveryPoliticianScraper::NulllessComparison.new('wikidata.csv', 'scraped.csv').diff
+
+class Comparison < EveryPoliticianScraper::NulllessComparison
+  def columns
+    %i[item]
+  end
+end
+
+diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
 puts diff.sort_by { |r| [r.first, r[1].to_s] }.reverse.map(&:to_csv)
