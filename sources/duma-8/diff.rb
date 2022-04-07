@@ -3,7 +3,6 @@
 
 require 'every_politician_scraper/comparison'
 
-
 class Comparison < EveryPoliticianScraper::NulllessComparison
   def columns
     %i[item]
