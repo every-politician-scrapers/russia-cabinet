@@ -10,7 +10,7 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Notes'
+    'Portrait'
   end
 
   # collapse consecutive mandates
@@ -24,11 +24,15 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no img name start end].freeze
+      %w[no img name dates].freeze
     end
 
     def empty?
-      super || startDate < '2008-01-01'
+      super || (startDate < '2008-01-01')
+    end
+
+    def raw_combo_date
+      super.gsub('since ', '').gsub('Acting governor', '').tidy
     end
   end
 end
