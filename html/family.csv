@@ -13,7 +13,7 @@ Q108691440,Roza Chemeris,stepparent,Q28497366,Mikhail Gloubokovsky
 Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
 Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
 Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
-Q108899086,,sibling,Q4074398,Mikhail Babich
+Q108899086,Alla Polyakova,sibling,Q4074398,Mikhail Babich
 Q1192630,Vyacheslav Shtyrov,father,Q15868908,Anatoliĭ Shtyrov
 Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
 Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
@@ -29,6 +29,7 @@ Q14920892,Mikhail Musatov,child,Q6097047,Ivan Musatov
 Q150080,Mikhail Fradkov,child,Q110991318,Pavel Fradkov
 Q150080,Mikhail Fradkov,child,Q4492294,Petr Fradkov
 Q15075401,Aysen Nikolayev,spouse,Q61110830,Ljudmila Nikolajeva
+Q15079517,Pavel Semjonov,father,Q109486984,"Семёнов, Владимир Николаевич"
 Q152318,Svetlana Savitskaya,father,Q523332,Yevgeny Savitsky
 Q156379,Yury Luzhkov,spouse,Q466610,Yelena Baturina
 Q15963668,Natalia Poklonskaya,spouse,Q4428059,Ivan Nikolaevich Solovjev
