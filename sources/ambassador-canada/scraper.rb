@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def empty?
       raw_combo_date[/(\d{4})/, 1].to_i < 1991
     end
-
-    def raw_combo_date
-      super.gsub('наст. время', ' ')
-    end
   end
 end
 
