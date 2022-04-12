@@ -5,5 +5,5 @@ ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTim
 4,Q4146585,4th State Duma of the Russian Federation,2003-12-07,2007-12-24,2003-12-07,11,,,2007-12-24,11,,,,,,,Q4146579,3rd State Duma of the Russian Federation,Q4146584,5th State Duma of the Russian Federation
 5,Q4146584,5th State Duma of the Russian Federation,2007-12-24,2011-12-21,2007-12-24,11,,,2011-12-21,11,,,,,,,Q4146585,4th State Duma of the Russian Federation,Q4146582,6th State Duma of the Russian Federation
 6,Q4146582,6th State Duma of the Russian Federation,2011-12-21,2016-10-05,,,2011-12-21,11,,,2016-10-05,11,,,,,Q4146584,5th State Duma of the Russian Federation,Q26708541,7th State Duma of the Russian Federation
-7,Q26708541,7th State Duma of the Russian Federation,2016-10-05,2021-10-12,2016-10-05,11,,,2021-10-12,11,,,,,,,Q4146582,6th State Duma of the Russian Federation,Q106638694,8th State Duma
-8,Q106638694,8th State Duma,2021-10-12,,,,2021-10-12,11,,,,,,,,,Q26708541,7th State Duma of the Russian Federation,,
+7,Q26708541,7th State Duma of the Russian Federation,2016-10-05,2021-10-12,2016-10-05,11,,,2021-10-12,11,,,,,,,Q4146582,6th State Duma of the Russian Federation,Q106638694,8th State Duma of the Russian Federation
+8,Q106638694,8th State Duma of the Russian Federation,2021-10-12,,,,2021-10-12,11,,,,,,,,,Q26708541,7th State Duma of the Russian Federation,,
