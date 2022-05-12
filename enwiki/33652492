@@ -18,14 +18,12 @@
 }
 {
   "height": "1.76m",
-  "weight_class": "? light-middleweight\n\n? Welterweight",
+  "weight_class": "Light-Middleweight\n\n Welterweight",
   "team": "Fight Nights",
-  "rank": "International Master of Sports in Kickboxing\n\nMaster of Sports in Sambo\n\nBlack Belt 1st Dan in Kyokushin kaikan\n\nBlack belt in Jujutsu\n\nMaster of Sports in Hand-to Hand Fighting (\n\nMaster of Martial Arts \n\nBlack Belts 1st Dan in Seiwakai",
+  "rank": "International Master of Sports in Kickboxing\n\n\nMaster of Sports in Sambo\n\n\nBlack Belt 1st Dan in Kyokushin kaikan\n\n\nBlack belt in Jujutsu\n\n\nMaster of Sports in Hand-to Hand Fighting\n\n\nMaster of Martial Arts\n\n\nBlack Belts 1st Dan in Seiwakai",
   "kickbox_win": "10",
   "kickbox_kowin": "6",
   "kickbox_loss": "1",
   "kickbox_draw": "0",
-  "university": "Moscow State Pedagogical University",
-  "website": "http://batukhasikov.com",
-  "updated": "November 3, 2012"
+  "university": "Moscow State Pedagogical University"
 }
