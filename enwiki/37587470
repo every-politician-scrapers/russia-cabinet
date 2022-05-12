@@ -1,14 +1,14 @@
 {
-  "honorific_prefix": "Hero of the Russian Federation General of the Army",
+  "honorific_prefix": "Hero of the Russian Federation\nGeneral of the Army",
   "name": "Valery Gerasimov",
   "native_name": "Вале́рий Гера́симов",
   "birth_date": "September 8, 1955",
   "birth_place": "Kazan, Tatar ASSR, Soviet Union",
-  "allegiance": "Soviet Union (1976–1991) Russian Federation (1991–present)",
-  "branch": "Soviet Armed Forces Russian Armed Forces",
+  "allegiance": "Soviet Union (1976–1991)\n Russian Federation (1991–present)",
+  "branch": "Soviet Armed Forces\nRussian Armed Forces",
   "serviceyears": "1976–present",
   "rank": "Russia-Army-OF-9-2013.svg General of the Army",
-  "commands": "Chief of the General Staff Deputy Chief of the General Staff Central Military District Moscow Military District Leningrad Military District 58th Army 144th Guards Motor Rifle Division",
-  "battles": "Second Chechen War Syrian Civil War Russo-Ukrainian War",
-  "awards": "Hero of the Russian Federation Order of Honour Order of St. George (3rd and 4th Class)"
+  "commands": "Chief of the General Staff\nDeputy Chief of the General Staff\nCentral Military District\nMoscow Military District\nLeningrad Military District\n58th Army\n144th Guards Motor Rifle Division",
+  "battles": "Second Chechen War\nSyrian Civil War\nRusso-Ukrainian War",
+  "awards": "Hero of the Russian Federation\nOrder of Honour\nOrder of St. George (3rd and 4th Class)"
 }
