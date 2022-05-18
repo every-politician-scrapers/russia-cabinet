@@ -31,6 +31,10 @@ class OfficeholderList < OfficeholderListBase
     def date_class
       DottedDMY
     end
+
+    def too_early?
+      false
+    end
   end
 end
 
