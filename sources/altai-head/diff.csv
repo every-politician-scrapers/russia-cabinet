@@ -1,4 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Alexander Berdnikov,Q286470,2006-01-20->2006-01-26,2019-03-20
-->,Oleg Khorokhordin,Q62168639,2019-03-20,NULL->2019-10-01
-+++,Oleg Khorokhordin,Q62168639,2019-10-01,
+@@,item,itemlabel,startdate,enddate
+->,Q286470,Alexander Berdnikov,2006-01-20->2006-01-26,2019-03-20
+->,Q62168639,Oleg Khorokhordin,2019-03-20,NULL->2019-10-01
++++,Q62168639,Oleg Khorokhordin,2019-10-01,
