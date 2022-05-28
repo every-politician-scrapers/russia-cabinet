@@ -1,3 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-+++,Yuri Petrov,,1991-08-05,1993-01-19
-->,Sergey Naryshkin,Q983654,2008-05-12,2011-12-20->2011-12-15
+@@,item,itemlabel,startdate,enddate
+->,Q983654,Sergey Naryshkin,2008-05-12,2011-12-20->2011-12-15
