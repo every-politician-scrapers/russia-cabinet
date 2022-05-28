@@ -31,10 +31,10 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: c81a9f1a784b0cb2efc101ebb01e6fea30a1c739
+  revision: 2a09c2d7604682cbd56b2a3b8eaadf3999efb4b4
   branch: main
   specs:
-    every-politician-scraper (0.5.8)
+    every-politician-scraper (0.6.3)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
@@ -132,14 +132,14 @@ GEM
     wikisnakker (0.9.1)
       require_all
       yajl-ruby
-    yajl-ruby (1.4.2)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   x86_64-darwin-17
   x86_64-linux
 
 DEPENDENCIES
-  every-politician-scraper (= 0.5.8)!
+  every-politician-scraper (= 0.6.3)!
   open-uri-cached
   pry
   rake
