@@ -1,9 +1,7 @@
-@@,itemlabel,item,startdate,enddate
-->,Anatoly Tyazhlov->Anatoliy Tyazhlov,Q4467894,1991-10-16,1999-11-19->1995-12-24
-+++,Anatoliy Tyazhlov,Q4467894,1995-12-24,1999-11-19
-->,Boris Gromov,Q504137,2000-02-02,2012-05-11->2003-12-18
-+++,Boris Gromov,Q504137,2003-12-18,2007-05-11
-+++,Boris Gromov,Q504137,2007-05-11,2012-05-11
-->,Andrey Vorobyov,Q502185,2012-11-08,NULL->2013-09-14
-+++,Andrey Vorobyov,Q502185,2013-09-14,2018-09-14
-+++,Andrey Vorobyov,Q502185,2018-09-14,
+@@,item,itemlabel,startdate,enddate
+->,Q504137,Boris Gromov,2000-02-02,2012-05-11->2003-12-18
++++,Q504137,Boris Gromov,2003-12-18,2007-05-11
++++,Q504137,Boris Gromov,2007-05-11,2012-05-11
+->,Q502185,Andrey Vorobyov,2012-11-08,NULL->2013-09-14
++++,Q502185,Andrey Vorobyov,2013-09-14,2018-09-14
++++,Q502185,Andrey Vorobyov,2018-09-14,
