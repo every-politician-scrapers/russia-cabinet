@@ -1,10 +1,9 @@
-@@,itemlabel,item,startdate,enddate
-+++,Murtaza Rakhimov,Q983505,1993-12-12,1998-06-14
-+++,Murtaza Rakhimov,Q983505,1998-06-14,2003-12-21
-+++,Murtaza Rakhimov,Q983505,2003-12-21,2006-12-10
-+++,Murtaza Rakhimov,Q983505,2006-12-10,2010-07-15
-+++,Rustem Khamitov,Q1395558,2010-07-15,2010-07-20
-+++,Rustem Khamitov,Q1395558,2010-07-20,2014-09-14
-->,Rustem Khamitov,Q1395558,2015-01-01->2014-09-14,2018-10-11
-->,Radiy Khabirov,Q4494406,2018-10-11,NULL->2019-09-19
-+++,Radiy Khabirov,Q4494406,2019-09-19,
+@@,item,itemlabel,startdate,enddate
++++,Q983505,Murtaza Rakhimov,1998-06-14,2003-12-21
++++,Q983505,Murtaza Rakhimov,2003-12-21,2006-12-10
++++,Q983505,Murtaza Rakhimov,2006-12-10,2010-07-15
++++,Q1395558,Rustem Khamitov,2010-07-15,2010-07-20
++++,Q1395558,Rustem Khamitov,2010-07-20,2014-09-14
+->,Q1395558,Rustem Khamitov,2015-01-01->2014-09-14,2018-10-11
+->,Q4494406,Radiy Khabirov,2018-10-11,NULL->2019-09-19
++++,Q4494406,Radiy Khabirov,2019-09-19,

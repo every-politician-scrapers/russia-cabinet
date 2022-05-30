@@ -17,14 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no term img name start end].freeze
     end
-
-    def raw_start
-      super rescue binding.pry
-    end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 
