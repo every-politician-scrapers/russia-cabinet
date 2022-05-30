@@ -1,8 +1,7 @@
-@@,itemlabel,item,startdate,enddate
-->,Leonid Potapov,Q1062335,1994-07-01,2007-07-10->1998-06-21
-+++,Leonid Potapov,Q1062335,1998-06-21,2002-06-23
-+++,Leonid Potapov,Q1062335,2002-06-23,2007-07-10
-->,Vyacheslav Nagovitsyn,Q744157,2007-07-10,2017-02-07->2012-05-12
-+++,Vyacheslav Nagovitsyn,Q744157,2012-05-12,2017-02-07
-->,Aleksey Tsydenov->Alexey Tsydenov,Q28729008,2017-02-07,NULL->2017-09-10
-+++,Alexey Tsydenov,Q28729008,2017-09-10,
+@@,item,itemlabel,startdate,enddate
+->,Q1062335,Leonid Potapov,1994-07-01->2002-06-23,2007-07-10
++++,Q1062335,Leonid Potapov,1998-06-21,2002-06-23
+->,Q744157,Vyacheslav Nagovitsyn,2007-07-10,2017-02-07->2012-05-12
++++,Q744157,Vyacheslav Nagovitsyn,2012-05-12,2017-02-07
+->,Q28729008,Aleksey Tsydenov->Alexey Tsydenov,2017-02-07,NULL->2017-09-10
++++,Q28729008,Alexey Tsydenov,2017-09-10,

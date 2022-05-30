@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_combo_date
       super.gsub('from ', '').tidy
     end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 
