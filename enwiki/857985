@@ -1,5 +1,5 @@
 {
-  "honorific-prefix": "Hero of the Russian Federation General of the Army",
+  "honorific-prefix": "Hero of the Russian Federation\nGeneral of the Army",
   "name": "Sergei Shoigu",
   "native_name": "Сергей Шойгу",
   "office": "Minister of Defence",
@@ -25,13 +25,13 @@
   "office4": "Deputy Prime Minister of Russia",
   "term_start4": "10 January 2000",
   "term_end4": "18 May 2000",
-  "primeminister4": "Vladimir Putin Mikhail Kasyanov (acting)",
+  "primeminister4": "Vladimir Putin\nMikhail Kasyanov (acting)",
   "office5": "Leader of Unity",
   "term_start5": "15 October 1999",
   "term_end5": "1 December 2001",
   "office6": "Minister of Emergency Situations",
-  "president6": "Boris Yeltsin Vladimir Putin Dmitry Medvedev Vladimir Putin",
-  "primeminister6": "Ivan Silayev Oleg Lobov (acting) Boris Yeltsin (as President) Yegor Gaidar (acting) Viktor Chernomyrdin Sergey Kiriyenko Viktor Chernomyrdin (acting) Yevgeny Primakov Sergei Stepashin Vladimir Putin Mikhail Kasyanov Viktor Khristenko (acting) Mikhail Fradkov Viktor Zubkov Vladimir Putin Viktor Zubkov (acting) Dmitry Medvedev",
+  "president6": "Boris Yeltsin\nVladimir Putin\nDmitry Medvedev\nVladimir Putin",
+  "primeminister6": "Ivan Silayev\nOleg Lobov (acting)\nBoris Yeltsin (as President)\nYegor Gaidar (acting)\nViktor Chernomyrdin\nSergey Kiriyenko\nViktor Chernomyrdin (acting)\nYevgeny Primakov\nSergei Stepashin\nVladimir Putin\nMikhail Kasyanov\nViktor Khristenko (acting)\nMikhail Fradkov\nViktor Zubkov\nVladimir Putin\nViktor Zubkov (acting)\nDmitry Medvedev",
   "term_start6": "17 April 1991",
   "term_end6": "11 May 2012",
   "predecessor6": "Office established",
@@ -39,9 +39,9 @@
   "birth_name": "Sergei Kuzhugetovich Shoigu",
   "birth_date": "May 21, 1955",
   "birth_place": "Chadan, Tuvan Autonomous Oblast, Russian SFSR, Soviet Union",
-  "party": "Communist Party of the Soviet Union (1977–1991) Independent (1991–1995) Our Home-Russia (1995–1999) Unity (1999–2001) United Russia (2001–present)",
+  "party": "Communist Party of the Soviet Union (1977–1991)\nIndependent (1991–1995)\nOur Home-Russia (1995–1999)\nUnity (1999–2001)\nUnited Russia (2001–present)",
   "spouse": "Irina Shoigu",
-  "children": "Yulia Shoigu Kseniya Shoigu",
+  "children": "Yulia Shoigu\nKseniya Shoigu",
   "alma_mater": "Krasnoyarsk Polytechnical Institute",
   "signature": "Signature of Sergey Shoygu.png",
   "allegiance": "Soviet Union (1991)\n\n🇷🇺 Russia (1991–present)\n\nCIS (1991–present)",
@@ -49,5 +49,5 @@
   "serviceyears": "1991–present",
   "rank": "General of the Army",
   "battles": "2022 Russian invasion of Ukraine (chairman)",
-  "awards": "Hero of the Russian Federation Order of St. Andrew (with swords)"
+  "awards": "Hero of the Russian Federation\nOrder of St. Andrew (with swords)"
 }
