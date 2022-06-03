@@ -2,7 +2,7 @@
   "name": "Yury Trutnev",
   "native_name": "Юрий Трутнев",
   "native_name_lang": "ru",
-  "office": "Deputy Prime Minister of Russia — Presidential Envoy to the Far Eastern Federal District",
+  "office": "Deputy Prime Minister of Russia Presidential Envoy to the Far Eastern Federal District",
   "president": "Vladimir Putin",
   "primeminister": "Dmitry Medvedev Mikhail Mishustin",
   "term_start": "31 August 2013 Acting: 7 – 18 May 2018 and 15 – 21 January 2020",
@@ -10,7 +10,7 @@
   "office2": "Assistant to the President of Russia",
   "term_start2": "22 May 2012",
   "term_end2": "31 August 2013",
-  "order3": "2nd Minister of Natural Resources and Ecology of Russia",
+  "office3": "2nd Minister of Natural Resources and Ecology of Russia",
   "term_start3": "9 March 2004",
   "term_end3": "21 May 2012",
   "predecessor3": "Vitaly Artyukhov",
@@ -28,6 +28,6 @@
   "predecessor5": "Vladimir Fil",
   "successor5": "Arkady Kamenev",
   "birth_date": "March 1, 1956",
-  "birth_place": "Perm, Perm Oblast, Russian SFSR, Soviet Union",
+  "birth_place": "Perm, Perm Oblast, Russian SFSR, Soviet Union (now Perm Krai, Russia)",
   "party": "United Russia"
 }
