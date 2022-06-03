@@ -11,8 +11,9 @@
   "primeminister2": "Dmitry Medvedev",
   "successor2": "Oleg Skufinsky",
   "birth_date": "May 22, 1975",
-  "birth_place": "Chernogorsk, Khakas AO, Krasnoyarsk Krai, Soviet Union",
+  "birth_place": "Chernogorsk, Krasnoyarsk Krai, Russian SFSR, Soviet Union (now Russia)",
   "alma_mater": "Krasnoyarsk State Agrarian University\nRANEPA",
-  "profession": "politician",
-  "party": "United Russia"
+  "party": "United Russia",
+  "native_name": "Виктория Валериевна Абрамченко",
+  "native_name_lang": "ru"
 }

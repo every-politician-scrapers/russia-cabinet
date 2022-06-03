@@ -1,15 +1,18 @@
 {
   "name": "Alexander Kozlov",
-  "office": "Minister of Natural Resources and Ecology",
+  "office": "Minister of Natural Resources and Ecology of Russia",
   "term_start": "10 November 2020",
   "primeminister": "Mikhail Mishustin",
   "predecessor": "Dmitry Kobylkin",
   "office1": "Minister for the Development of the Russian Far East and Arctic",
   "term_start1": "18 May 2018",
   "term_end1": "10 November 2020",
-  "primeminister1": "Dmitry Medvedev Mikhail Mishustin",
+  "primeminister1": "Dmitry Medvedev\n\nMikhail Mishustin",
   "predecessor1": "Aleksandr Galushka",
   "successor1": "Aleksey Chekunkov",
   "birth_date": "January 2, 1981",
-  "birth_place": "Yuzhno-Sakhalinsk, Russian SFSR"
+  "birth_place": "Yuzhno-Sakhalinsk, Sakhalin Oblast, Russian SFSR, Soviet Union (now Russia)",
+  "party": "United Russia",
+  "native_name_lang": "ru",
+  "native_name": "Александр Козлов"
 }
