@@ -2,7 +2,7 @@ id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q218295,President of Russia,Q159,Q159,,Q6861127,1991-06-12,,Q12176753,,President of Russia
 Q842386,Prime Minister of Russia,Q159,Q1140115,Q1965788,Q13502826,1992,,,,Prime Minister of Russia
 Q1965788,First Deputy Chairman of the Government of the Russian Federation,Q159,Q159,,,1991-12-26,,,,First Deputy Prime Minister of Russia
-Q14805701,Deputy Chairman of the Government of the Russian Federation,Q159,Q159,,,,,,,Deputy Prime Minister of Russia
+Q14805701,Deputy Chairman of the Government of the Russian Federation,Q159,Q159,,,,,,,Deputy Chairman of the Government
 Q107724535,Minister of Agriculture,Q159,Q159,,,,,,,
 Q107688680,"Minister of Construction, Housing and Utilities",Q159,Q159,,,,,,,
 Q107710300,Minister of Culture,Q159,Q159,,,,,,,
