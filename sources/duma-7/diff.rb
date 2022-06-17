@@ -4,7 +4,7 @@
 require 'every_politician_scraper/comparison'
 
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     %i[item]
   end
