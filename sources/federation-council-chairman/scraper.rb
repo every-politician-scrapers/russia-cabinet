@@ -15,7 +15,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no _ img name start end].freeze
+      %w[no _ img name _ start end].freeze
     end
   end
 end
