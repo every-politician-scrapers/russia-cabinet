@@ -1,12 +1,13 @@
 {
   "name": "Anton Vaino",
+  "native_name": "Антон Вайно",
   "office": "Kremlin Chief of Staff",
   "president": "Vladimir Putin",
   "term_start": "12 August 2016",
   "predecessor": "Sergei Ivanov",
   "birth_date": "February 17, 1972",
   "birth_place": "Tallinn, Estonia",
-  "relatives": "Karl Vaino (grandfather)",
   "party": "United Russia",
+  "relatives": "Karl Vaino (grandfather)",
   "alma_mater": "Moscow State Institute of International Relations"
 }
