@@ -1,0 +1,219 @@
+{
+  "title": "Stanislav Osadchiy",
+  "pageID": 18764787,
+  "categories": [
+    "Living people",
+    "Ambassadors of Russia to Austria",
+    "Moscow State Institute of International Relations alumni",
+    "1951 births",
+    "Ambassadors of Russia to Cyprus"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stanislav Viliorovich Osadchiy (Russian: Станислав Вилиорович Осадчий; born 26 January 1951) is a diplomat who is Ambassador Extraordinary and Plenipotentiary of the Russian Federation to the Republic of Cyprus.",
+              "links": [
+                {
+                  "text": "Russian",
+                  "type": "internal",
+                  "page": "Russian language"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "Ambassador Extraordinary and Plenipotentiary of the Russian Federation to the Republic of Cyprus",
+                  "type": "internal",
+                  "page": "List of ambassadors of Russia to Cyprus"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Stanislav Viliorovich Osadchiy"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Stanislav_Osadchy.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Stanislav_Osadchy.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Stanislav_Osadchy.jpg",
+          "caption": "Stanislav Osadchy",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Russian diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "script-title": "ru:Осадчий Станислав Вилиорович",
+          "publisher": "Information-Analytical Portal \"Heritage\"",
+          "url": "http://www.nasledie.ru/naslHTTP/cs/OUT_DOC/ID/145643",
+          "accessdate": "2008-08-08",
+          "language": "ru}} {{Dead link|date=October 2010|bot=H3llBot|undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Osadchiy graduated from the Moscow State Institute of International Relations in 1973 and went on to work in various diplomatic posts in the central offices of the Ministry of Foreign Affairs and abroad.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moscow State Institute of International Relations"
+                },
+                {
+                  "text": "Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Russia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1997 to 1999, Osadchiy was the consul-general of Russia in Hamburg, Germany, and from 1999 to 2000 the consul-general of Russia in Istanbul, Turkey.",
+              "links": [
+                {
+                  "text": "consul-general",
+                  "type": "internal",
+                  "page": "consul-general"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hamburg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Germany"
+                },
+                {
+                  "text": "consul-general",
+                  "type": "internal",
+                  "page": "consul-general"
+                },
+                {
+                  "type": "internal",
+                  "page": "Istanbul"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 6 August 2004, he was appointed by Vladimir Putin as Ambassador of Russia to Austria, and he presented his credentials in Vienna on 14 September 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vladimir Putin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Russia to Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vienna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Osadchiy speaks Russian, English, French, Greek, German and Turkish.",
+              "links": [
+                {
+                  "text": "Russian",
+                  "type": "internal",
+                  "page": "Russian language"
+                },
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                },
+                {
+                  "text": "French",
+                  "type": "internal",
+                  "page": "French language"
+                },
+                {
+                  "text": "Greek",
+                  "type": "internal",
+                  "page": "Greek language"
+                },
+                {
+                  "text": "German",
+                  "type": "internal",
+                  "page": "German language"
+                },
+                {
+                  "text": "Turkish",
+                  "type": "internal",
+                  "page": "Turkish language"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Stanislav Viliorovich Osadchiy"
+          ],
+          "template": "commons category"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "russia-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

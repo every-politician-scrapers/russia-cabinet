@@ -1,0 +1,645 @@
+{
+  "title": "Mikhail Degtyarev",
+  "pageID": 51094244,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "People from Samara, Russia",
+    "United Russia politicians",
+    "Liberal Democratic Party of Russia politicians",
+    "Sixth convocation members of the State Duma (Russian Federation)",
+    "Seventh convocation members of the State Duma (Russian Federation)",
+    "Governors of Khabarovsk Krai",
+    "Russian individuals subject to the European Union sanctions",
+    "Russian Presidential Academy of National Economy and Public Administration alumni",
+    "Military Academy of the General Staff of the Armed Forces of the Soviet Union alumni",
+    "Samara State Aerospace University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mikhail Vladimirovich Degtyarev (Михаи́л Влади́мирович Дегтярёв; born 10 July 1981) is a Russian politician serving as Governor of Khabarovsk Krai since September 24, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Khabarovsk Krai"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mikhail Vladimirovich Degtyarev"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the State Duma, representing the Liberal Democratic Party, since the 2011 parliamentary election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Duma"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party of Russia"
+                },
+                {
+                  "text": "2011 parliamentary election",
+                  "type": "internal",
+                  "page": "2011 Russian legislative election"
+                }
+              ]
+            },
+            {
+              "text": "He is also Vice Chairman of the State Duma Committee on Science and High Technology."
+            },
+            {
+              "text": "He is a member of the Supreme Council of the Liberal Democratic Party, and was a candidate for mayor of Moscow in the 2013 and 2018 elections.",
+              "links": [
+                {
+                  "text": "mayor of Moscow",
+                  "type": "internal",
+                  "page": "mayor of Moscow"
+                },
+                {
+                  "text": "2013",
+                  "type": "internal",
+                  "page": "2013 Moscow mayoral election"
+                },
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Moscow mayoral election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Russian politician and public figure",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "July 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Vladimirovich",
+            "Degtyarev"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1981",
+          "month": "7",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mikhail Degtyarev"
+          },
+          "native_name": {
+            "text": "Михаил Дегтярёв"
+          },
+          "image": {
+            "text": "Михаил Дегтярёв 2014 2.jpg"
+          },
+          "image_size": {
+            "text": "220",
+            "number": 220
+          },
+          "office": {
+            "text": "4th Governor of Khabarovsk Krai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Khabarovsk Krai"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 September 2021"
+          },
+          "president": {
+            "text": "Vladimir Putin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vladimir Putin"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sergei Furgal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergei Furgal"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the State Duma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State Duma"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 December 2011"
+          },
+          "term_end2": {
+            "text": "20 July 2020"
+          },
+          "office3": {
+            "text": "Deputy of the Samara Governorate Duma"
+          },
+          "term_start3": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end3": {
+            "text": "2011",
+            "number": 2011
+          },
+          "office4": {
+            "text": "Deputy of the Samara City Duma"
+          },
+          "term_start4": {
+            "text": "2004",
+            "number": 2004
+          },
+          "term_end4": {
+            "text": "2007",
+            "number": 2007
+          },
+          "birth_name": {
+            "text": "Mikhail Vladimirovich Degtyarev"
+          },
+          "birth_date": {
+            "text": "July 10, 1981"
+          },
+          "birth_place": {
+            "text": "Kuibyshev (now Samara), Russian SFSR, Soviet Union",
+            "links": [
+              {
+                "text": "Samara",
+                "type": "internal",
+                "page": "Samara, Russia"
+              },
+              {
+                "text": "Russian SFSR",
+                "type": "internal",
+                "page": "Russian Soviet Federative Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Russian",
+            "links": [
+              {
+                "text": "Russian",
+                "type": "internal",
+                "page": "Russia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Galina Degtyareva"
+          },
+          "party": {
+            "text": "Liberal Democratic (2005–present)",
+            "links": [
+              {
+                "text": "Liberal Democratic",
+                "type": "internal",
+                "page": "Liberal Democratic Party of Russia"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "United Russia (2003–2005)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Russia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Депутат Госдумы РФ Михаил Дегтярёв назначен врио губернатора Хабаровского края",
+          "url": "http://kremlin.ru/events/president/news/63689",
+          "language": "ru",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1998, Degtyarev graduated from the Samara International Aerospace High School."
+            },
+            {
+              "text": "In 2004, he graduated from the Samara State Aerospace University, Faculty of aircraft engines (specialty \"engineer\"), and he also received a special \"manager\" in the same high school at the Faculty of Economics and Management in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Samara State Aerospace University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2003, Degtyarev joined the party United Russia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Russia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2004, as a self-promoter he was elected a deputy of the Samara City Duma.",
+              "links": [
+                {
+                  "text": "Samara",
+                  "type": "internal",
+                  "page": "Samara, Russia"
+                }
+              ]
+            },
+            {
+              "text": "In 2005, he left United Russia and joined the Liberal Democratic Party of Russia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liberal Democratic Party of Russia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007, he was elected to the Samara Governorate Duma on the Liberal Democratic Party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 4 December 2011, Degtyarev was elected to the State Duma 6th convocation of the Liberal Democratic Party party list of the Samara Oblast.",
+              "links": [
+                {
+                  "text": "was elected",
+                  "type": "internal",
+                  "page": "2011 Russian legislative election"
+                },
+                {
+                  "text": "6th convocation",
+                  "type": "internal",
+                  "page": "6th State Duma"
+                },
+                {
+                  "type": "internal",
+                  "page": "Samara Oblast"
+                }
+              ]
+            },
+            {
+              "text": "Worked as Vice Chairman the State Duma Committee for Science and High Technology."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 25 March 2013, he was elected member of the Supreme Council of the Liberal Democratic Party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For undermining the territorial integrity of Ukraine, Degtyarev was included in the EU sanctions list (July 26, 2014)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 2 March 2016, Vladimir Zhirinovsky called Degtyarev one of the possible candidates for the post of President of Russia from Liberal Democratic Party in the elections of 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vladimir Zhirinovsky"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Russia"
+                },
+                {
+                  "text": "elections of 2018",
+                  "type": "internal",
+                  "page": "2018 Russian presidential election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Владимир_Жириновский_и_Михаил_Дегтярёв.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%96%D0%B8%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%94%D0%B5%D0%B3%D1%82%D1%8F%D1%80%D1%91%D0%B2.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%96%D0%B8%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%94%D0%B5%D0%B3%D1%82%D1%8F%D1%80%D1%91%D0%B2.JPG",
+          "caption": "Degtyarev with Vladimir Zhirinovsky",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Moscow mayoral elections",
+      "depth": 0
+    },
+    {
+      "title": "2013",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In June 2013, the Liberal Democratic Party nominated Degtyarev as the party's candidate for Mayor of Moscow.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Moscow"
+                }
+              ]
+            },
+            {
+              "text": "Degtyarev received 66,232 votes (2.86%), finishing fifth."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2013 Moscow mayoral election"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "2018",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 20 June 2018, Degtyarev was again nominated as a candidate for Mayor of Moscow."
+            },
+            {
+              "text": "Vladimir Zhirinovsky, speaking to the participants of the conference of the Moscow branch of the Liberal Democratic Party, said: \"Our candidate is Mikhail Degtyarev, Deputy of the State Duma. Educated man, graduated from several universities, master of sports in fencing, a father with many children — he has three sons. Write a book. He will go to the elections of the Mayor of Moscow for the second time, he has a lot of experience. Thus, we have nominated a candidate from the LDPR, who meets the highest standards of time, we will all help him, including me.\""
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2018 Moscow mayoral election"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Initiatives",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "In June 2012, Degtyarev developed a bill to provide federal maternity capital for the birth or adoption of a child has the first (and not only the second, as it is now)."
+          },
+          {
+            "text": "On 9 December 2012, Degtyarev introduced to the State Duma a bill on the abolition of the local government in the cities and converting them into \"megalopolises\". According to the initiative Degtyaryova, selected on the general elections could be only deputies of district councils megacities, which would lead to a reduction in the size of single-member districts and improve interaction with voters. According to the deputy, instead of Mayors megacities have to manage Vice Governors, dealing exclusively economic activity, rather than conflict with the leadership of the regions, which often took place in the political history of Russia.",
+            "links": [
+              {
+                "text": "megalopolises",
+                "type": "internal",
+                "page": "Megalopolis (city type)"
+              }
+            ]
+          },
+          {
+            "text": "On 11 February 2013, the deputies Degtyarev has prepared a draft federal law on the free Wi-Fi on the territory of universities for students, teachers and university staff.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wi-Fi"
+              }
+            ]
+          },
+          {
+            "text": "In May 2013, Degtyarev proposed a ban on storing and US dollars turnover in Russia by preparing the corresponding bill. The need to ban US dollars, he explained the care of cash savings of the Russians. According to the bill after two years the competent authorities upon detection of the US currency will confiscate it for the benefit of the federal budget. In November of the same year Degtyarev again raised the issue of banning dollars walking.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "US dollars"
+              }
+            ]
+          },
+          {
+            "text": "On 16 July 2016, Degtyarev was introduced to the State Duma a bill on changing colors stripes of the national flag. Instead of the white-blue-red tricolor official status proposed to assign black-yellow-white flag of the Russian Empire. \"Under the imperial flag, we scored a brilliant victory, he is able today to unite all the citizens of Russia\" — he told the Izvestia newspaper said.",
+            "links": [
+              {
+                "text": "national flag",
+                "type": "internal",
+                "page": "Flag of Russia"
+              },
+              {
+                "type": "internal",
+                "page": "Russian Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Izvestia"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Izvestia"
+              ]
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "current heads of federal subjects of russia"
+        }
+      ]
+    }
+  ]
+}

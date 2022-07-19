@@ -1,0 +1,149 @@
+{
+  "title": "Maxut Shadayev",
+  "pageID": 62888841,
+  "categories": [
+    "Government ministers of Russia",
+    "Living people",
+    "1979 births",
+    "21st-century Russian politicians",
+    "Recipients of the Order of Honour (Russia)",
+    "People from Moscow"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maxut Igorevich Shadayev (Максут Игоревич Шадаев; born 11 November 1979) is the Minister of Digital Development, Communications and Mass Media of the Russian Federation since 21 January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Digital Development, Communications and Mass Media of the Russian Federation"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maxut Igorevich Shadayev"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Minister of Digital Development, Communications and Mass Media of the Russian Federation",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1979",
+          "month": "11",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maxut Shadayev"
+          },
+          "image": {
+            "text": "Maxut Shadayev (2020-02-0).jpg"
+          },
+          "office": {
+            "text": "Minister of Digital Development, Communications and Mass Media of the Russian Federation",
+            "links": [
+              {
+                "text": "Minister of Digital Development, Communications and Mass Media of the Russian Federation",
+                "type": "internal",
+                "page": "Ministry of Digital Development, Communications and Mass Media (Russia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mikhail Mishustin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mikhail Mishustin"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 January 2020"
+          },
+          "predecessor": {
+            "text": "Konstantin Noskov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Konstantin Noskov"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 11, 1979"
+          },
+          "birth_place": {
+            "text": "Moscow, Russian SFSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moscow"
+              },
+              {
+                "type": "internal",
+                "page": "Russian SFSR"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Russian State Social University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Russian State Social University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://tass.ru/info/7573559",
+          "title": "Биография нового главы Минкомсвязи Максута Шадаева - Биографии и справки - ТАСС",
+          "website": "tass.ru",
+          "accessdate": "2020-01-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "1"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "russian cabinet"
+        },
+        {
+          "template": "russia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
