@@ -58,6 +58,10 @@
           "template": "short description"
         },
         {
+          "date": "July 2022",
+          "template": "expand russian"
+        },
+        {
           "year": "1967",
           "month": "12",
           "day": "24",
@@ -374,6 +378,76 @@
         {
           "template": "reflist"
         }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Tyva Republic",
+            "links": [
+              {
+                "text": "Tyva Republic",
+                "type": "internal",
+                "page": "Tyva"
+              }
+            ]
+          },
+          {
+            "text": "Head of the Republic of Tyva",
+            "links": [
+              {
+                "text": "Head of the Republic of Tyva",
+                "type": "internal",
+                "page": "Head of the Republic of Tuva"
+              }
+            ]
+          },
+          {
+            "text": "Russia",
+            "links": [
+              {
+                "text": "Russia",
+                "type": "internal",
+                "page": "Russian Federation"
+              }
+            ]
+          },
+          {
+            "text": "Mayor of Kyzyl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Kyzyl"
+              }
+            ]
+          },
+          {
+            "text": "Karim Baylak-oolovich Sagaan-ool",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karim Baylak-oolovich Sagaan-ool"
+              }
+            ]
+          },
+          {
+            "text": "Kyzyl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kyzyl"
+              }
+            ]
+          }
+        ]
       ]
     }
   ]
