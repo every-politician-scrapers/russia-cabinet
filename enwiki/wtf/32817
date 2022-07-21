@@ -17961,6 +17961,14 @@
           }
         ]
       ],
+      "templates": [
+        {
+          "text": "Order \"For contribution to the development of cooperation\"",
+          "lan1": "ru",
+          "text1": "Орден «За вклад в развитие сотрудничества»",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "url": "http://www.aif.ru/archive/1623363",

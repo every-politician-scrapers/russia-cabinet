@@ -2235,6 +2235,13 @@
               "text": "Ukraine sympathizers refused to join a group photo with Lavrov, who seemed perplexed at the criticism."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 July 2022 Lavrov publicly confirmed that Russia had as a goal not only to \"liberate\" the Donbas region, but also to occupy the Kherson region, the Zaporizhzhia region and several other territories, supposedly as a response to Ukraine receiving weapons support from abroad."
+            }
+          ]
         }
       ],
       "images": [
@@ -2430,6 +2437,12 @@
           "access-date": "17 June 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "Watch: U.N. Envoys Stage Walkout As Russia's Lavrov Begins Address",

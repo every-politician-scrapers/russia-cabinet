@@ -494,7 +494,7 @@
               ]
             },
             {
-              "text": "The State Duma, dominated by the Communist Party of the Russian Federation, twice refused to confirm his appointment but president Boris Yeltsin nominated him a third time and Kiriyenko was confirmed.",
+              "text": "The State Duma, dominated by the Communist Party of the Russian Federation, twice refused to confirm his appointment but president Yeltsin nominated him a third time and Kiriyenko was confirmed.",
               "links": [
                 {
                   "type": "internal",
@@ -525,7 +525,7 @@
               ]
             },
             {
-              "text": "They tried to improve the Russia's economy using International Monetary Fund credits, and it elevated the national debt to the level of $22.6 billion.",
+              "text": "They tried to improve the Russia's economy using International Monetary Fund (IMF) credits, and it elevated the national debt to the level of $22.6 billion.",
               "links": [
                 {
                   "type": "internal",
@@ -557,7 +557,7 @@
               ]
             },
             {
-              "text": "Responsible for the crisis, the prime minister resigned on 23 August."
+              "text": "Kiriyenko took responsibility for the crisis and resigned on 23 August."
             }
           ]
         }
@@ -578,7 +578,7 @@
         {
           "sentences": [
             {
-              "text": "In 2004, Novaya Gazeta printed seven articles by columnist Georgy Rozhnov, which accused Kiriyenko of embezzling US$4.8 billion of International Monetary Fund funds in 1998 when he was Prime Minister of Russia.",
+              "text": "In 2004, Novaya Gazeta printed seven articles by columnist Georgy Rozhnov, which accused Kiriyenko of embezzling US$4.8 billion of IMF funds in 1998 when he was Prime Minister of Russia.",
               "links": [
                 {
                   "type": "internal",
@@ -591,10 +591,6 @@
                 {
                   "type": "internal",
                   "page": "US$"
-                },
-                {
-                  "type": "internal",
-                  "page": "International Monetary Fund"
                 },
                 {
                   "type": "internal",
@@ -664,7 +660,7 @@
               }
             },
             {
-              "text": "In response, Kiriyenko sued Novaya Gazeta and Rozhnov for libel, and in passing judgement in favour of Kiriyenko the court ordered Novaya Gazeta to retract all publications relating to the accusations, and noted \"Novaya gazeta’s content on the missing IMF funds include a great deal of unproven information\" and also went on to say that the newspaper \"is obliged to publish only officially proven information linking Mr Kiriyenko with embezzlement.\"",
+              "text": "In response, Kiriyenko sued Novaya Gazeta and Rozhnov for libel, and in passing judgement in favour of Kiriyenko the court ordered Novaya Gazeta to retract all publications relating to the accusations.",
               "links": [
                 {
                   "text": "libel",
@@ -672,8 +668,17 @@
                   "page": "libel"
                 }
               ]
+            },
+            {
+              "text": "The court noted \"Novaya gazeta’s content on the missing IMF funds include a great deal of unproven information\" and also went on to order the newspaper \"to publish only officially proven information linking Mr Kiriyenko with embezzlement.\""
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "clarify"
         }
       ],
       "references": [
@@ -774,16 +779,24 @@
         {
           "sentences": [
             {
-              "text": "Kiriyenko was appointed to head Rosatom, the Federal Atomic Energy Agency, on November 30, 2005.",
+              "text": "Kiriyenko was appointed to head Rosatom, the Federal Atomic Energy Agency, on November 30, 2005 by Mikhail Fradkov's Second Cabinet during the second term of President Vladimir Putin.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Rosatom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mikhail Fradkov's Second Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vladimir Putin"
                 }
               ]
             },
             {
-              "text": "He is also chairman of the board of directors of the vertically integrated Atomenergoprom nuclear company.",
+              "text": "He was also appointed by the same administration to chair the board of directors of the vertically integrated Atomenergoprom nuclear company in July 2007.",
               "links": [
                 {
                   "type": "internal",
@@ -977,34 +990,13 @@
       ]
     },
     {
-      "title": "First deputy chief of staff to President Vladimir Putin",
-      "depth": 1
-    },
-    {
-      "title": "Navalny sanctions",
-      "depth": 2,
+      "title": "First deputy chief of staff to President Putin",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "When Kiriyenko was in the office of the first deputy chief of staff to President Vladimir Putin, he occurred in the list of six individuals and one organization sanctioned by United Kingdom and European Union on 15 October 2020 over the Alexei Navalny poisoning.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "United Kingdom"
-                },
-                {
-                  "type": "internal",
-                  "page": "European Union"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alexei Navalny"
-                }
-              ]
-            },
-            {
-              "text": "Navalny, an opponent of Putin's, became ill on 20 August 2020, while travelling on a flight inside Russia."
+              "text": "In September 2016 Kiriyenko was appointed First deputy chief of staff in Putin's administration."
             }
           ]
         },
@@ -1014,6 +1006,12 @@
               "text": "Kiriyenko spoke publicly about the need to work with Russian youth and their fondness for debauched hip-hop, most notably in response to the crackdown in late 2018."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
         }
       ],
       "references": [
@@ -1030,17 +1028,109 @@
         {
           "title": "Кириенко назвал глупостью запреты концертов молодежных исполнителей",
           "url": "https://tass.ru/obschestvo/5884149",
-          "access-date": "2021-10-31",
-          "website": "ТАСС",
+          "date": "7 December 2018",
+          "publisher": "ТАSS",
+          "language": "en",
           "template": "citation",
           "type": "web"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Navalny sanctions",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "While Kiriyenko was in office, he was sanctioned by both the United Kingdom and European Union (amongst the list of six individuals and one organization) on 15 October 2020 over the Alexei Navalny poisoning.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexei Navalny"
+                }
+              ]
+            },
+            {
+              "text": "Navalny, an opponent of Putin's, was poisoned on 20 August 2020, while travelling on a flight inside Russia."
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "title": "UK and EU impose sanctions on six Russian officials over Navalny poisoning",
           "url": "https://news.sky.com/story/uk-and-eu-impose-sanctions-on-six-russian-officials-over-navalny-poisoning-12104672",
           "date": "October 15, 2020",
           "website": "Sky News",
           "access-date": "2020-10-16",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Sanctions over Ukraine",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On February 21, 2022, President Putin officially recognized the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, a move that prompted countries to sanction Russian individuals and companies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Luhansk People's Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Donetsk People's Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "On February 22, 2022, US President Joe Biden imposed sanctions on Kiriyenko, along with his son Vladimir for their connections to the Russian government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                },
+                {
+                  "text": "Vladimir",
+                  "type": "internal",
+                  "page": "Vladimir Kiriyenko"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Prelude to the 2022 Russian invasion of Ukraine"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "title": "Fact Sheet: United States Imposes First Tranche of Swift and Severe Costs on Russia",
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-united-states-imposes-first-tranche-of-swift-and-severe-costs-on-russia/",
+          "website": "The White House",
+          "access-date": "23 February 2022",
           "template": "citation",
           "type": "web"
         }
@@ -1187,44 +1277,9 @@
       ]
     },
     {
-      "title": "Sanctions over Ukraine",
-      "depth": 2,
+      "title": "Family",
+      "depth": 0,
       "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "On February 21, 2022, President Putin officially recognized the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, a move that prompted countries to sanction Russian individuals and companies.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Luhansk People's Republic"
-                },
-                {
-                  "type": "internal",
-                  "page": "Donetsk People's Republic"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ukraine"
-                }
-              ]
-            },
-            {
-              "text": "On February 22, 2022, US President Joe Biden imposed sanctions on Kiriyenko, along with his son Vladimir for their connections to the Russian government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                },
-                {
-                  "text": "Vladimir",
-                  "type": "internal",
-                  "page": "Vladimir Kiriyenko"
-                }
-              ]
-            }
-          ]
-        },
         {
           "sentences": [
             {
@@ -1248,24 +1303,8 @@
       ],
       "templates": [
         {
-          "list": [
-            "Prelude to the 2022 Russian invasion of Ukraine"
-          ],
-          "template": "main"
-        },
-        {
           "date": "July 2022",
           "template": "cn"
-        }
-      ],
-      "references": [
-        {
-          "title": "Fact Sheet: United States Imposes First Tranche of Swift and Severe Costs on Russia",
-          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-united-states-imposes-first-tranche-of-swift-and-severe-costs-on-russia/",
-          "website": "The White House",
-          "access-date": "23 February 2022",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
