@@ -583,9 +583,6 @@
           "template": "ubl"
         },
         {
-          "template": "putin sidebar"
-        },
-        {
           "template": "ipac",
           "transcription": "ˈ,p,uː,t,ɪ,n"
         },
@@ -1220,9 +1217,6 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "Putin was born on 7 October 1952 in Leningrad, Soviet Union (now Saint Petersburg, Russia), the youngest of three children of Vladimir Spiridonovich Putin (1911–1999) and Maria Ivanovna Putina (née Shelomova; 1911–1998).",
@@ -1394,7 +1388,7 @@
         {
           "direction": "horizontal",
           "caption_align": "center",
-          "total_width": "230",
+          "total_width": "200",
           "image1": "Vladimir Spiridonovich Putin.jpg",
           "caption1": "Putin's father, Vladimir Spiridonovich Putin",
           "image2": "Maria Ivanovna Shelomova.jpg",
@@ -2173,6 +2167,9 @@
             "Russia under Vladimir Putin"
           ],
           "template": "main"
+        },
+        {
+          "template": "putin sidebar"
         }
       ]
     },
@@ -2214,11 +2211,7 @@
                   "page": "Taxicab driver"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "On 28 June 1991, he became head of the Committee for External Relations of the Mayor's Office, with responsibility for promoting international relations and foreign investments and registering business ventures.",
               "links": [
@@ -2308,12 +2301,6 @@
       ],
       "references": [
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "last1": "Stone",
           "first1": "Oliver",
           "title": "The Putin Interviews (Party 2 – 2:10)",
@@ -2343,6 +2330,12 @@
           "website": "The Guardian",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "http://kvs.spb.ru/en/",
@@ -2431,14 +2424,7 @@
             },
             {
               "text": "He was responsible for the foreign property of the state and organized the transfer of the former assets of the Soviet Union and the CPSU to the Russian Federation."
-            }
-          ]
-        },
-        {
-          "sentences": []
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "On 26 March 1997, President Boris Yeltsin appointed Putin deputy chief of the Presidential Staff, a post which he retained until May 1998, and chief of the Main Control Directorate of the Presidential Property Management Department (until June 1998).",
               "links": [
@@ -3087,7 +3073,11 @@
             },
             {
               "text": "That criticism was largely because it took several days for Putin to return from vacation, and several more before he visited the scene."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Between 2000 and 2004, Putin set about the reconstruction of the impoverished condition of the country, apparently winning a power-struggle with the Russian oligarchs, reaching a 'grand bargain' with them.",
               "links": [
@@ -3100,11 +3090,7 @@
             },
             {
               "text": "This bargain allowed the oligarchs to maintain most of their powers, in exchange for their explicit support for—and alignment with—Putin's government."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "The Moscow theater hostage crisis occurred in October 2002.",
               "links": [
