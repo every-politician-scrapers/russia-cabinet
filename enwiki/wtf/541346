@@ -1665,7 +1665,7 @@
       ]
     },
     {
-      "title": "Ukraine's mono-ethnic education law",
+      "title": "Ukraine's education law",
       "depth": 2,
       "paragraphs": [
         {
@@ -2144,13 +2144,18 @@
         {
           "sentences": [
             {
-              "text": "On 6 June 2022, according to Vecernje Novosti, Sergey Lavrov was due to visit the Serbian capital, Belgrade.",
+              "text": "On 6 June 2022, according to Večernje novosti, Sergey Lavrov was due to visit the Serbian capital, Belgrade.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Vecernje Novosti"
+                  "page": "Večernje novosti"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Večernje novosti"
+                ]
+              }
             },
             {
               "text": "However the countries of Bulgaria, North Macedonia, and Montenegro, which surround Serbia, refused Lavrov permission to use their airspace, which led to the cancellation of the visit.",

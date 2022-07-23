@@ -312,7 +312,7 @@
               ]
             },
             {
-              "text": "Putin accused the Ukrainian government of committing atrocities against its Russian-speaking minority, and in February 2022, he ordered a full-scale invasion of the country, and leading to widespread international condemnation, as well as expanded sanctions and calls for Putin to be pursued with war crime charges.",
+              "text": "Putin falsely accused the Ukrainian government of committing atrocities against its Russian-speaking minority, and in February 2022, he ordered a full-scale invasion of the country, and leading to widespread international condemnation, as well as expanded sanctions and calls for Putin to be pursued with war crime charges.",
               "links": [
                 {
                   "text": "Russian-speaking minority",
@@ -17206,6 +17206,20 @@
                   "Sobesednik"
                 ]
               }
+            },
+            {
+              "text": "However in July 2022, director of the U.S. Central Intelligence Agency, William Burns, stated they had no evidence to suggest Putin was unstable or in bad health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Intelligence Agency"
+                },
+                {
+                  "text": "William Burns",
+                  "type": "internal",
+                  "page": "William J. Burns (diplomat)"
+                }
+              ]
             }
           ]
         },
@@ -17381,6 +17395,19 @@
           "access-date": "1 May 2022",
           "work": "The Independent",
           "date": "22 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/world-europe-62246914",
+          "title": "Ukraine war: CIA chief says no intelligence that Putin is in bad health",
+          "last1": "Corera",
+          "first1": "Gordon",
+          "last2": "Wright",
+          "first2": "George",
+          "work": "BBC News",
+          "date": "21 July 2022",
+          "access-date": "22 July 2022",
           "template": "citation",
           "type": "news"
         },
