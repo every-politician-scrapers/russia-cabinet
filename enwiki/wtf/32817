@@ -361,7 +361,7 @@
               ]
             },
             {
-              "text": "Putin's rule has been characterised by endemic corruption, the jailing and repression of political opponents, the intimidation and suppression of independent media in Russia, and a lack of free and fair elections.",
+              "text": "Putin's rule has been characterised by endemic corruption, the jailing and repression of political opponents, the intimidation and suppression of independent media in Russia, human rights violations, and a lack of free and fair elections.",
               "links": [
                 {
                   "text": "endemic corruption",
@@ -377,6 +377,11 @@
                   "text": "independent media in Russia",
                   "type": "internal",
                   "page": "media freedom in Russia"
+                },
+                {
+                  "text": "human rights violations",
+                  "type": "internal",
+                  "page": "Human rights in Russia"
                 },
                 {
                   "text": "free and fair elections",
@@ -17164,7 +17169,40 @@
         {
           "sentences": [
             {
-              "text": "Putin has reportedly been receiving treatment for thyroid cancer from 2016 and is rumored to take deer antler blood baths  and steroids.",
+              "text": "In July 2022, director of the U.S. Central Intelligence Agency, William Burns, stated they had no evidence to suggest Putin was unstable or in bad health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Intelligence Agency"
+                },
+                {
+                  "text": "William Burns",
+                  "type": "internal",
+                  "page": "William J. Burns (diplomat)"
+                }
+              ]
+            },
+            {
+              "text": "The statement was made because of increasing unconfirmed media speculation about Putin's health."
+            },
+            {
+              "text": "Burns had previously been U.S. Ambassador to Russia, and had personally observed Putin for over two decades.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "U.S. Ambassador to Russia"
+                }
+              ]
+            },
+            {
+              "text": "The Kremlin also dismissed rumours of Putin's ill-health as fake."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Putin had reportedly been receiving treatment for thyroid cancer from 2016 and is rumored to take deer antler blood baths  and steroids.",
               "links": [
                 {
                   "text": "thyroid cancer",
@@ -17206,28 +17244,18 @@
                   "Sobesednik"
                 ]
               }
-            },
-            {
-              "text": "However in July 2022, director of the U.S. Central Intelligence Agency, William Burns, stated they had no evidence to suggest Putin was unstable or in bad health.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Central Intelligence Agency"
-                },
-                {
-                  "text": "William Burns",
-                  "type": "internal",
-                  "page": "William J. Burns (diplomat)"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The White House, as well as Western generals, politicians, and political analysts, questioned Putin's mental health after two years of isolation during the COVID-19 pandemic.",
+              "text": "The White House, as well as Western generals, politicians, and political analysts, had questioned Putin's mental health after two years of isolation during the COVID-19 pandemic.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "White House"
+                },
                 {
                   "text": "Western",
                   "type": "internal",
@@ -17260,7 +17288,7 @@
         {
           "sentences": [
             {
-              "text": "It has also been suggested, based on video footage alone, that Putin may have Parkinson's disease.",
+              "text": "In May 2022 it was suggested, based on video footage alone, that Putin may have Parkinson's disease.",
               "links": [
                 {
                   "type": "internal",
@@ -17279,7 +17307,7 @@
               ]
             },
             {
-              "text": "The Kremlin has rejected the possibility of Parkinson's along with outside medical professionals, who stress that it is impossible to diagnose the condition based on video clips alone.",
+              "text": "The Kremlin rejected the possibility of Parkinson's along with outside medical professionals, who stress that it is impossible to diagnose the condition based on video clips alone.",
               "links": [
                 {
                   "type": "internal",
@@ -17329,7 +17357,7 @@
           "title": "The truth about steroids and 'roid rage'",
           "url": "https://www.telegraph.co.uk/health-fitness/body/truth-steroids-roid-rage/",
           "access-date": "1 May 2022",
-          "work": "The Telegraph",
+          "work": "The Daily Telegraph",
           "date": "15 March 2022",
           "template": "citation",
           "type": "news"
@@ -17341,7 +17369,7 @@
           "first2": "James",
           "title": "Vladimir Putin 'visited by cancer doctor 35 times and bathes in deer antler blood'",
           "url": "https://www.telegraph.co.uk/world-news/2022/04/01/vladimir-putin-visited-cancer-doctor-35-times-bathes-deer-antlers/",
-          "work": "The Telegraph",
+          "work": "The Daily Telegraph",
           "date": "1 April 2022",
           "template": "citation",
           "type": "news"
