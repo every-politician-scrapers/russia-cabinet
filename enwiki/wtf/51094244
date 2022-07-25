@@ -105,6 +105,12 @@
           "day": "10",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Also transliterated as Degtyaryov"
+          ],
+          "template": "efn"
         }
       ],
       "infoboxes": [
@@ -623,6 +629,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
         }
       ]
     },

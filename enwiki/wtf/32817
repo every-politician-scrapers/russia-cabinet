@@ -6898,6 +6898,23 @@
         {
           "sentences": [
             {
+              "text": "In May, Putin issued a decree to simplify the process for residents in the Russian-occupied areas of Kherson oblast and Zaporizhia oblast to apply for Russian citizenship and Russian passports.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kherson oblast"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zaporizhia oblast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "On 16 May, Putin hosted a CSTO meeting under the glare of the cameras.",
               "links": [
                 {
@@ -6970,6 +6987,13 @@
               "text": "He also compared the task facing Russia today to that of Peter's, without explicitly mentioning Ukraine."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Faced with significant battlefield losses, in early June Putin signed a decree that all 86 republics under his command would need to provide at least a battalion of 400 soldiers to the war in Ukraine."
+            }
+          ]
         }
       ],
       "images": [
@@ -7021,14 +7045,6 @@
           "date": "May 2022",
           "section": "yes",
           "template": "over-quotation"
-        },
-        {
-          "list": [
-            "section"
-          ],
-          "nosplit": "1",
-          "date": "May 2022",
-          "template": "overly detailed"
         },
         {
           "list": [
@@ -7788,6 +7804,16 @@
           "agency": "YouTube",
           "publisher": "CRUX",
           "date": "18 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Psaropoulos",
+          "first1": "John",
+          "title": "Russia resumes eastern Ukraine offensive and expands war aims",
+          "url": "https://www.aljazeera.com/news/2022/7/21/russia-resumes-hostilities-as-ukraine-targets-ammunition",
+          "publisher": "Al Jazeera Media Network",
+          "date": "21 June 2022",
           "template": "citation",
           "type": "news"
         }

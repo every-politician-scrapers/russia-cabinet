@@ -18,6 +18,18 @@
           "sentences": [
             {
               "text": "Roman Vladimirovich Starovoyt (Роман Владимирович Старовойт; born January 20, 1972) is a Russian politician.",
+              "links": [
+                {
+                  "text": "Russian",
+                  "type": "internal",
+                  "page": "Russia"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Roman Vladimirovich Starovoyt"
@@ -42,6 +54,7 @@
               "text": "He is member of United Russia party.",
               "links": [
                 {
+                  "text": "United Russia party",
                   "type": "internal",
                   "page": "United Russia"
                 }

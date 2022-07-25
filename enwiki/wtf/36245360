@@ -49,15 +49,6 @@
                   "page": "Ministry of Economic Development (Russia)"
                 }
               ]
-            },
-            {
-              "text": "His name is often floated as a potential successor to President Vladimir Putin.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vladimir Putin"
-                }
-              ]
             }
           ]
         },
@@ -344,19 +335,6 @@
       ],
       "references": [
         {
-          "last": "Luhn",
-          "first": "Alec",
-          "date": "2020-01-29",
-          "title": "Who will replace Putin?",
-          "url": "https://www.politico.eu/article/who-will-replace-valdimir-putin-russia-kremlin/",
-          "url-status": "live",
-          "access-date": "2021-04-17",
-          "website": "Politico",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "template": "citation",
           "type": "inline",
           "data": {},
@@ -545,8 +523,23 @@
                   "page": "Severe acute respiratory syndrome coronavirus 2"
                 }
               ]
+            },
+            {
+              "text": "According to Politico, he is one possible successor to President Vladimir Putin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Politico"
+                }
+              ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "by whom"
         }
       ],
       "references": [
@@ -592,6 +585,20 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "Luhn",
+          "first": "Alec",
+          "date": "2020-01-29",
+          "title": "Who will replace Putin?",
+          "url": "https://www.politico.eu/article/who-will-replace-valdimir-putin-russia-kremlin/",
+          "url-status": "live",
+          "access-date": "2021-04-17",
+          "website": "Politico",
+          "language": "en-US",
+          "quote": "Kremlin functionary Andrei Belousov, 60, is considered one possible successor after he was appointed last week as first deputy prime minister, the same position from which Medvedev was picked to be president.",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
