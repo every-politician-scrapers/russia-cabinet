@@ -312,7 +312,7 @@
               ]
             },
             {
-              "text": "Putin falsely accused the Ukrainian government of committing atrocities against its Russian-speaking minority, and in February 2022, he ordered a full-scale invasion of the country, and leading to widespread international condemnation, as well as expanded sanctions and calls for Putin to be pursued with war crime charges.",
+              "text": "Putin falsely accused the Ukrainian government of committing atrocities against its Russian-speaking minority, and in February 2022, he ordered a full-scale invasion of the country, leading to widespread international condemnation, as well as expanded sanctions and calls for Putin to be pursued with war crime charges.",
               "links": [
                 {
                   "text": "Russian-speaking minority",
@@ -2795,10 +2795,7 @@
           "title": "Text of Yeltsin's speech in English",
           "access-date": "31 May 2007",
           "date": "9 August 1999",
-          "work": "BBC News",
-          "archive-date": "18 March 2015",
-          "archive-url": "https://web.archive.org/web/20150318133356/http://news.co.uk/1/hi/not_in_website/syndication/monitoring/415278.stm",
-          "url-status": "dead",
+          "work": "BBC News }}{{dead link|date=July 2022|bot=medic}}{{cbignore|bot=medic|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3746,7 +3743,10 @@
           "type": "news"
         },
         {
-          "url": "https://archive.today/20120908051006/http://www.rbc.ru/rbcfreenews.shtml?/20071204122205.shtml",
+          "url": "http://www.rbc.ru/rbcfreenews.shtml?/20071204122205.shtml",
+          "archive-url": "https://archive.today/20120908051006/http://www.rbc.ru/rbcfreenews.shtml?/20071204122205.shtml",
+          "url-status": "dead",
+          "archive-date": "2012-09-08",
           "title": "НОВОСТИ ДНЯ {{!}} ЦИК: По итогам обработки 99,8% бюллетеней \"ЕР\" набрала 64,24% голосов на выборах в ГД.",
           "trans-title": "Election Preliminary Results for United Russia",
           "date": "4 December 2007",
@@ -7410,7 +7410,7 @@
           "title": "Article by Vladimir Putin 'On the Historical Unity of Russians and Ukrainians'",
           "url": "http://en.kremlin.ru/events/president/news/66181",
           "archive-url": "https://web.archive.org/web/20220125053520/http://en.kremlin.ru/events/president/news/66181",
-          "archive-date": "25 January 2021",
+          "archive-date": "25 January 2022",
           "website": "The Kremlin",
           "publisher": "Government of Russia.",
           "template": "citation",
