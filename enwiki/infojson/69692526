@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Sakhalin Oblast"
+      ],
+      "stated_as": "Governor of Sakhalin Oblast (acting)"
+    },
+    "P580": "2018-12-07",
+    "P582": "2019-09-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Sakhalin Oblast"
+      ],
+      "stated_as": "Governor of Sakhalin Oblast"
+    },
+    "P580": "2019-09-12",
+    "P1365": {
+      "links": [
+        "Vera Shcherbina",
+        "Oleg Kozhemyako"
+      ],
+      "stated_as": "Vera Shcherbina (acting) Oleg Kozhemyako"
+    }
+  }
+]

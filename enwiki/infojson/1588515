@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director of FSB"
+      ],
+      "stated_as": "Director of the Federal Security Service"
+    },
+    "P580": "1999-08-09",
+    "P1365": {
+      "links": [
+        "Vladimir Putin"
+      ],
+      "stated_as": "Vladimir Putin"
+    },
+    "P582": "2008-05-12",
+    "P1366": {
+      "links": [
+        "Alexander Bortnikov"
+      ],
+      "stated_as": "Alexander Bortnikov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Security Council of Russia"
+      ],
+      "stated_as": "Secretary of the Security Council of Russia"
+    },
+    "P580": "2008-05-12"
+  }
+]

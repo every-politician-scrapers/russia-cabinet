@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislative Assembly of Vladimir Oblast"
+      ],
+      "stated_as": "Member of the Legislative Assembly of Vladimir Oblast"
+    },
+    "P580": "2013-09-08",
+    "P582": "2018-10-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Vladimir Oblast"
+      ],
+      "stated_as": "4th Governor of Vladimir Oblast"
+    },
+    "P580": "2018-10-08",
+    "P1365": {
+      "links": [
+        "Svetlana Orlova (politician)"
+      ],
+      "stated_as": "Svetlana Orlova"
+    },
+    "P582": "2021-10-04",
+    "P1366": {
+      "links": [
+        "Aleksandr Avdeyev (politician, born 1975)"
+      ],
+      "stated_as": "Aleksandr Avdeyev (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "State Duma"
+      ],
+      "stated_as": "Member of the State Duma"
+    },
+    "P580": "2021-10-12"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Rosreestr"
+      ],
+      "stated_as": "Head of Rosreestr"
+    },
+    "P580": "2016-10-11",
+    "P1365": {
+      "links": [
+        "Igor Vasilyev (politician)"
+      ],
+      "stated_as": "Igor Vasilyev"
+    },
+    "P582": "2020-01-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Oleg Skufinsky"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "Deputy Prime Minister of Russia for Agro-Industrial Complex, Natural Resources and Ecology"
+    },
+    "P580": "2020-01-21",
+    "P1365": {
+      "links": [
+        "Alexey Gordeyev"
+      ],
+      "stated_as": "Alexey Gordeyev"
+    }
+  }
+]

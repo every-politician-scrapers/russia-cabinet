@@ -1,0 +1,142 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of Staff of the Presidential Executive Office (Russia)"
+      ],
+      "stated_as": "Chief of Staff of the Kremlin"
+    },
+    "P580": "2003-10-30",
+    "P1365": {
+      "links": [
+        "Alexander Voloshin"
+      ],
+      "stated_as": "Alexander Voloshin"
+    },
+    "P582": "2005-11-14",
+    "P1366": {
+      "links": [
+        "Sergey Sobyanin"
+      ],
+      "stated_as": "Sergey Sobyanin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "First Deputy Prime Minister of Russia"
+    },
+    "P580": "2005-11-14",
+    "P1365": {
+      "links": [
+        "Mikhail Kasyanov"
+      ],
+      "stated_as": "Mikhail Kasyanov"
+    },
+    "P582": "2008-05-12",
+    "P1366": {
+      "links": [
+        "Igor Shuvalov"
+      ],
+      "stated_as": "Viktor Zubkov\nIgor Shuvalov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Russia"
+      ],
+      "stated_as": "President of Russia"
+    },
+    "P580": "2008-05-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vladimir Putin"
+    },
+    "P582": "2012-05-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vladimir Putin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Russia"
+      ],
+      "stated_as": "Prime Minister of Russia"
+    },
+    "P580": "2012-05-08",
+    "P1365": {
+      "links": [
+        "Vladimir Putin"
+      ],
+      "stated_as": "Vladimir Putin"
+    },
+    "P582": "2020-01-16",
+    "P1366": {
+      "links": [
+        "Mikhail Mishustin"
+      ],
+      "stated_as": "Mikhail Mishustin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United Russia"
+      ],
+      "stated_as": "Leader of United Russia"
+    },
+    "P580": "2012-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vladimir Putin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Union State"
+      ],
+      "stated_as": "Chairman of the Council of Ministers of the Union State"
+    },
+    "P580": "2012-07-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vladimir Putin"
+    },
+    "P582": "2020-01-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mikhail Mishustin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Security Council of Russia"
+      ],
+      "stated_as": "Deputy Chairman of the Security Council"
+    },
+    "P580": "2020-01-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]

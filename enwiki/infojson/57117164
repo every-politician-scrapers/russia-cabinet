@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Russia)"
+      ],
+      "stated_as": "Deputy Minister of Foreign Affairs"
+    },
+    "P580": "2005-09-06",
+    "P582": "2012-10-23"
+  },
+  {
+    "office": {
+      "links": [
+        "NATO"
+      ],
+      "stated_as": "Russian Envoy to NATO"
+    },
+    "P580": "2012-10-23",
+    "P1365": {
+      "links": [
+        "Dmitry Rogozin"
+      ],
+      "stated_as": "Dmitry Rogozin"
+    },
+    "P582": "2018-01-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Russia)"
+      ],
+      "stated_as": "Deputy Minister of Foreign Affairs"
+    },
+    "P580": "2018-01-22"
+  }
+]

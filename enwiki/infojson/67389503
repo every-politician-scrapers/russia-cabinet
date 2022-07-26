@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Land and Property Relations of the Republic of Tuva"
+    },
+    "P580": "2007-04-12",
+    "P582": "2008-07-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Kyzyl"
+      ],
+      "stated_as": "Mayor of Kyzyl"
+    },
+    "P580": "2008-07-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dmitry Dongak"
+    },
+    "P582": "2018-11-01",
+    "P1366": {
+      "links": [
+        "Karim Baylak-oolovich Sagaan-ool"
+      ],
+      "stated_as": "Karim Baylak-oolovich Sagaan-ool"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Head of the Republic of Tuva"
+      ],
+      "stated_as": "3rd Head of the Republic of Tuva"
+    },
+    "P580": "2021-04-07",
+    "P1365": {
+      "links": [
+        "Sholban Kara-ool"
+      ],
+      "stated_as": "Sholban Kara-ool"
+    }
+  }
+]

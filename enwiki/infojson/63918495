@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Zabaykalsky Krai"
+      ],
+      "stated_as": "Governor of Zabaykalsky Krai (acting)"
+    },
+    "P580": "2018-10-15",
+    "P582": "2019-09-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Zabaykalsky Krai"
+      ],
+      "stated_as": "4th Governor of Zabaykalsky Krai"
+    },
+    "P580": "2019-09-19",
+    "P1365": {
+      "links": [
+        "Aleksandr Kulakov (politician)"
+      ],
+      "stated_as": "Aleksandr Kulakov (acting)"
+    }
+  }
+]

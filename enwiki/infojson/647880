@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "First Deputy Prime Minister of the Chechen Republic"
+    },
+    "P580": "2004-05-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eli Isayev"
+    },
+    "P582": "2005-11-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Odes Baysultanov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of the Chechen Republic"
+    },
+    "P580": "2005-11-18",
+    "P1365": {
+      "links": [
+        "Sergey Abramov (politician)"
+      ],
+      "stated_as": "Sergey Abramov"
+    },
+    "P582": "2007-04-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Odes Baysultanov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Head of the Chechen Republic"
+      ],
+      "stated_as": "Head of the Chechen Republic"
+    },
+    "P580": "2007-02-15",
+    "P1365": {
+      "links": [
+        "Alu Alkhanov"
+      ],
+      "stated_as": "Alu Alkhanov"
+    }
+  }
+]

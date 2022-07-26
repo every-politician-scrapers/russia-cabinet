@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+        "Novy Urengoy"
+      ],
+      "stated_as": "Deputy Mayor of Novy Urengoy"
+    },
+    "P580": "1992",
+    "P582": "1994"
+  },
+  {
+    "office": {
+      "links": [
+        "Novy Urengoy"
+      ],
+      "stated_as": "Mayor of Novy Urengoy"
+    },
+    "P580": "1994",
+    "P582": "2000"
+  },
+  {
+    "office": {
+      "links": [
+        "Yamalo-Nenets Autonomous Okrug"
+      ],
+      "stated_as": "First Deputy Governor of Yamalo-Nenets"
+    },
+    "P580": "2000",
+    "P582": "2001"
+  },
+  {
+    "office": {
+      "links": [
+        "State Duma"
+      ],
+      "stated_as": "Member of the State Duma"
+    },
+    "P580": "2001",
+    "P582": "2010"
+  },
+  {
+    "office": {
+      "links": [
+        "State Duma"
+      ],
+      "stated_as": "Chair of the State Duma Natural Resources Committee"
+    },
+    "P580": "2004",
+    "P582": "2010"
+  },
+  {
+    "office": {
+      "links": [
+        "Khanty-Mansi Autonomous Okrug"
+      ],
+      "stated_as": "Governor of Khanty-Mansi"
+    },
+    "P580": "2010-03-01",
+    "P1365": {
+      "links": [
+        "Alexander Filipenko"
+      ],
+      "stated_as": "Alexander Filipenko"
+    }
+  }
+]

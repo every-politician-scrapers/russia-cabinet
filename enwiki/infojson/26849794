@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Saint Petersburg"
+      ],
+      "stated_as": "Acting Governor of Saint Petersburg"
+    },
+    "P580": "2003-06-16",
+    "P1365": {
+      "links": [
+        "Vladimir Anatolyevich Yakovlev"
+      ],
+      "stated_as": "Vladimir Yakovlev"
+    },
+    "P582": "2003-10-05",
+    "P1366": {
+      "links": [
+        "Valentina Matviyenko"
+      ],
+      "stated_as": "Valentina Matviyenko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Central Federal District"
+      ],
+      "stated_as": "3rd Presidential Envoy of the Central Federal District"
+    },
+    "P580": "2012-05-23",
+    "P1365": {
+      "links": [
+        "Oleg Govorun"
+      ],
+      "stated_as": "Oleg Govorun"
+    },
+    "P582": "2017-12-25",
+    "P1366": {
+      "links": [
+        "Alexey Gordeyev"
+      ],
+      "stated_as": "Alexey Gordeyev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Northwestern Federal District"
+      ],
+      "stated_as": "Presidential Envoy of the Northwestern Federal District"
+    },
+    "P580": "2017-12-25",
+    "P1365": {
+      "links": [
+        "Nikolay Tsukanov"
+      ],
+      "stated_as": "Nikolay Tsukanov"
+    },
+    "P582": "2018-10-03",
+    "P1366": {
+      "links": [
+        "Aleksandr Gutsan"
+      ],
+      "stated_as": "Aleksandr Gutsan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Saint Petersburg"
+      ],
+      "stated_as": "Governor of Saint Petersburg"
+    },
+    "P580": "2018-10-03",
+    "P1365": {
+      "links": [
+        "Georgy Poltavchenko"
+      ],
+      "stated_as": "Georgy Poltavchenko"
+    }
+  }
+]

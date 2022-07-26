@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Sevastopol (Russia)"
+      ],
+      "stated_as": "Deputy Governor of Sevastopol"
+    },
+    "P580": "2016-07-10",
+    "P582": "2018-12-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vladimir Tatarchuk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Stavropol Krai"
+      ],
+      "stated_as": "Chief of Staff of the Government of the Stavropol Krai"
+    },
+    "P580": "2018-06-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Olga Prudnikova"
+    },
+    "P582": "2020-11-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Igor Babkin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Belgorod Oblast"
+      ],
+      "stated_as": "3rd Governor of Belgorod Oblast"
+    },
+    "P580": "2021-09-27",
+    "P1365": {
+      "links": [
+        "Yevgeny Savchenko",
+        "Denis Butsayev"
+      ],
+      "stated_as": "Yevgeny Savchenko Denis Butsayev (acting)"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Organization for Security and Co-operation in Europe"
+      ],
+      "stated_as": "Permanent Representative of Russia to the Organization for Security and Co-operation in Europe"
+    },
+    "P580": "2011-06-07",
+    "P1365": {
+      "links": [
+        "Anvar Azimov"
+      ],
+      "stated_as": "Anvar Azimov"
+    },
+    "P582": "2015-08-05"
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of Russia to the United Kingdom"
+      ],
+      "stated_as": "Ambassador of Russia to the United Kingdom"
+    },
+    "P580": "2019-11-05",
+    "P1365": {
+      "links": [
+        "Alexander Vladimirovich Yakovenko"
+      ],
+      "stated_as": "Alexander Yakovenko"
+    }
+  }
+]

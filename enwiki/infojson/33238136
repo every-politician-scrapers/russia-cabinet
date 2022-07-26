@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Russia)"
+      ],
+      "stated_as": "Minister of Finance of Russia"
+    },
+    "P580": "2011-09-27",
+    "P1365": {
+      "links": [
+        "Alexei Kudrin"
+      ],
+      "stated_as": "Alexei Kudrin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "First Deputy Prime Minister of Russia"
+    },
+    "P580": "2018-05-18",
+    "P1365": {
+      "links": [
+        "Igor Shuvalov"
+      ],
+      "stated_as": "Igor Shuvalov"
+    },
+    "P582": "2020-01-15",
+    "P1366": {
+      "links": [
+        "Andrey Belousov"
+      ],
+      "stated_as": "Andrey Belousov"
+    }
+  }
+]

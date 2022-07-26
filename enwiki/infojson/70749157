@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Kaluga Oblast"
+      ],
+      "stated_as": "First Deputy Governor of Kaluga Oblast"
+    },
+    "P580": "2019-05-28",
+    "P582": "2019-12-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Head of Administration of Tobolsk"
+      ],
+      "stated_as": "Head of Administration of Tobolsk"
+    },
+    "P580": "2019-05-28",
+    "P1365": {
+      "links": [
+        "Ivan Olenberg"
+      ],
+      "stated_as": "Ivan Olenberg"
+    },
+    "P582": "2019-12-23",
+    "P1366": {
+      "links": [
+        "Maksim Afanasyev"
+      ],
+      "stated_as": "Maksim Afanasyev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Kaluga Oblast"
+      ],
+      "stated_as": "First Deputy Governor of Kaluga Oblast"
+    },
+    "P580": "2019-12-23",
+    "P1365": {
+      "links": [
+        "Dmitry Denisov"
+      ],
+      "stated_as": "Dmitry Denisov"
+    },
+    "P582": "2020-06-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tomsk Oblast"
+      ],
+      "stated_as": "Governor of Tomsk Oblast"
+    },
+    "P580": "2022-05-10",
+    "P1365": {
+      "links": [
+        "Sergey Zhvachkin"
+      ],
+      "stated_as": "Sergey Zhvachkin"
+    }
+  }
+]
