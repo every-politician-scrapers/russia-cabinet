@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Regional Development"
+    },
+    "P580": "2007-09-24",
+    "P1365": {
+      "links": [
+        "Vladimir Anatolyevich Yakovlev"
+      ],
+      "stated_as": "Vladimir Yakovlev"
+    },
+    "P582": "2008-10-14",
+    "P1366": {
+      "links": [
+        "Viktor Basargin"
+      ],
+      "stated_as": "Viktor Basargin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "Deputy Prime Minister of Russia"
+    },
+    "P580": "2008-10-14",
+    "P582": "2020-01-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Kremlin Chief of Staff"
+      ],
+      "stated_as": "Deputy Kremlin Chief of Staff"
+    },
+    "P580": "2020-01-24"
+  }
+]

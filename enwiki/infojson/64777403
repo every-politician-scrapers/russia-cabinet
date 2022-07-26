@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Finance of the Sakha Republic"
+    },
+    "P580": "2004-12-29",
+    "P582": "2007-08-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Yakutsk"
+      ],
+      "stated_as": "5th Mayor of Yakutsk"
+    },
+    "P580": "2012-03-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Yury Zabolev"
+    },
+    "P582": "2018-05-28",
+    "P1366": {
+      "links": [
+        "Sardana Avksentyeva"
+      ],
+      "stated_as": "Sardana Avksentyeva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Head of the Sakha Republic"
+      ],
+      "stated_as": "4th Head of the Sakha Republic"
+    },
+    "P1545": "4",
+    "P580": "2018-05-28",
+    "P1365": {
+      "links": [
+        "Yegor Borisov"
+      ],
+      "stated_as": "Yegor Borisov"
+    }
+  }
+]

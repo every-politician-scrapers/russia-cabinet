@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Industry and Trade (Russia)"
+      ],
+      "stated_as": "Minister of Industry and Trade"
+    },
+    "P580": "2012-05-21",
+    "P1365": {
+      "links": [
+        "Viktor Khristenko"
+      ],
+      "stated_as": "Viktor Khristenko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "Deputy Prime Minister of Russia for Defence and Space Industry"
+    },
+    "P580": "2022-07-15",
+    "P1365": {
+      "links": [
+        "Yury Borisov"
+      ],
+      "stated_as": "Yury Borisov"
+    }
+  }
+]

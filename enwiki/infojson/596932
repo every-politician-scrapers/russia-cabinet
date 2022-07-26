@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Energy (Russia)"
+      ],
+      "stated_as": "Minister of Fuel and Energy"
+    },
+    "P580": "1997-11-20",
+    "P1365": {
+      "links": [
+        "Boris Nemtsov"
+      ],
+      "stated_as": "Boris Nemtsov"
+    },
+    "P582": "1998-03-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Viktor Ott (acting) Sergey Generalov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "First Deputy Prime Minister"
+    },
+    "P580": "1998-03-23",
+    "P1365": {
+      "links": [
+        "Boris Nemtsov"
+      ],
+      "stated_as": "Boris Nemtsov"
+    },
+    "P582": "1998-04-24",
+    "P1366": {
+      "links": [
+        "Yuri Maslyukov"
+      ],
+      "stated_as": "Yuri Maslyukov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Russia"
+      ],
+      "stated_as": "Prime Minister of Russia"
+    },
+    "P580": "1998-03-23",
+    "P1365": {
+      "links": [
+        "Viktor Chernomyrdin"
+      ],
+      "stated_as": "Viktor Chernomyrdin"
+    },
+    "P582": "1998-08-23",
+    "P1366": {
+      "links": [
+        "Yevgeny Primakov"
+      ],
+      "stated_as": "Viktor Chernomyrdin (Acting)\nYevgeny Primakov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Volga Federal District"
+      ],
+      "stated_as": "Presidential Envoy to the Volga Federal District"
+    },
+    "P580": "2000-05-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Post established"
+    },
+    "P582": "2005-11-14",
+    "P1366": {
+      "links": [
+        "Aleksandr Konovalov (politician, born 1968)"
+      ],
+      "stated_as": "Aleksandr Konovalov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Presidential Administration of Russia"
+      ],
+      "stated_as": "First Deputy Chief of Staff of the Presidential Administration of Russia"
+    },
+    "P580": "2016-10-05",
+    "P1365": {
+      "links": [
+        "Vyacheslav Volodin"
+      ],
+      "stated_as": "Vyacheslav Volodin"
+    }
+  }
+]

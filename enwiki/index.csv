@@ -1,111 +1,111 @@
-pageid,title
-32817,Vladimir Putin
-193602,Igor Ivanov
-541346,Sergey Lavrov
-596932,Sergey Kiriyenko
-647880,Ramzan Kadyrov
-857985,Sergei Shoigu
-1588515,Nikolai Patrushev
-1807880,Dmitry Kozak
-1919064,Boris Gryzlov
-2279098,Yury Trutnev
-2754185,Sergey Sobyanin
-3162905,Dmitry Medvedev
-6476246,Valentina Matviyenko
-6476312,Oleg Kozhemyako
-9317521,Alexander Bortnikov
-9357259,Konstantin Chuychenko
-9526993,Sergey Naryshkin
-13419636,Elvira Nabiullina
-13419811,Tatyana Golikova
-14279152,Sergei Storchak
-18764787,Stanislav Osadchiy
-19494464,Roman Kopin
-23210498,Valery Tereshchenko (diplomat)
-26849794,Alexander Beglov
-26885277,Natalya Komarova
-26901687,Alexey Gromov
-31448264,Aleksandr Avdeyev (politician)
-32671558,Vyacheslav Volodin
-33238136,Anton Siluanov
-33652492,Batu Khasikov
-34204750,Anton Vaino
-34902897,Vitaly Savelyev
-35892177,Vladimir Kolokoltsev
-36107568,Denis Manturov
-36242958,Alexander Novak
-36245360,Andrey Belousov
-36694837,Marat Khusnullin
-37587470,Valery Gerasimov
-37641365,Andrey Vorobyov
-37897430,Dmitry Chernyshenko
-40077773,Anatoly Antonov
-42066026,Sergey Aksyonov
-47833455,Veniamin Kondratyev
-48227108,Maria Zakharova
-49428168,Aleksey Dyumin
-50712121,Oleg Matytsin
-50815177,Nikolay N. Udovichenko
-51094244,Mikhail Degtyarev
-53134298,Alexey Tsydenov
-53224810,Murat Kumpilov
-53270459,Pyotr Ilyichev
-53510767,Vasily Nebenzya
-53890218,Eleonora Mitrofanova
-53932845,Anton Alikhanov
-55357133,Andrey Nikitin (politician)
-57117164,Alexander Grushko
-57462178,Dmitry Patrushev
-57805587,Alexei Yerkhov
-58305741,Gleb Nikitin
-60339338,Oleg Khorokhordin
-60417181,Radiy Khabirov
-61548292,Mahmud-Ali Kalimatov
-62277905,Andrey Kelin
-62836433,Mikhail Mishustin
-62888702,Mikhail Murashko
-62888805,Olga Lyubimova
-62888841,Maxut Shadayev
-62888924,Alexander Kozlov
-63166269,Dmitry Makhonin
-63198586,Anton Kotyakov
-63198745,Maxim Reshetnikov
-63199218,Sergey Kravtsov (politician)
-63208098,Valery Falkov
-63208298,Viktoria Abramchenko
-63839131,Roman Starovoyt
-63901243,Mikhail Razvozhayev
-63918495,Aleksandr Osipov (politician)
-64199738,Igor Krasnov
-64623302,Dmitry Grigorenko
-64777403,Aysen Nikolayev
-65809899,Irek Faizullin
-65814923,Sergey Tsivilyov
-65913218,Vera Shcherbina
-66114834,Andrey Chibis
-66225231,Artyom Zdunov
-66243477,Aleksey Chekunkov
-66292334,Yevgeny Kuyvashev
-66435768,Sergey Melikov
-66963678,Vladislav Shapsha
-66979206,Oleg Nikolayev (politician)
-67064358,Vyacheslav Gladkov
-67071872,Vladimir Sipyagin
-67146190,Aleksey Teksler
-67389503,Vladislav Khovalyg
-67489639,Igor Rudenya
-68807880,Nikolay Shulginov
-69009220,Mikhail Yevrayev
-69339424,Yury Gotsanyuk
-69692526,Valery Limarenko
-69982811,Yury Anatoliyevich Filatov
-70057253,Aleksandr Brechalov
-70117623,Denis Pasler
-70379655,Alexey Overchuk
-70749157,Vladimir Mazur
-70749829,Roman Busargin
-70757767,Yury Zaitsev (politician)
-70757873,"Aleksandr Sokolov (politician, born 1970)"
-70768411,Pavel Malkov
-70872831,Aleksandr Kurenkov
-71291916,Mikhail Vedernikov
+pageid,title,wikidata,label
+32817,Vladimir Putin,Q7747,Vladimir Putin
+193602,Igor Ivanov,Q378027,Igor Ivanov
+541346,Sergey Lavrov,Q58217,Sergey Lavrov
+596932,Sergey Kiriyenko,Q313915,Sergey Kiriyenko
+647880,Ramzan Kadyrov,Q217115,Ramzan Kadyrov
+857985,Sergei Shoigu,Q32024,Sergey Shoygu
+1588515,Nikolai Patrushev,Q446865,Nikolai Patrushev
+1807880,Dmitry Kozak,Q714330,Dmitry Kozak
+1919064,Boris Gryzlov,Q188296,Boris Gryzlov
+2279098,Yury Trutnev,Q1320356,Yuri Trutnev
+2754185,Sergey Sobyanin,Q319497,Sergey Sobyanin
+3162905,Dmitry Medvedev,Q23530,Dmitry Medvedev
+6476246,Valentina Matviyenko,Q182654,Valentina Matviyenko
+6476312,Oleg Kozhemyako,Q4226336,Oleg Kozhemyako
+9317521,Alexander Bortnikov,Q516824,Alexander Bortnikov
+9357259,Konstantin Chuychenko,Q4517811,Konstantin Chuychenko
+9526993,Sergey Naryshkin,Q983654,Sergey Naryshkin
+13419636,Elvira Nabiullina,Q74746,Elvira Nabiullina
+13419811,Tatyana Golikova,Q260432,Tatyana Golikova
+14279152,Sergei Storchak,Q4443185,Sergei Storchak
+18764787,Stanislav Osadchiy,Q768958,Stanislav Osadchiy
+19494464,Roman Kopin,Q2027264,Roman Kopin
+23210498,Valery Tereshchenko (diplomat),Q15074536,Valery Tereshchenko
+26849794,Alexander Beglov,Q1960874,Alexander Beglov
+26885277,Natalya Komarova,Q216535,Natalya Komarova
+26901687,Alexey Gromov,Q4150188,Alexey Gromov
+31448264,Aleksandr Avdeyev (politician),Q928083,Alexander Avdeyev
+32671558,Vyacheslav Volodin,Q982461,Vyacheslav Volodin
+33238136,Anton Siluanov,Q589645,Anton Siluanov
+33652492,Batu Khasikov,Q4496447,Batu Khasikov
+34204750,Anton Vaino,Q3739455,Anton Vaino
+34902897,Vitaly Savelyev,Q4403799,Vitaly Savelyev
+35892177,Vladimir Kolokoltsev,Q1344473,Vladimir Kolokoltsev
+36107568,Denis Manturov,Q2329960,Denis Manturov
+36242958,Alexander Novak,Q4321847,Alexander Novak
+36245360,Andrey Belousov,Q4082839,Andrey Belousov
+36694837,Marat Khusnullin,Q1153835,Marat Khusnullin
+37587470,Valery Gerasimov,Q36073,Valery Gerasimov
+37641365,Andrey Vorobyov,Q502185,Andrey Vorobyov
+37897430,Dmitry Chernyshenko,Q4514292,Dmitry Chernyshenko
+40077773,Anatoly Antonov,Q4067324,Anatoly Antonov
+42066026,Sergey Aksyonov,Q15838823,Sergey Aksyonov
+47833455,Veniamin Kondratyev,Q19908443,Veniamin Kondratyev
+48227108,Maria Zakharova,Q20812953,Maria Zakharova
+49428168,Aleksey Dyumin,Q2425119,Alexey Dyumin
+50712121,Oleg Matytsin,Q26255418,Oleg Matytsin
+50815177,Nikolay N. Udovichenko,Q24668916,Nikolay N. Udovichenko
+51094244,Mikhail Degtyarev,Q4156642,Mikhail Degtyarev
+53134298,Alexey Tsydenov,Q28729008,Aleksey Tsydenov
+53224810,Murat Kumpilov,Q4246991,Murat Kumpilov
+53270459,Pyotr Ilyichev,Q28819033,Pyotr Ilichov
+53510767,Vasily Nebenzya,Q1000053,Vasily Nebenzya
+53890218,Eleonora Mitrofanova,Q3050754,Eleonora Mitrofanova
+53932845,Anton Alikhanov,Q27122158,Anton Alikhanov
+55357133,Andrey Nikitin (politician),Q16680743,Andrey Nikitin
+57117164,Alexander Grushko,Q3658303,Alexander Grushko
+57462178,Dmitry Patrushev,Q18043712,Dmitry Patrushev
+57805587,Alexei Yerkhov,Q30880268,Alexei Yerkhov
+58305741,Gleb Nikitin,Q19910481,Gleb Nikitin
+60339338,Oleg Khorokhordin,Q62168639,Oleg Khorokhordin
+60417181,Radiy Khabirov,Q4494406,Radiy Khabirov
+61548292,Mahmud-Ali Kalimatov,Q64831217,Mahmud-Ali Kalimatov
+62277905,Andrey Kelin,Q15845826,Andrey Kelin
+62836433,Mikhail Mishustin,Q4298520,Mikhail Mishustin
+62888702,Mikhail Murashko,Q83379002,Mikhail Murashko
+62888805,Olga Lyubimova,Q83375533,Olga Lyubimova
+62888841,Maxut Shadayev,Q83379508,Maxut Shadayev
+62888924,Alexander Kozlov,Q16664506,Alexander Kozlov
+63166269,Dmitry Makhonin,Q84500260,Dmitry Makhonin
+63198586,Anton Kotyakov,Q83382249,Anton Kotyakov
+63198745,Maxim Reshetnikov,Q28681100,Maxim Reshetnikov
+63199218,Sergey Kravtsov (politician),Q55653685,Sergey Kravtsov
+63208098,Valery Falkov,Q15066166,Valery Falkov
+63208298,Viktoria Abramchenko,Q39390389,Viktoria Abramchenko
+63839131,Roman Starovoyt,Q22283716,Roman Starovoit
+63901243,Mikhail Razvozhayev,Q60828711,Mikhail Razvozhayev
+63918495,Aleksandr Osipov (politician),Q60829953,Aleksandr Osipov
+64199738,Igor Krasnov,Q19908285,Igor Krasnov
+64623302,Dmitry Grigorenko,Q83380758,Dmitry Grigorenko
+64777403,Aysen Nikolayev,Q15075401,Aysen Nikolayev
+65809899,Irek Faizullin,Q101444618,Irek Faizullin
+65814923,Sergey Tsivilyov,Q51203301,Sergey Tsivilyov
+65913218,Vera Shcherbina,Q56856429,Vera Scherbina
+66114834,Andrey Chibis,Q62167639,Andrey Chibis
+66225231,Artyom Zdunov,Q48076445,Artem Zdunov
+66243477,Aleksey Chekunkov,Q101627335,Alexey Chekunkov
+66292334,Yevgeny Kuyvashev,Q4245626,Evgeny Kuyvashev
+66435768,Sergey Melikov,Q16941911,Sergey Melikov
+66963678,Vladislav Shapsha,Q60830932,Vladislav Shapsha
+66979206,Oleg Nikolayev (politician),Q62841889,Oleg Nikolaev
+67064358,Vyacheslav Gladkov,Q102076857,Вячеслав Гладков
+67071872,Vladimir Sipyagin,Q56708540,Vladimir Sipyagin
+67146190,Aleksey Teksler,Q62106665,Alexey Texler
+67389503,Vladislav Khovalyg,Q4498594,Vladislav Hovalõg
+67489639,Igor Rudenya,Q5465510,Igor Rudenya
+68807880,Nikolay Shulginov,Q28664969,Nikolay Shulginov
+69009220,Mikhail Yevrayev,Q108881993,Mikhail Yevrayev
+69339424,Yury Gotsanyuk,Q68075979,Yury Gotsanyuk
+69692526,Valery Limarenko,Q60832553,Valery Limarenko
+69982811,Yury Anatoliyevich Filatov,Q18741066,Yury Anatoliyevich Filatov
+70057253,Aleksandr Brechalov,Q19818042,Aleksandr Brechalov
+70117623,Denis Pasler,Q4346517,Denis Pasler
+70379655,Alexey Overchuk,Q83382151,Alexey Overchuk
+70749157,Vladimir Mazur,Q15071476,Vladimir Mazur
+70749829,Roman Busargin,Q4476258,Roman Busargin
+70757767,Yury Zaitsev (politician),Q111956526,Yriy Zaytsev
+70757873,"Aleksandr Sokolov (politician, born 1970)",Q111954637,Aleksandr Sokolov
+70768411,Pavel Malkov,Q111955504,Pavel Malkov
+70872831,Aleksandr Kurenkov,Q112119215,Alexander Kurenkov
+71291916,Mikhail Vedernikov,Q41809030,Mikhail Vedernikov

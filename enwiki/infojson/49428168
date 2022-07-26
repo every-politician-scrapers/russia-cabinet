@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Russia)"
+      ],
+      "stated_as": "Deputy Minister of Defense"
+    },
+    "P580": "2015-12-24",
+    "P582": "2016-02-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tula Oblast"
+      ],
+      "stated_as": "5th Governor of Tula Oblast"
+    },
+    "P580": "2016-09-22",
+    "P1365": {
+      "links": [
+        "Vladimir Gruzdev"
+      ],
+      "stated_as": "Vladimir Gruzdev"
+    }
+  }
+]

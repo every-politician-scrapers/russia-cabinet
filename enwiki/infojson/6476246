@@ -1,0 +1,111 @@
+[
+  {
+    "office": {
+      "links": [
+        "Russian Ambassador",
+        "Malta"
+      ],
+      "stated_as": "Russian Ambassador to Malta"
+    },
+    "P580": "1991",
+    "P582": "1995"
+  },
+  {
+    "office": {
+      "links": [
+        "Russian Ambassador",
+        "Greece"
+      ],
+      "stated_as": "Russian Ambassador to Greece"
+    },
+    "P580": "1997",
+    "P582": "1998"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Russia",
+        "Welfare"
+      ],
+      "stated_as": "Deputy Prime Minister of Russia\nfor Welfare"
+    },
+    "P580": "1998-09-24",
+    "P582": "2003-03-11"
+  },
+  {
+    "office": {
+      "links": [
+        "North Western  Federal District"
+      ],
+      "stated_as": "2nd Presidential Envoy to the Northwestern Federal District"
+    },
+    "P580": "2003-03-11",
+    "P1365": {
+      "links": [
+        "Viktor Cherkesov"
+      ],
+      "stated_as": "Viktor Cherkesov"
+    },
+    "P582": "2003-10-15",
+    "P1366": {
+      "links": [
+        "Ilya Klebanov"
+      ],
+      "stated_as": "Ilya Klebanov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Saint Petersburg"
+      ],
+      "stated_as": "3rd Governor of Saint Petersburg"
+    },
+    "P580": "2003-10-15",
+    "P1365": {
+      "links": [
+        "Vladimir Anatolyevich Yakovlev"
+      ],
+      "stated_as": "Vladimir Yakovlev"
+    },
+    "P582": "2011-08-22",
+    "P1366": {
+      "links": [
+        "Georgy Poltavchenko"
+      ],
+      "stated_as": "Georgy Poltavchenko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federation Council (Russia)",
+        "Saint Petersburg"
+      ],
+      "stated_as": "Russian Federation Senator\nfrom Saint Petersburg"
+    },
+    "P580": "2011-08-31",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vladimir Barkanov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Federation Council (Russia)"
+      ],
+      "stated_as": "4th Chair of the Federation Council"
+    },
+    "P580": "2011-09-21",
+    "P1365": {
+      "links": [
+        "Aleksander Torshin",
+        "Sergey Mironov"
+      ],
+      "stated_as": "Aleksander Torshin (acting)\nSergey Mironov"
+    }
+  }
+]

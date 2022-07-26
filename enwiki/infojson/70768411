@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal State Statistics Service (Russia)"
+      ],
+      "stated_as": "Head of the Federal State Statistics Service"
+    },
+    "P580": "2018-12-14",
+    "P1365": {
+      "links": [
+        "Aleksandr Surinov"
+      ],
+      "stated_as": "Aleksandr Surinov"
+    },
+    "P582": "2022-05-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sergey Galkin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Ryazan Oblast"
+      ],
+      "stated_as": "Governor of Ryazan Oblast (acting)"
+    },
+    "P580": "2022-05-10",
+    "P1365": {
+      "links": [
+        "Nikolay Lyubimov"
+      ],
+      "stated_as": "Nikolay Lyubimov"
+    }
+  }
+]

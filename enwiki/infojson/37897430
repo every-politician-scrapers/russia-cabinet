@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "President of the Organising Committee for the Olympic Games",
+        "Sochi 2014 Olympic and Paralympic Organizing Committee"
+      ],
+      "stated_as": "President & of the Sochi 2014 Olympic and Paralympic Organizing Committee"
+    },
+    "P580": "2010-02-28",
+    "P1365": {
+      "links": [
+        "John Furlong (sports administrator)"
+      ],
+      "stated_as": "John Furlong"
+    },
+    "P582": "2014-02-23",
+    "P1366": {
+      "links": [
+        "Cho Yang-ho"
+      ],
+      "stated_as": "Cho Yang-ho"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "Deputy Prime Minister of Russia for Tourism, Sport, Culture and Communications"
+    },
+    "P580": "2020-01-21",
+    "P1365": {
+      "links": [
+        "Olga Golodets"
+      ],
+      "stated_as": "Olga Golodets"
+    }
+  }
+]

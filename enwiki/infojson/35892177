@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Moscow City Police"
+      ],
+      "stated_as": "Commissioner of Moscow City Police"
+    },
+    "P580": "2009-09-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alexander Ivanov"
+    },
+    "P582": "2012-05-21",
+    "P1366": {
+      "links": [
+        "Viktor Golovanov"
+      ],
+      "stated_as": "Viktor Golovanov (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Internal Affairs (Russia)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2012-05-21",
+    "P1365": {
+      "links": [
+        "Rashid Nurgaliyev"
+      ],
+      "stated_as": "Rashid Nurgaliyev"
+    }
+  }
+]

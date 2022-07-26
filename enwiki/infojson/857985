@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Emergency Situations (Russia)"
+      ],
+      "stated_as": "Minister of Emergency Situations"
+    },
+    "P580": "1991-04-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2012-05-11",
+    "P1366": {
+      "links": [
+        "Vladimir Puchkov"
+      ],
+      "stated_as": "Vladimir Puchkov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Unity (Russian political party)"
+      ],
+      "stated_as": "Leader of Unity"
+    },
+    "P580": "1999-10-15",
+    "P582": "2001-12-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Russia"
+      ],
+      "stated_as": "Deputy Prime Minister of Russia"
+    },
+    "P580": "2000-01-10",
+    "P582": "2000-05-18"
+  },
+  {
+    "office": {
+      "links": [
+        "United Russia"
+      ],
+      "stated_as": "Leader of United Russia"
+    },
+    "P580": "2001-12-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party established"
+    },
+    "P582": "2004-11-27",
+    "P1366": {
+      "links": [
+        "Boris Gryzlov"
+      ],
+      "stated_as": "Boris Gryzlov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Moscow Oblast"
+      ],
+      "stated_as": "Governor of Moscow Oblast"
+    },
+    "P580": "2012-05-11",
+    "P1365": {
+      "links": [
+        "Boris Gromov"
+      ],
+      "stated_as": "Boris Gromov"
+    },
+    "P582": "2012-11-06",
+    "P1366": {
+      "links": [
+        "Ruslan Tsalikov"
+      ],
+      "stated_as": "Ruslan Tsalikov (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Security Council of Russia"
+      ],
+      "stated_as": "Member of the Security Council of Russia"
+    },
+    "P580": "2012-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Russia)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2012-11-06",
+    "P1365": {
+      "links": [
+        "Anatoliy Serdyukov"
+      ],
+      "stated_as": "Anatoliy Serdyukov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Council of Ministers of Defense of the CIS"
+      ],
+      "stated_as": "Chairman of the Council of Ministers of Defense of the CIS"
+    },
+    "P580": "2012-12-11",
+    "P1365": {
+      "links": [
+        "Anatoliy Serdyukov"
+      ],
+      "stated_as": "Anatoliy Serdyukov"
+    }
+  }
+]

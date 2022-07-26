@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Head of the Presidential Administration of the Bashkortostan"
+    },
+    "P1545": "5",
+    "P580": "2003-09-14",
+    "P582": "2008-07-05",
+    "P1366": {
+      "links": [
+        "Azamat Talgatovich Sagitov"
+      ],
+      "stated_as": "Azamat Talgatovich Sagitov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Head of Department of President of the Russian Federation on domestic policy"
+    },
+    "P1545": "4",
+    "P580": "2009-09-23",
+    "P1365": {
+      "links": [
+        "Ildar Raisovich Gimaev"
+      ],
+      "stated_as": "Ildar Raisovich Gimaev"
+    },
+    "P582": "2016-09-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Krasnogorsk, Moscow Oblast"
+      ],
+      "stated_as": "Head of urban district Krasnogorsk"
+    },
+    "P580": "2017-03-28",
+    "P582": "2018-10-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Head of the Republic of Bashkortostan"
+      ],
+      "stated_as": "Head of the Republic of Bashkortostan"
+    },
+    "P580": "2018-10-11",
+    "P1365": {
+      "links": [
+        "Rustem Khamitov"
+      ],
+      "stated_as": "Rustem Khamitov"
+    }
+  }
+]
