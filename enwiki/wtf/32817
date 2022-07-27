@@ -6292,7 +6292,7 @@
         {
           "sentences": [
             {
-              "text": "Following the pro-western Revolution of Dignity in Ukraine in 2014, Putin had had seized eastern regions of the nation and annexed Crimea.",
+              "text": "Following the pro-western Revolution of Dignity in Ukraine in 2014, Putin had seized eastern regions of the nation and annexed Crimea.",
               "links": [
                 {
                   "type": "internal",
@@ -6458,7 +6458,7 @@
               "text": "Putin promised not to carry out new military initiatives near Ukraine."
             },
             {
-              "text": "On 21 February, Putin signed a decree recognizing the two self proclaimed separatist republics in Donbas as independent states and addressed the nation on this solemn occasion.",
+              "text": "On 21 February, Putin signed a decree recognizing the two self proclaimed separatist republics in Donbas as independent states and made an address regarding this.",
               "links": [
                 {
                   "text": "decree recognizing",
@@ -6475,7 +6475,7 @@
                   "page": "Donbas"
                 },
                 {
-                  "text": "addressed the nation on this solemn occasion",
+                  "text": "an address regarding this",
                   "type": "internal",
                   "page": "Address concerning the events in Ukraine"
                 }
@@ -6898,15 +6898,15 @@
         {
           "sentences": [
             {
-              "text": "In May, Putin issued a decree to simplify the process for residents in the Russian-occupied areas of Kherson oblast and Zaporizhia oblast to apply for Russian citizenship and Russian passports.",
+              "text": "In May, Putin issued a decree to simplify the process for residents in the Russian-occupied areas of Kherson Oblast and Zaporizhzhia Oblast to apply for Russian citizenship and Russian passports.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Kherson oblast"
+                  "page": "Kherson Oblast"
                 },
                 {
                   "type": "internal",
-                  "page": "Zaporizhia oblast"
+                  "page": "Zaporizhzhia Oblast"
                 }
               ]
             }
@@ -6951,11 +6951,11 @@
               ]
             },
             {
-              "text": "He denied accusations that his armed forces are blocking Ukrainian grain exports from the Black Sea even while his armed forces bombed the ports of Odessa and Mykolaiv.",
+              "text": "He denied accusations that his armed forces are blocking Ukrainian grain exports from the Black Sea even while his armed forces bombed the ports of Odesa and Mykolaiv.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Odessa"
+                  "page": "Odesa"
                 },
                 {
                   "type": "internal",
@@ -6991,7 +6991,7 @@
         {
           "sentences": [
             {
-              "text": "Faced with significant battlefield losses, in early June Putin signed a decree that all 86 republics under his command would need to provide at least a battalion of 400 soldiers to the war in Ukraine."
+              "text": "Faced with significant battlefield losses, in early June Putin signed a decree that all 86 federal subjects under his command would need to provide at least a battalion of 400 soldiers to the war in Ukraine."
             }
           ]
         }
@@ -17212,7 +17212,7 @@
               "text": "The statement was made because of increasing unconfirmed media speculation about Putin's health."
             },
             {
-              "text": "Burns had previously been U.S. Ambassador to Russia, and had personally observed Putin for over two decades.",
+              "text": "Burns had previously been U.S. Ambassador to Russia, and had personally observed Putin for over two decades, including a personal meeting in November 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -17221,7 +17221,7 @@
               ]
             },
             {
-              "text": "The Kremlin also dismissed rumours of Putin's ill-health as fake."
+              "text": "A Kremlin spokesperson also dismissed rumours of Putin's bad health as fake."
             }
           ]
         },
