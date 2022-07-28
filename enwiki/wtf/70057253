@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Aleksandr Vladimirovich Brechalov (Russian: Александр Владимирович Бречалов; born on 18 November 1973), is a Russian politician, who is currently the 3rd Head of the Udmurt Republic since 18 September 2017.",
+              "text": "Aleksandr Vladimirovich Brechalov (Александр Владимирович Бречалов; born on 18 November 1973), is a Russian politician, who is currently the 3rd Head of the Udmurt Republic since 18 September 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -112,13 +112,7 @@
             "text": "Yevgeny Belikhov"
           },
           "successor1": {
-            "text": "Vyacheslav Bocharov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vyacheslav Bocharov"
-              }
-            ]
+            "text": "Vyacheslav Bocharov"
           },
           "birth_name": {
             "text": "Aleksandr Vladimirovich Brechalov"

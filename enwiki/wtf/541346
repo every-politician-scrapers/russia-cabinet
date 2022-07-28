@@ -2247,6 +2247,13 @@
               "text": "On 20 July 2022 Lavrov publicly confirmed that Russia had as a goal not only to \"liberate\" the Donbas region, but also to occupy the Kherson region, the Zaporizhzhia region and several other territories, supposedly as a response to Ukraine receiving weapons support from abroad."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 July, he said: ”We are determined to help the people of eastern Ukraine to liberate themselves from the burden of this absolutely unacceptable regime,”"
+            }
+          ]
         }
       ],
       "images": [
@@ -2448,6 +2455,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "title": "Russia seeks regime change in Ukraine, says Kremlin's top diplomat",
+          "author1": "Susie Blann",
+          "url": "https://www.smh.com.au/world/europe/russia-seeks-regime-change-in-ukraine-says-kremlin-s-top-diplomat-20220726-p5b4i5.html",
+          "access-date": "27 July 2022",
+          "date": "26 July 2022",
+          "template": "citation",
+          "type": "news"
         },
         {
           "title": "Watch: U.N. Envoys Stage Walkout As Russia's Lavrov Begins Address",
