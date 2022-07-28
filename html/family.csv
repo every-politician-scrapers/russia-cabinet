@@ -87,9 +87,9 @@ Q2072843,Vasyl Dzharty,child,Q14491528,Джарти Вікторія Васил�
 Q20812953,Maria Zakharova,spouse,Q110997152,Andrei Makarov
 Q2107072,Lyudmila Narusova,child,Q287099,Kseniya Sobchak
 Q2107072,Lyudmila Narusova,spouse,Q334294,Anatoly Sobchak
-Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
-Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
-Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
+Q217115,Ramazan Kadyrov,father,Q297006,Akhmad Kadyrov
+Q217115,Ramazan Kadyrov,mother,Q21887442,Aymani Kadyrova
+Q217115,Ramazan Kadyrov,relative,Q4207417,Khalid Kadyrov
 Q233812,Irina Rodnina,child,Q4738675,Alyona Minkovski
 Q233812,Irina Rodnina,spouse,Q956655,Alexander Gennadiyevich Zaitsev
 Q23530,Dmitry Medvedev,spouse,Q234259,Svetlana Medvedeva
@@ -109,7 +109,7 @@ Q28497365,Elmira Glubokovskaya,child,Q108691440,Roza Chemeris
 Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
 Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
 Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
-Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
+Q297006,Akhmad Kadyrov,child,Q217115,Ramazan Kadyrov
 Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
 Q3050754,Eleonora Mitrofanova,sibling,Q4296811,Aleksey Mitrofanov
 Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
