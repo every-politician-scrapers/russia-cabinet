@@ -396,6 +396,25 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2022 Russian invasion of Ukraine, the United States imposed sanctions against Patrushev.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                },
+                {
+                  "text": "United States imposed sanctions",
+                  "type": "internal",
+                  "page": "United States sanctions"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -447,6 +466,16 @@
           "website": "The Moscow Times",
           "language": "en",
           "access-date": "January 21, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "US Department of the Treasury's Office of Foreign Assets Control (OFAC)",
+          "title": "Russia-related Designations; Belarus Designations; Issuance of Russia-related Directive 2 and 3; Issuance of Russia-related and Belarus General Licenses; Publication of new and updated Frequently Asked Questions",
+          "url": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220224",
+          "access-date": "1 March 2022",
+          "website": "U.S. Department of the Treasury",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }
