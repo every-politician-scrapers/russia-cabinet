@@ -366,7 +366,7 @@
         {
           "sentences": [
             {
-              "text": "On 9 July 2007 he submitted his resignation."
+              "text": "On 9 July 2007, he submitted his resignation."
             },
             {
               "text": "On 18 July, President Putin accepted Ivanov's resignation and appointed Valentin Sobolev as acting secretary,",
@@ -417,7 +417,7 @@
         {
           "sentences": [
             {
-              "text": "In 2011 Ivanov became a member of the advisory council of The Hague Institute for Global Justice and in 2014 worked for The Moscow Times.",
+              "text": "In 2011, Ivanov became a member of the advisory council of The Hague Institute for Global Justice and in 2014 worked for The Moscow Times.",
               "links": [
                 {
                   "type": "internal",

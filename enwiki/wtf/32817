@@ -109,7 +109,11 @@
                   "podpolkovnik"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He moved to Moscow in 1996 to join the administration of president Boris Yeltsin.",
               "links": [
@@ -330,9 +334,14 @@
                   "page": "Reactions to the 2022 Russian invasion of Ukraine"
                 },
                 {
+                  "text": "expanded sanctions",
+                  "type": "internal",
+                  "page": "International sanctions during the 2022 Russian invasion of Ukraine"
+                },
+                {
                   "text": "war crime charges",
                   "type": "internal",
-                  "page": "War crimes in the 2022 Russian invasion of Ukraine"
+                  "page": "Ukraine v. Russian Federation (2022)"
                 }
               ]
             }
@@ -7174,10 +7183,10 @@
         {
           "title": "What the West Will Never Understand About Putin's Ukraine Obsession",
           "url": "https://time.com/6140996/putin-ukraine-threats/",
-          "work": "Time",
+          "magazine": "Time",
           "date": "22 January 2022",
           "template": "citation",
-          "type": "news"
+          "type": "magazine"
         },
         {
           "title": "No need for additional mobilization for special military operation, lawmaker assures",
@@ -8765,6 +8774,24 @@
                 {
                   "type": "internal",
                   "page": "Jehovah's Witnesses"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One of the 2020 amendments to the Constitution of Russia has a Constitutional references to God.",
+              "links": [
+                {
+                  "text": "2020 amendments to the Constitution of Russia",
+                  "type": "internal",
+                  "page": "2020 amendments to the Constitution of Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Constitutional references to God"
                 }
               ]
             }
@@ -19355,6 +19382,7 @@
             "portal3": "Russia",
             "portal4": "Soviet Union",
             "portal5": "Europe",
+            "portal6": "Asia",
             "template": "subject bar",
             "wikidata": "yes",
             "wikiquote": "yes",

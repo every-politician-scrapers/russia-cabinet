@@ -808,11 +808,6 @@
               "text": "Sources say the decision to invade Ukraine was made by Putin and a small group of war hawks around him, including Patrushev and Russia's Defence Minister Sergei Shoigu.",
               "links": [
                 {
-                  "text": "invade Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                },
-                {
                   "text": "war hawks",
                   "type": "internal",
                   "page": "war hawk"
@@ -842,7 +837,7 @@
                 {
                   "text": "broken into several states",
                   "type": "internal",
-                  "page": "Balkanized"
+                  "page": "Balkanization"
                 }
               ]
             },
@@ -853,6 +848,11 @@
                   "text": "denazification",
                   "type": "internal",
                   "page": "denazification"
+                },
+                {
+                  "text": "tropology",
+                  "type": "internal",
+                  "page": "tropology"
                 }
               ]
             },
