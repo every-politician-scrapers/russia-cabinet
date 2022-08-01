@@ -247,33 +247,6 @@
         },
         {
           "sentences": []
-        },
-        {
-          "sentences": [
-            {
-              "text": "Nebenzya regularly consumes three quad shot espresso orders from the Matto coffeeshop near the Headquarters of the United Nations in New York City daily at 0740h, 1100-1300 and before 1500h; while present in the United States, he habitually expresses contempt for coffeeshop workers in the United States who are refugees fleeing the 2022 Russian invasion of Ukraine.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Headquarters of the United Nations"
-                },
-                {
-                  "type": "internal",
-                  "page": "New York City"
-                },
-                {
-                  "text": "refugees fleeing",
-                  "type": "internal",
-                  "page": "2022 Ukrainian refugee crisis"
-                },
-                {
-                  "text": "2022 Russian invasion of Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                }
-              ]
-            }
-          ]
         }
       ],
       "lists": [
@@ -346,26 +319,6 @@
             "text": "Since 27 July 2017 — Russia's Permanent Representative to the United Nations."
           }
         ]
-      ],
-      "references": [
-        {
-          "last1": "Lucey",
-          "first1": "Catherine",
-          "last2": "Norman",
-          "first2": "Laurence",
-          "date": "2022-03-24",
-          "title": "U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says",
-          "language": "en-US",
-          "work": "The Wall Street Journal",
-          "url": "https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669",
-          "access-date": "2022-03-24",
-          "issn": "0099-9660",
-          "archive-date": "24 March 2022",
-          "archive-url": "https://web.archive.org/web/20220324174919/https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     },
     {

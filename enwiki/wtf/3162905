@@ -5426,6 +5426,23 @@
               "text": "Concluding: “The US and its useless stooges should remember the words of the Bible: ‘Judge not, lest you be judged; so that one day the great day of His wrath will not come to their house, and who can stand?,’”"
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "End of July 2022, Medvedev shared a map where Ukraine had been mostly absorbed by Russia, including the occupied areas sometimes referred to as the Luhansk People's Republic and Doetsk People's Republic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Luhansk People's Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Doetsk People's Republic"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -5517,6 +5534,12 @@
           "date": "7 July 2022",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
