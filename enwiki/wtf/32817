@@ -2183,6 +2183,12 @@
           "template": "main"
         },
         {
+          "list": [
+            "List of speeches given by Vladimir Putin"
+          ],
+          "template": "see also"
+        },
+        {
           "template": "putin sidebar"
         }
       ]
