@@ -1,0 +1,136 @@
+{
+  "title": "Yury Gotsanyuk",
+  "pageID": 69339424,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Prime Ministers of Crimea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yury Mikhailovich Gotsanyuk (Юрий Михайлович Гоцанюк, Юрій Михайлович Гоцанюк; born 18 July 1966) is the Prime Minister of the self-declared Republic of Crimea since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Republic of Crimea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yury Mikhailovich Gotsanyuk"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2022",
+          "template": "additional citations"
+        },
+        {
+          "year": "1966",
+          "month": "7",
+          "day": "18",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yury Gotsanyuk\nЮрий Гоцанюк"
+          },
+          "image": {
+            "text": "Yury Gotsanyuk (2019-08-09).jpg"
+          },
+          "office2": {
+            "text": "Prime Minister of Crimea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Crimea"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "19 September 2019"
+          },
+          "predecessor2": {
+            "text": "Sergey Aksyonov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergey Aksyonov"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Yury Mikhailovich Gotsanyuk"
+          },
+          "birth_date": {
+            "text": "July 18, 1966"
+          },
+          "birth_place": {
+            "text": "Novaya Derevnya, Ukrainian SSR, Soviet Union",
+            "links": [
+              {
+                "text": "Novaya Derevnya",
+                "type": "internal",
+                "page": "Novaya Derevnya (Crimea)"
+              },
+              {
+                "type": "internal",
+                "page": "Ukrainian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "United Russia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Russia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://see.news/russia-pm-of-crimea-yury-gotsanyuk-contracts-coronavirus/",
+          "title": "Russia: Crimea’s PM Gotsanyuk Contracts Coronavirus",
+          "author": "Omnia Ahmed",
+          "date": "27 December 2020",
+          "access-date": "22 November 2021",
+          "website": "see.news",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "russia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
